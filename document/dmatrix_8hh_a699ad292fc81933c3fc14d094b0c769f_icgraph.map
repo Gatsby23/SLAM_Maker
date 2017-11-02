@@ -1,0 +1,5 @@
+<map id="operator*" name="operator*">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_transform.html#aeab123d3253c21d3db1be97bf3f208b1" title="rtabmap::Transform::z" alt="" coords="135,5,287,31"/>
+<area shape="rect" id="node3" href="$struct_d_vector.html#a8053c320a5b5e12ca34c5cea010ecfa9" title="DVector\&lt; T \&gt;::operator[]" alt="" coords="130,55,293,80"/>
+<area shape="rect" id="node4" href="$class_d_matrix.html#ac6ab1ae77524ad34c15dccafce3a634f" title="DMatrix::operator[]" alt="" coords="146,104,277,129"/>
+</map>

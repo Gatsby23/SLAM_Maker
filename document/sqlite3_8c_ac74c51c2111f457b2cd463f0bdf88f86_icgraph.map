@@ -1,0 +1,11 @@
+<map id="sqlite3_status" name="sqlite3_status">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#abedb79a850df1979a693632736616f3f" title="sqlite3_memory_used" alt="" coords="171,79,322,104"/>
+<area shape="rect" id="node10" href="$sqlite3_8h.html#a50dc92faaad5a39762ede980fa3ad933" title="sqlite3_memory_highwater" alt="" coords="156,128,337,153"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#ab37b3a4d1652e3acb2c43d1252e6b852" title="sqlite3_soft_heap_limit64" alt="" coords="385,43,557,68"/>
+<area shape="rect" id="node8" href="$sqlite3_8h.html#a2288c95881ecca13d994e42b6a958906" title="sqlite3_os_end" alt="" coords="415,116,526,141"/>
+<area shape="rect" id="node4" href="$sqlite3_8h.html#a18c3472581de3072201723e798524fdc" title="sqlite3_soft_heap_limit" alt="" coords="605,5,762,31"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a111391370f58f8e6a6eca51fd34d62ed" title="sqlite3Pragma" alt="" coords="630,55,736,80"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a7c419a9b25711c666a9a2449ef377f14" title="yy_reduce" alt="" coords="810,55,892,80"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a0327d71a5fabe0b6a343d78a2602e72a" title="sqlite3Parser" alt="" coords="940,55,1040,80"/>
+<area shape="rect" id="node9" href="$sqlite3_8h.html#aeaf9947fe863ba3d3aca061475e3af2e" title="sqlite3_shutdown" alt="" coords="621,116,745,141"/>
+</map>

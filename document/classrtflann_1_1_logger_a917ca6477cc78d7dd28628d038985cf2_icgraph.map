@@ -1,0 +1,8 @@
+<map id="rtflann::Logger::instance" name="rtflann::Logger::instance">
+<area shape="rect" id="node2" href="$classrtflann_1_1_logger.html#afdc589cf244fbfb9326b4f6f6b9176f3" title="rtflann::Logger::setLevel" alt="" coords="235,8,400,33"/>
+<area shape="rect" id="node4" href="$classrtflann_1_1_logger.html#af2d74935a44b6372d25eadbb38b434f5" title="rtflann::Logger::getLevel" alt="" coords="235,59,400,84"/>
+<area shape="rect" id="node6" href="$classrtflann_1_1_logger.html#ac8769befb07887c6d7f9853112a711e5" title="rtflann::Logger::setDestination" alt="" coords="218,108,417,133"/>
+<area shape="rect" id="node7" href="$classrtflann_1_1_logger.html#a711ed204d485781bf0732e45aba8411f" title="rtflann::Logger::log" alt="" coords="251,157,384,183"/>
+<area shape="rect" id="node3" href="$namespacertflann.html#ab8fbaf802a2016c0f473fe60d564c96a" title="rtflann::log_verbosity" alt="" coords="472,5,617,31"/>
+<area shape="rect" id="node5" href="$classrtflann_1_1_autotuned_index.html#a739dbf291086031a75a516c4e6fadc1b" title="rtflann::AutotunedIndex\l::buildIndex" alt="" coords="465,55,624,93"/>
+</map>

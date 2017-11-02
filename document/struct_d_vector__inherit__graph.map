@@ -1,0 +1,4 @@
+<map id="DVector&lt; X &gt;" name="DVector&lt; X &gt;">
+<area shape="rect" id="node2" href="$struct_d_vector.html" title="{DVector\&lt; T \&gt;\n|# elems\l# size\l# shares\l|+ DVector()\l+ DVector()\l+ ~DVector()\l+ operator=()\l+ operator[]()\l+ operator[]()\l+ operator*()\l+ operator*()\l+ operator+()\l+ operator&#45;()\l+ dim()\l+ detach()\l+ I()\l}" alt="" coords="49,327,148,587"/>
+<area shape="rect" id="node3" href="$struct_a_i_s_navigation_1_1_pose3.html" title="{AISNavigation::Pose3\&lt; T \&gt;\n||+ Pose3()\l+ Pose3()\l+ Pose3()\l+ Pose3()\l+ operator const DVector\l\&lt; T \&gt; &amp;()\l+ operator DVector\&lt; T \&gt; &amp;()\l+ roll()\l+ pitch()\l+ yaw()\l+ x()\land 8 more...\l}" alt="" coords="5,636,191,856"/>
+</map>

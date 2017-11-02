@@ -1,0 +1,5 @@
+<map id="rtflann::serialization::make_binary_object" name="rtflann::serialization::make_binary_object">
+<area shape="rect" id="node2" href="$structrtflann_1_1_k_means_index_1_1_node.html#aa6bf31221a075928b791f7f754543eb3" title="rtflann::KMeansIndex\l::Node::serialize" alt="" coords="215,5,362,44"/>
+<area shape="rect" id="node3" href="$classrtflann_1_1_n_n_index.html#aaa2edaa7f853765f5d530ae3a744b7fb" title="rtflann::NNIndex::serialize" alt="" coords="201,68,375,93"/>
+<area shape="rect" id="node4" href="$classrtflann_1_1_matrix__.html#a08316d4c74f4c4fe67c747cec67bf4f7" title="rtflann::Matrix_::serialize" alt="" coords="205,117,371,143"/>
+</map>

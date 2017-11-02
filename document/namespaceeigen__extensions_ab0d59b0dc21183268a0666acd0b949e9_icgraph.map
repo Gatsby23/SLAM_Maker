@@ -1,0 +1,9 @@
+<map id="eigen_extensions::deserializeScalar" name="eigen_extensions::deserializeScalar">
+<area shape="rect" id="node2" href="$classclams_1_1_discrete_frustum.html#aa2510cdd44a30f832dc187983f9ae907" title="clams::DiscreteFrustum\l::deserialize" alt="" coords="271,5,432,44"/>
+<area shape="rect" id="node3" href="$classclams_1_1_discrete_depth_distortion_model.html#ac42a359899777bb6b795ef5bc4e56251" title="clams::DiscreteDepthDistortion\lModel::deserialize" alt="" coords="250,68,454,107"/>
+<area shape="rect" id="node6" href="$namespaceeigen__extensions.html#a525f42b00950d4d26b3f6deac8ed61b0" title="eigen_extensions::stdev" alt="" coords="270,132,434,157"/>
+<area shape="rect" id="node4" href="$classclams_1_1_discrete_depth_distortion_model.html#a50a657a64496ab206b37c972a6798bd5" title="clams::DiscreteDepthDistortion\lModel::load" alt="" coords="502,65,706,104"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_camera_thread.html#ab27026d18fd42df0fc9e654cdbe7afac" title="rtabmap::CameraThread\l::setDistortionModel" alt="" coords="754,65,922,104"/>
+<area shape="rect" id="node7" href="$classclams_1_1_frame_projector.html#a26c74a7a7f6f6e9c2e18d6a38693699c" title="clams::FrameProjector\l::estimateMapDepth" alt="" coords="526,128,682,167"/>
+<area shape="rect" id="node8" href="$namespaceclams.html#adb312d785289d27adebfb7ae047ae5fa" title="clams::calibrate" alt="" coords="781,135,895,160"/>
+</map>

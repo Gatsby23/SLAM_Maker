@@ -1,0 +1,6 @@
+<map id="rtabmap::Memory::getNi" name="rtabmap::Memory::getNi">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#a15ec109dd157745f69dcd4f80efaf561" title="rtabmap::Memory::getSignature" alt="" coords="218,5,427,31"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_d_b_driver.html#adbf2871e1f6811a462cc9b540a83c835" title="rtabmap::DBDriver::\lgetInvertedIndexNi" alt="" coords="253,55,392,93"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_memory.html#aecb333268e0858678add037a5a59a719" title="rtabmap::Memory::_getSignature" alt="" coords="475,5,691,31"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_d_b_driver.html#ad154b0744a10c57a2914c0628fc51cb8" title="rtabmap::DBDriver::\lgetInvertedIndexNiQuery" alt="" coords="498,55,667,93"/>
+</map>

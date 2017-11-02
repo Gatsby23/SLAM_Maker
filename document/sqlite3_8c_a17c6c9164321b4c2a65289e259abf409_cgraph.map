@@ -1,0 +1,11 @@
+<map id="unixLock" name="unixLock">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#acd88d7bdc7f79108edc83ac379d3181f" title="unixEnterMutex" alt="" coords="158,5,272,31"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a0f54f8c3ccab69b612496aa857e49a1b" title="unixFileLock" alt="" coords="167,55,263,80"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a7b96b9e451b820cf5061400544842387" title="sqliteErrorFromPosixError" alt="" coords="127,104,303,129"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#acd189e7befeaa8d370808bcb6c22f339" title="unixLeaveMutex" alt="" coords="156,153,274,179"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="351,5,493,31"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a0e3f432ee581f6876b590e7ad7e84e19" title="sqlite3MutexAlloc" alt="" coords="360,67,485,92"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="351,192,494,217"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="551,143,687,168"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a83967c837c1c000d3b5adcfaa688f5dc" title="sqlite3_mutex_notheld" alt="" coords="542,192,696,217"/>
+</map>

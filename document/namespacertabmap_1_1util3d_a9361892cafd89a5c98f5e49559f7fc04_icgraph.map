@@ -1,0 +1,11 @@
+<map id="rtabmap::util3d::downsample" name="rtabmap::util3d::downsample">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera_images.html#a00a3e412173771537411a1683c18c0f7" title="rtabmap::CameraImages\l::captureImage" alt="" coords="517,122,685,160"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_memory.html#ae57c1e215b5449431b93588dd4217703" title="rtabmap::Memory::createSignature" alt="" coords="487,15,715,40"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_occupancy_grid.html#a3a26dfc3108d6562ee920082446ce82b" title="rtabmap::OccupancyGrid\l::createLocalMap" alt="" coords="257,36,427,75"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_registration_icp.html#a08cb2eda291112236ddf17053a04f782" title="rtabmap::RegistrationIcp\l::computeTransformationImpl" alt="" coords="245,151,439,190"/>
+<area shape="rect" id="node9" href="$namespacertabmap_1_1util3d.html#abe43dffd18c940826f3e805f897c89f7" title="rtabmap::util3d::loadCloud" alt="" coords="254,214,431,239"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera_r_g_b_d_images.html#aee8dd9e887c5342a9eef225d45f8ac0c" title="rtabmap::CameraRGBDImages\l::captureImage" alt="" coords="763,94,970,132"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_camera_stereo_images.html#a3fc92d104807f923c70e9e820e25a473" title="rtabmap::CameraStereoImages\l::captureImage" alt="" coords="763,156,971,195"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="780,15,954,40"/>
+<area shape="rect" id="node10" href="$namespacertabmap_1_1util3d.html#a0120b85a5ad81dadb9154b3ed3b2b834" title="rtabmap::util3d::loadScan" alt="" coords="515,214,687,239"/>
+</map>

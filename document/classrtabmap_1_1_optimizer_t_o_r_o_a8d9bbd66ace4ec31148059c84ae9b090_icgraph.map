@@ -1,0 +1,6 @@
+<map id="rtabmap::OptimizerTORO::saveGraph" name="rtabmap::OptimizerTORO::saveGraph">
+<area shape="rect" id="node2" href="$namespacertabmap_1_1graph.html#aa4b5595ca5c8ce6c48edafdb165e173b" title="rtabmap::graph::exportPoses" alt="" coords="226,44,420,69"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_rtabmap.html#af7fa0cbd1ef027f8bb2af11364487df8" title="rtabmap::Rtabmap::getTime\lThreshold" alt="" coords="468,5,654,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_rtabmap.html#aeffdfc811a178ba2e55205b746a6ea71" title="rtabmap::Rtabmap::export\lPoses" alt="" coords="473,68,649,107"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="702,68,876,107"/>
+</map>

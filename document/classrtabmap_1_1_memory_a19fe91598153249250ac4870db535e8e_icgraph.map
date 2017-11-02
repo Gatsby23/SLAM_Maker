@@ -1,0 +1,39 @@
+<map id="rtabmap::Memory::isInSTM" name="rtabmap::Memory::isInSTM">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_bayes_filter.html#a6e2b4c1629d21a72417a952a97c336e8" title="rtabmap::BayesFilter\l::generatePrediction" alt="" coords="536,609,681,648"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_rtabmap.html#ad7f085b6ae0fd3c7077c500c028fd5c3" title="Main loop of rtabmap. " alt="" coords="1359,439,1545,464"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_bayes_filter.html#a1c23f12fe89d288bacdfeb16b7736353" title="rtabmap::BayesFilter\l::updatePrediction" alt="" coords="270,564,414,603"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_memory.html#a7a03169eea501fe5f61bb8dee60c06f1" title="rtabmap::Memory::moveToTrash" alt="" coords="235,365,449,391"/>
+<area shape="rect" id="node38" href="$classrtabmap_1_1_rtabmap.html#a596ea3fbeb22c90db9530f6752900ecc" title="rtabmap::Rtabmap::isInSTM" alt="" coords="248,627,436,652"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_bayes_filter.html#a7ab8bc28ec172a18a80001585161b238" title="rtabmap::BayesFilter\l::computePosterior" alt="" coords="1093,587,1238,625"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_rtabmap.html#ad0c040e54bbca27dffc46346d96c57cb" title="rtabmap::Rtabmap::dumpPrediction" alt="" coords="768,681,1000,707"/>
+<area shape="rect" id="node5" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="1886,184,2074,209"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_rtabmap.html#a35cf8fd93f77d1c148ae6d3107725750" title="rtabmap::Rtabmap::process" alt="" coords="1636,495,1822,520"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_rtabmap_thread.html#a921bb6c18683103d08270a7e665d89dc" title="rtabmap::RtabmapThread\l::process" alt="" coords="1642,432,1816,471"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="1893,324,2067,363"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_memory.html#a7a7d3ee5683c923273c4311ee7fa4edb" title="rtabmap::Memory::moveSignature\lToWMFromSTM" alt="" coords="497,221,720,260"/>
+<area shape="rect" id="node29" href="$classrtabmap_1_1_memory.html#a79ab905482abdba2bf0f88fafe9f219b" title="rtabmap::Memory::clear" alt="" coords="803,151,965,176"/>
+<area shape="rect" id="node32" href="$classrtabmap_1_1_memory.html#a51e89ccab2261912b09a5b7178fdd46c" title="rtabmap::Memory::forget" alt="" coords="800,580,967,605"/>
+<area shape="rect" id="node33" href="$classrtabmap_1_1_memory.html#af87e4718dd842c59fd8459430c40d78f" title="rtabmap::Memory::cleanup" alt="" coords="518,365,698,391"/>
+<area shape="rect" id="node34" href="$classrtabmap_1_1_memory.html#a601127d1907a2819c894e61bcfe10dc8" title="rtabmap::Memory::deleteLocation" alt="" coords="498,467,718,492"/>
+<area shape="rect" id="node36" href="$classrtabmap_1_1_memory.html#ac6b2a77f42ee06e5db6c21146493387f" title="rtabmap::Memory::rehearsal\lMerge" alt="" coords="514,303,703,341"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="1078,315,1252,340"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_memory.html#afce9dbf3e5657d65540e33c59e992d83" title="rtabmap::Memory::increment\lMapId" alt="" coords="788,200,980,239"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_memory.html#a72f6c18390f9cae3bc605912ce56a7cb" title="rtabmap::Memory::parseParameters" alt="" coords="1048,203,1283,228"/>
+<area shape="rect" id="node28" href="$classrtabmap_1_1_rtabmap.html#a4ab6de2be120bbda75577911d52346d4" title="rtabmap::Rtabmap::trigger\lNewMap" alt="" coords="1077,252,1254,291"/>
+<area shape="rect" id="node16" href="$classrtabmap_1_1_memory.html#a24d451cdf46a9cc04cce995142a101d4" title="rtabmap::Memory::Memory" alt="" coords="1361,252,1543,277"/>
+<area shape="rect" id="node17" href="$classrtabmap_1_1_memory.html#aeeabc78648bf7dc14ea1356828cdeddd" title="rtabmap::Memory::init" alt="" coords="1377,153,1527,179"/>
+<area shape="rect" id="node23" href="$classrtabmap_1_1_rtabmap.html#a5a461ed88e83d2dbebee819ab6690e7a" title="rtabmap::Rtabmap::parseParameters" alt="" coords="1331,203,1573,228"/>
+<area shape="rect" id="node18" href="$classrtabmap_1_1_odometry_mono.html#a70291ffff0cad044bf74dfdd0254d2d1" title="rtabmap::OdometryMono\l::OdometryMono" alt="" coords="1644,5,1814,44"/>
+<area shape="rect" id="node19" href="$classrtabmap_1_1_odometry_mono.html#a94a2a76070fead26339132d207045ab7" title="rtabmap::OdometryMono\l::reset" alt="" coords="1644,68,1814,107"/>
+<area shape="rect" id="node20" href="$classrtabmap_1_1_rtabmap.html#ae681073a3089c235b4b615c823af646e" title="rtabmap::Rtabmap::init" alt="" coords="1651,180,1807,205"/>
+<area shape="rect" id="node22" href="$classrtabmap_1_1_rtabmap.html#af12ae46226f33adf8c4cafbe1bcf544c" title="rtabmap::Rtabmap::resetMemory" alt="" coords="1621,229,1838,255"/>
+<area shape="rect" id="node21" href="$classrtabmap_1_1_rtabmap.html#ace677b762b97392bd49ae4c535280541" title="rtabmap::Rtabmap::init" alt="" coords="1902,233,2058,259"/>
+<area shape="rect" id="node24" href="$classrtabmap_1_1_rtabmap.html#a5e0b2eada8ae885e45df23165bb91d2f" title="rtabmap::Rtabmap::close" alt="" coords="1644,131,1814,156"/>
+<area shape="rect" id="node25" href="$classrtabmap_1_1_rtabmap.html#a0a1857e1aaa78ef772140c42b8749f56" title="rtabmap::Rtabmap::\l~Rtabmap" alt="" coords="1910,121,2050,160"/>
+<area shape="rect" id="node26" href="$classrtabmap_1_1_rtabmap_thread.html#aabea5cf86e55d6669d41b0b569dac574" title="rtabmap::RtabmapThread\l::close" alt="" coords="1893,59,2067,97"/>
+<area shape="rect" id="node27" href="$classrtabmap_1_1_rtabmap_thread.html#acf08fe27f94f6bf512abc35080063b8a" title="rtabmap::RtabmapThread\l::~RtabmapThread" alt="" coords="2122,59,2296,97"/>
+<area shape="rect" id="node30" href="$classrtabmap_1_1_memory.html#a44023158524dee3471a8dff43ea132db" title="rtabmap::Memory::close" alt="" coords="1083,101,1248,127"/>
+<area shape="rect" id="node31" href="$classrtabmap_1_1_memory.html#a5fc24069a0ac8befc35b8bf4a4b6a638" title="rtabmap::Memory::~Memory" alt="" coords="1357,104,1546,129"/>
+<area shape="rect" id="node35" href="$classrtabmap_1_1_odometry_mono.html#af59c2d45e7a683f8cd3dfc22def75733" title="rtabmap::OdometryMono\l::computeTransform" alt="" coords="799,517,969,556"/>
+<area shape="rect" id="node37" href="$classrtabmap_1_1_memory.html#a74b4e28806f6c53ba8758baa67fab621" title="rtabmap::Memory::rehearsal" alt="" coords="789,315,978,340"/>
+</map>

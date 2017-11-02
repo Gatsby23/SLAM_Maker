@@ -1,0 +1,23 @@
+<map id="rtabmap::OdometryDVO::computeTransform" name="rtabmap::OdometryDVO::computeTransform">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_sensor_data.html#afa6facb37c5a22315eaf9c2693622bc8" title="rtabmap::SensorData\l::imageRaw" alt="" coords="218,5,366,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_sensor_data.html#a4f4ad7d6c9d32c72dbd560119e1730b6" title="rtabmap::SensorData\l::depthOrRightRaw" alt="" coords="218,68,366,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_sensor_data.html#aea457bf4fa2488272ef374b8042b13e1" title="rtabmap::SensorData\l::cameraModels" alt="" coords="218,131,366,169"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_sensor_data.html#a1970cd319999fb371873553b53b07d73" title="rtabmap::SensorData\l::depthRaw" alt="" coords="218,193,366,232"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_transform.html#afe833cfcd56f2f147091e7d309dadb36" title="rtabmap::Transform\l::setIdentity" alt="" coords="223,256,361,295"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_transform.html#a95df1ba66c338220abefdbe59b05c2cc" title="rtabmap::Transform\l::fromEigen3d" alt="" coords="422,295,559,333"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_transform.html#a71ff72d5731d252a87a19c63e3890e3a" title="rtabmap::Transform\l::inverse" alt="" coords="223,472,361,511"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_transform.html#af3c46b76fe855b0334a7f255792a6082" title="rtabmap::Transform\l::getNorm" alt="" coords="223,723,361,761"/>
+<area shape="rect" id="node18" href="$classrtabmap_1_1_transform.html#a24ce4cd1d812a596b82c269c665e90a7" title="rtabmap::Transform\l::getAngle" alt="" coords="223,561,361,600"/>
+<area shape="rect" id="node20" href="$classrtabmap_1_1_transform.html#af0020cf4093b8b1a3d1f68ee657b3662" title="rtabmap::Transform\l::setNull" alt="" coords="422,357,559,396"/>
+<area shape="rect" id="node21" href="$classrtabmap_1_1_transform.html#a0d6a1985391a45de4fe208e58c51b9d2" title="rtabmap::Transform\l::isNull" alt="" coords="614,631,752,669"/>
+<area shape="rect" id="node22" href="$classrtabmap_1_1_transform.html#ae0636052ce31698d4d45afe4492ffab9" title="rtabmap::Transform\l::isIdentity" alt="" coords="614,436,752,475"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_transform.html#aefc8f052315cb4ba1116ff8fc8297306" title="rtabmap::Transform\l::getIdentity" alt="" coords="422,232,559,271"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_transform.html#ac3654d3f6802d4b0c17b6110d1eda71a" title="rtabmap::Transform\l::Transform" alt="" coords="614,337,752,376"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_transform.html#a469b0923be94d2dc2ca8b290f3bfac8c" title="rtabmap::Transform\l::fromEigen4f" alt="" coords="422,472,559,511"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_transform.html#a1cb08be14adcabc0999eca4db3c67812" title="rtabmap::Transform\l::toEigen4f" alt="" coords="614,555,752,593"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="800,555,938,593"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_transform.html#a1d69c9ae9129ccffe30b971ed8747adc" title="rtabmap::Transform::x" alt="" coords="414,701,566,727"/>
+<area shape="rect" id="node16" href="$classrtabmap_1_1_transform.html#af7d90ee7b9ace464ea80dad90e3df9a3" title="rtabmap::Transform::y" alt="" coords="414,751,566,776"/>
+<area shape="rect" id="node17" href="$classrtabmap_1_1_transform.html#af3c3671ae31945e689ee9a84deca5d6b" title="rtabmap::Transform::z" alt="" coords="414,800,566,825"/>
+<area shape="rect" id="node19" href="$classrtabmap_1_1_transform.html#a76e359a47eab8b98684ef0fa36da413f" title="rtabmap::Transform\l::toEigen3f" alt="" coords="422,587,559,625"/>
+</map>

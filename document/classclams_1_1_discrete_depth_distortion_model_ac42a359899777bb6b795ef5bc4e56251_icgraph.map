@@ -1,0 +1,4 @@
+<map id="clams::DiscreteDepthDistortionModel::deserialize" name="clams::DiscreteDepthDistortionModel::deserialize">
+<area shape="rect" id="node2" href="$classclams_1_1_discrete_depth_distortion_model.html#a50a657a64496ab206b37c972a6798bd5" title="clams::DiscreteDepthDistortion\lModel::load" alt="" coords="258,5,462,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera_thread.html#ab27026d18fd42df0fc9e654cdbe7afac" title="rtabmap::CameraThread\l::setDistortionModel" alt="" coords="510,5,677,44"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="rtabmap::Transform::size" name="rtabmap::Transform::size">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera_freenect.html#adfc88a3b767616062a7ac0eaf743d558" title="rtabmap::CameraFreenect\l::captureImage" alt="" coords="209,5,387,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera_freenect2.html#a51ab636c2534da7ac1a71ff383bcc508" title="rtabmap::CameraFreenect2\l::captureImage" alt="" coords="205,68,390,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_camera_stereo_d_c1394.html#a53a82450c79ad93e5aa1f2bc82cf034d" title="rtabmap::CameraStereoDC1394\l::captureImage" alt="" coords="191,131,405,169"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_camera_stereo_fly_capture2.html#aee25dfea71ee8a479bede422ee9e8493" title="rtabmap::CameraStereoFly\lCapture2::captureImage" alt="" coords="207,193,389,232"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#ac297ed97d83b520f8ab05cd519c4ac23" title="rtabmap::DBDriverSqlite3\l::loadNodeDataQuery" alt="" coords="212,256,384,295"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#aa0770a5cbbf0655638b9afe0af1bf22f" title="rtabmap::DBDriverSqlite3\l::getCalibrationQuery" alt="" coords="212,319,384,357"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#a5741a832b11ed205a0569b41a0823196" title="rtabmap::DBDriverSqlite3\l::getLaserScanInfoQuery" alt="" coords="212,381,384,420"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#a8e91683b90b9c74a734fd523401f1a57" title="rtabmap::DBDriverSqlite3\l::getNodeInfoQuery" alt="" coords="212,444,384,483"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#af687709bb297371c8010d5f00447598a" title="rtabmap::DBDriverSqlite3\l::getAllLinksQuery" alt="" coords="212,507,384,545"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#a0cd038f4dc97017ed13edd3e738a7d50" title="rtabmap::DBDriverSqlite3\l::loadSignaturesQuery" alt="" coords="460,593,632,632"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#a71feb84d175b2f7ca67dbda3b696b729" title="rtabmap::DBDriverSqlite3\l::loadLinksQuery" alt="" coords="212,621,384,660"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#a5e6902e4e5991fe7d0f03cfd32124ed0" title="rtabmap::DBDriverSqlite3\l::stepNode" alt="" coords="212,684,384,723"/>
+<area shape="rect" id="node16" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#a6964bfd723107748e17ddc31d0638879" title="rtabmap::DBDriverSqlite3\l::stepDepth" alt="" coords="212,747,384,785"/>
+<area shape="rect" id="node17" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#a69af0501e55478354e5c2103e5891181" title="rtabmap::DBDriverSqlite3\l::stepSensorData" alt="" coords="212,809,384,848"/>
+<area shape="rect" id="node18" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#a4dc040f218a5604a535ff03513daec3c" title="rtabmap::DBDriverSqlite3\l::stepLink" alt="" coords="212,872,384,911"/>
+<area shape="rect" id="node22" href="$namespacertabmap_1_1graph.html#aa4b5595ca5c8ce6c48edafdb165e173b" title="rtabmap::graph::exportPoses" alt="" coords="201,969,395,995"/>
+<area shape="rect" id="node26" href="$classrtabmap_1_1_registration_vis.html#ad58a6cdcc37eb85639f50da6089f0e32" title="rtabmap::RegistrationVis\l::computeTransformationImpl" alt="" coords="201,1019,395,1057"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#aa73a22a0b9fa33dffc40b634f306b098" title="rtabmap::DBDriverSqlite3\l::loadLastNodesQuery" alt="" coords="688,593,861,632"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#ad293bfffd615365dc48073240c301fb2" title="rtabmap::DBDriverSqlite3\l::saveQuery" alt="" coords="460,747,632,785"/>
+<area shape="rect" id="node19" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#acb8f911470d415b30e31bfb893119df4" title="rtabmap::DBDriverSqlite3\l::updateQuery" alt="" coords="460,809,632,848"/>
+<area shape="rect" id="node20" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#a5bf05e3a0dc16e17f1e0cb4d88c22117" title="rtabmap::DBDriverSqlite3\l::addLinkQuery" alt="" coords="460,872,632,911"/>
+<area shape="rect" id="node21" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#a68e09315a7a25ddc8289917a67355c22" title="rtabmap::DBDriverSqlite3\l::updateLinkQuery" alt="" coords="460,935,632,973"/>
+<area shape="rect" id="node23" href="$classrtabmap_1_1_rtabmap.html#af7fa0cbd1ef027f8bb2af11364487df8" title="rtabmap::Rtabmap::getTime\lThreshold" alt="" coords="453,997,639,1036"/>
+<area shape="rect" id="node24" href="$classrtabmap_1_1_rtabmap.html#aeffdfc811a178ba2e55205b746a6ea71" title="rtabmap::Rtabmap::export\lPoses" alt="" coords="458,1060,634,1099"/>
+<area shape="rect" id="node25" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="687,1060,861,1099"/>
+</map>

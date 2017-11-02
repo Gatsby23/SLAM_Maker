@@ -1,0 +1,7 @@
+<map id="rtabmap::Transform::getQuaternionf" name="rtabmap::Transform::getQuaternionf">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_transform.html#a76e359a47eab8b98684ef0fa36da413f" title="rtabmap::Transform\l::toEigen3f" alt="" coords="191,5,329,44"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_transform.html#aeed78122de7f78a13641802b964d9631" title="rtabmap::Transform\l::rotation" alt="" coords="191,68,329,107"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_transform.html#a1cb08be14adcabc0999eca4db3c67812" title="rtabmap::Transform\l::toEigen4f" alt="" coords="377,5,515,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="563,35,701,73"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_transform.html#ac3654d3f6802d4b0c17b6110d1eda71a" title="rtabmap::Transform\l::Transform" alt="" coords="377,120,515,159"/>
+</map>

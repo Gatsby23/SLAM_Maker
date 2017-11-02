@@ -1,0 +1,6 @@
+<map id="PGroup" name="PGroup">
+<area shape="rect" id="node4" href="$struct_p_cache1.html" title="{PCache1\n|+ szPage\l+ szExtra\l+ bPurgeable\l+ nMin\l+ nMax\l+ n90pct\l+ iMaxKey\l+ nRecyclable\l+ nPage\l+ nHash\l|}" alt="" coords="177,315,282,508"/>
+<area shape="rect" id="node2" href="$struct_pg_hdr1.html" title="{PgHdr1\n|+ iKey\l|}" alt="" coords="168,569,235,643"/>
+<area shape="rect" id="node3" href="$structsqlite3__pcache__page.html" title="{sqlite3_pcache_page\n|+ pBuf\l+ pExtra\l|}" alt="" coords="5,368,153,455"/>
+<area shape="rect" id="node5" href="$structsqlite3__mutex.html" title="{sqlite3_mutex\n|+ mutex\l|}" alt="" coords="229,5,332,79"/>
+</map>

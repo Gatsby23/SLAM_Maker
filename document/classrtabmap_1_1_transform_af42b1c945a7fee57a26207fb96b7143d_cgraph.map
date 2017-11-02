@@ -1,0 +1,11 @@
+<map id="rtabmap::Transform::interpolate" name="rtabmap::Transform::interpolate">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_transform.html#a64246d263e984b712a83f0c20a5c6e12" title="rtabmap::Transform\l::getQuaternionf" alt="" coords="198,68,336,107"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_transform.html#ac3654d3f6802d4b0c17b6110d1eda71a" title="rtabmap::Transform\l::Transform" alt="" coords="577,123,715,161"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_transform.html#a1d69c9ae9129ccffe30b971ed8747adc" title="rtabmap::Transform::x" alt="" coords="191,183,343,208"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_transform.html#af7d90ee7b9ace464ea80dad90e3df9a3" title="rtabmap::Transform::y" alt="" coords="191,232,343,257"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_transform.html#af3c3671ae31945e689ee9a84deca5d6b" title="rtabmap::Transform::z" alt="" coords="191,281,343,307"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_transform.html#a76e359a47eab8b98684ef0fa36da413f" title="rtabmap::Transform\l::toEigen3f" alt="" coords="391,5,529,44"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_transform.html#aeed78122de7f78a13641802b964d9631" title="rtabmap::Transform\l::rotation" alt="" coords="391,68,529,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_transform.html#a1cb08be14adcabc0999eca4db3c67812" title="rtabmap::Transform\l::toEigen4f" alt="" coords="577,7,715,45"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="763,36,901,75"/>
+</map>

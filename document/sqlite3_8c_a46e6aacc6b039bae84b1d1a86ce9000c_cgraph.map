@@ -1,0 +1,12 @@
+<map id="sqlite3BtreeSchemaLocked" name="sqlite3BtreeSchemaLocked">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="857,55,994,81"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#afa05d700ca373993fe6b0525b867feff" title="sqlite3BtreeEnter" alt="" coords="273,131,397,157"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a248343a0d79235a90b955d801713d243" title="querySharedCacheTableLock" alt="" coords="237,181,433,206"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a460e4f89d1aeef4b4d334cfe8165da89" title="sqlite3BtreeLeave" alt="" coords="271,81,399,106"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a196f84b09bdfda96ae5ae23189be1ec8" title="sqlite3_mutex_try" alt="" coords="482,182,608,207"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a9521b387bc4428c8026f846d9c185be6" title="unlockBtreeMutex" alt="" coords="481,81,609,106"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ab1714bc62ac8a451c7b17bc53053ca53" title="lockBtreeMutex" alt="" coords="672,182,785,207"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="657,81,800,106"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a83967c837c1c000d3b5adcfaa688f5dc" title="sqlite3_mutex_notheld" alt="" coords="848,106,1003,131"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="855,182,996,207"/>
+</map>

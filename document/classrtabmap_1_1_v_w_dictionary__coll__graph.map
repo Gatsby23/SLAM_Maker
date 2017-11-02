@@ -1,0 +1,3 @@
+<map id="rtabmap::VWDictionary" name="rtabmap::VWDictionary">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_flann_index.html" title="{rtabmap::FlannIndex\n|&#45; index_\l&#45; nextIndex_\l&#45; featuresType_\l&#45; featuresDim_\l&#45; isLSH_\l&#45; useDistanceL1_\l&#45; addedDescriptors_\l&#45; removedIndexes_\l|+ FlannIndex()\l+ ~FlannIndex()\l+ release()\l+ indexedFeatures()\l+ memoryUsed()\l+ buildLinearIndex()\l+ buildKDTreeIndex()\l+ buildKDTreeSingleIndex()\l+ buildLSHIndex()\l+ isBuilt()\land 6 more...\l}" alt="" coords="20,5,205,305"/>
+</map>

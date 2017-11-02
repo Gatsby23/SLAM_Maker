@@ -1,0 +1,6 @@
+<map id="rtabmap::Rtabmap::clearPath" name="rtabmap::Rtabmap::clearPath">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_transform.html#afe833cfcd56f2f147091e7d309dadb36" title="rtabmap::Transform\l::setIdentity" alt="" coords="276,5,414,44"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_memory.html#a838b48bb9c2e6ccfe4f916ea2b2d00fd" title="rtabmap::Memory::removeAll\lVirtualLinks" alt="" coords="249,68,441,107"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_transform.html#aefc8f052315cb4ba1116ff8fc8297306" title="rtabmap::Transform\l::getIdentity" alt="" coords="489,5,627,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_transform.html#ac3654d3f6802d4b0c17b6110d1eda71a" title="rtabmap::Transform\l::Transform" alt="" coords="675,5,813,44"/>
+</map>

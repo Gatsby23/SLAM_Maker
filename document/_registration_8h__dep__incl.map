@@ -1,0 +1,11 @@
+<map id="corelib/include/rtabmap/core/Registration.h" name="corelib/include/rtabmap/core/Registration.h">
+<area shape="rect" id="node2" href="$_registration_icp_8h.html" title="corelib/include/rtabmap\l/core/RegistrationIcp.h" alt="" coords="236,92,395,131"/>
+<area shape="rect" id="node3" href="$_memory_8cpp.html" title="corelib/src/Memory.cpp" alt="" coords="393,185,551,211"/>
+<area shape="rect" id="node6" href="$_registration_vis_8h.html" title="corelib/include/rtabmap\l/core/RegistrationVis.h" alt="" coords="510,92,669,131"/>
+<area shape="rect" id="node10" href="$_odometry_f2_f_8cpp.html" title="corelib/src/OdometryF2F.cpp" alt="" coords="693,99,885,124"/>
+<area shape="rect" id="node4" href="$_registration_8cpp.html" title="corelib/src/Registration.cpp" alt="" coords="186,185,368,211"/>
+<area shape="rect" id="node5" href="$_registration_icp_8cpp.html" title="corelib/src/Registration\lIcp.cpp" alt="" coords="5,179,162,217"/>
+<area shape="rect" id="node7" href="$_odometry_f2_m_8cpp.html" title="corelib/src/OdometryF2M.cpp" alt="" coords="575,185,771,211"/>
+<area shape="rect" id="node8" href="$_optimizer_8cpp.html" title="corelib/src/Optimizer.cpp" alt="" coords="795,185,962,211"/>
+<area shape="rect" id="node9" href="$_registration_vis_8cpp.html" title="corelib/src/Registration\lVis.cpp" alt="" coords="987,179,1144,217"/>
+</map>

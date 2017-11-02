@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classrtabmap_1_1_registration.html" title="rtabmap::Registration" alt="" coords="5,31,154,56"/>
+<area shape="rect" id="node2" href="$classrtabmap_1_1_registration_icp.html" title="rtabmap::RegistrationIcp" alt="" coords="202,5,369,31"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_registration_vis.html" title="rtabmap::RegistrationVis" alt="" coords="202,55,369,80"/>
+</map>

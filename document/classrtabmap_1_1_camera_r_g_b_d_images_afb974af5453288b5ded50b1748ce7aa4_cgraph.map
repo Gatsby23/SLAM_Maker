@@ -1,0 +1,4 @@
+<map id="rtabmap::CameraRGBDImages::isCalibrated" name="rtabmap::CameraRGBDImages::isCalibrated">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera_images.html#acd8a45c52644d1e29f414625a7549a44" title="rtabmap::CameraImages\l::cameraModel" alt="" coords="261,5,429,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera_model.html#a7b6db41415e085d52bf363d09d5e6d67" title="rtabmap::CameraModel\l::isValidForProjection" alt="" coords="264,68,426,107"/>
+</map>

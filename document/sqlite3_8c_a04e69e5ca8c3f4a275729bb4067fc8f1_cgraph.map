@@ -1,0 +1,12 @@
+<map id="sqlite3BtreeMaxPageCount" name="sqlite3BtreeMaxPageCount">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#afa05d700ca373993fe6b0525b867feff" title="sqlite3BtreeEnter" alt="" coords="269,77,392,102"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a63f2282b53210b1f409b6a7f4187e7ba" title="sqlite3PagerMaxPageCount" alt="" coords="237,177,424,202"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a460e4f89d1aeef4b4d334cfe8165da89" title="sqlite3BtreeLeave" alt="" coords="267,128,395,153"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="849,128,985,153"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a196f84b09bdfda96ae5ae23189be1ec8" title="sqlite3_mutex_try" alt="" coords="473,26,599,52"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a9521b387bc4428c8026f846d9c185be6" title="unlockBtreeMutex" alt="" coords="472,128,600,153"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ab1714bc62ac8a451c7b17bc53053ca53" title="lockBtreeMutex" alt="" coords="663,26,776,52"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="648,128,791,153"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a83967c837c1c000d3b5adcfaa688f5dc" title="sqlite3_mutex_notheld" alt="" coords="839,77,994,102"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="846,26,987,52"/>
+</map>

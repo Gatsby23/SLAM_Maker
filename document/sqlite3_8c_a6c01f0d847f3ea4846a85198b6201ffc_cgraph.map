@@ -1,0 +1,13 @@
+<map id="sqlite3VdbeMemMove" name="sqlite3VdbeMemMove">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="966,69,1102,94"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a90606361dbeba88159fd6ff03fcc10cc" title="sqlite3VdbeMemRelease" alt="" coords="207,69,376,94"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="424,94,528,119"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aa397e5a8a03495203a0767abf0a71f86" title="sqlite3DbMallocSize" alt="" coords="576,94,718,119"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a770fa05ff9717b75e16f4d968a77b897" title="isLookaside" alt="" coords="791,145,883,170"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="602,243,692,269"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="767,194,908,219"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="777,243,898,269"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="775,293,899,318"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="766,342,909,367"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a83967c837c1c000d3b5adcfaa688f5dc" title="sqlite3_mutex_notheld" alt="" coords="957,342,1112,367"/>
+</map>

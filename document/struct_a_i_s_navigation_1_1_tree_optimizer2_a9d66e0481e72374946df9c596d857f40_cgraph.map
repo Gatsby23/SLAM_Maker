@@ -1,0 +1,13 @@
+<map id="AISNavigation::TreeOptimizer2::iterate" name="AISNavigation::TreeOptimizer2::iterate">
+<area shape="rect" id="node2" href="$struct_a_i_s_navigation_1_1_tree_optimizer2.html#a4599efca03c57f5b734aeff4ab60e13c" title="AISNavigation::TreeOptimizer2\l::computePreconditioner" alt="" coords="258,49,463,88"/>
+<area shape="rect" id="node4" href="$struct_a_i_s_navigation_1_1_tree_optimizer2.html#ad03e4183a5e76d34659ceee01016fc44" title="AISNavigation::TreeOptimizer2\l::propagateErrors" alt="" coords="258,155,463,193"/>
+<area shape="rect" id="node3" href="$struct_a_i_s_navigation_1_1_s_matrix3.html#abff28d857345d0d66dadf7c09628c732" title="AISNavigation::SMatrix3\l::transpose" alt="" coords="533,5,698,44"/>
+<area shape="rect" id="node5" href="$struct_a_i_s_navigation_1_1_tree_optimizer2.html#ae127331e0a5ae9bd0b9dea74fc517bb4" title="AISNavigation::TreeOptimizer2\l::getPose" alt="" coords="513,245,718,284"/>
+<area shape="rect" id="node6" href="$struct_a_i_s_navigation_1_1_pose2.html#a08f557c156d458097082156518552400" title="AISNavigation::Pose2::x" alt="" coords="772,285,937,311"/>
+<area shape="rect" id="node7" href="$struct_a_i_s_navigation_1_1_pose2.html#a1cfb4f376ef2ddb02205408ddcb9b021" title="AISNavigation::Pose2::y" alt="" coords="772,335,937,360"/>
+<area shape="rect" id="node8" href="$struct_a_i_s_navigation_1_1_pose2.html#af8a448334800f442648cb1983f41195e" title="AISNavigation::Pose2\l::theta" alt="" coords="779,197,930,236"/>
+<area shape="rect" id="node9" href="$struct_a_i_s_navigation_1_1_transformation2.html#a1246d8093d0170fa23c429f175d072d3" title="AISNavigation::Transformation2\l::toPoseType" alt="" coords="511,68,720,107"/>
+<area shape="rect" id="node12" href="$struct_a_i_s_navigation_1_1_tree_optimizer2.html#a3878d4eb14b37db095b6fec007cf74cf" title="AISNavigation::TreeOptimizer2\l::updatePoseChain" alt="" coords="513,183,718,221"/>
+<area shape="rect" id="node10" href="$struct_a_i_s_navigation_1_1_vector2.html#a8fd5d5a9b381e53f64fceb1693b32e6c" title="AISNavigation::Vector2::x" alt="" coords="768,100,941,125"/>
+<area shape="rect" id="node11" href="$struct_a_i_s_navigation_1_1_vector2.html#a6cfc23c71075fe31fe7f19e28e4e7093" title="AISNavigation::Vector2::y" alt="" coords="768,51,941,76"/>
+</map>

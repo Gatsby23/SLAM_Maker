@@ -1,0 +1,7 @@
+<map id="rtabmap::util3d::loadBINCloud" name="rtabmap::util3d::loadBINCloud">
+<area shape="rect" id="node2" href="$namespacertabmap_1_1util3d.html#abe43dffd18c940826f3e805f897c89f7" title="rtabmap::util3d::loadCloud" alt="" coords="253,71,430,96"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera_images.html#a00a3e412173771537411a1683c18c0f7" title="rtabmap::CameraImages\l::captureImage" alt="" coords="479,36,648,75"/>
+<area shape="rect" id="node6" href="$namespacertabmap_1_1util3d.html#a0120b85a5ad81dadb9154b3ed3b2b834" title="rtabmap::util3d::loadScan" alt="" coords="478,99,650,124"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_camera_r_g_b_d_images.html#aee8dd9e887c5342a9eef225d45f8ac0c" title="rtabmap::CameraRGBDImages\l::captureImage" alt="" coords="698,5,906,44"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_camera_stereo_images.html#a3fc92d104807f923c70e9e820e25a473" title="rtabmap::CameraStereoImages\l::captureImage" alt="" coords="698,68,906,107"/>
+</map>

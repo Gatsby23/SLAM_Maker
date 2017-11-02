@@ -1,0 +1,5 @@
+<map id="rtabmap::StereoCameraModel::setLocalTransform" name="rtabmap::StereoCameraModel::setLocalTransform">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera_stereo_images.html#a3fa0d69119fb04d1756c20004973caf4" title="rtabmap::CameraStereoImages\l::init" alt="" coords="254,5,462,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera_stereo_video.html#a65e7c0146db0604ce795d8e6f82464da" title="rtabmap::CameraStereoVideo\l::init" alt="" coords="259,68,457,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_odometry_mono.html#af59c2d45e7a683f8cd3dfc22def75733" title="rtabmap::OdometryMono\l::computeTransform" alt="" coords="273,131,443,169"/>
+</map>

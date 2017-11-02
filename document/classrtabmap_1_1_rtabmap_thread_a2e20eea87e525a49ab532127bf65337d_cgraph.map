@@ -1,0 +1,17 @@
+<map id="rtabmap::RtabmapThread::addData" name="rtabmap::RtabmapThread::addData">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_odometry_event.html#aae365d0e58c6c8c3429c4a266ffc3fa2" title="rtabmap::OdometryEvent\l::data" alt="" coords="229,5,399,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_sensor_data.html#a566e5600bc0369f2f88ff0c597cefcfb" title="rtabmap::SensorData\l::stamp" alt="" coords="240,68,388,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_transform.html#ae0636052ce31698d4d45afe4492ffab9" title="rtabmap::Transform\l::isIdentity" alt="" coords="245,131,383,169"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_odometry_event.html#a9620b6f9a03e0edd2291f890788dcb18" title="rtabmap::OdometryEvent\l::pose" alt="" coords="229,193,399,232"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_odometry_event.html#afcda8e14a5a1aab35abb068887806bbd" title="rtabmap::OdometryEvent\l::info" alt="" coords="229,256,399,295"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_rtabmap_thread.html#ac939cf285e7a4e3e193c468828b64f39" title="rtabmap::RtabmapThread\l::pushNewState" alt="" coords="227,319,401,357"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_odometry_info.html#abce081943ea566e0dcc1532ce749e276" title="rtabmap::OdometryInfo\l::copyWithoutData" alt="" coords="235,381,394,420"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_sensor_data.html#a4d0f4615a747eaef142b51a1ab1e5527" title="rtabmap::SensorData\l::setId" alt="" coords="240,444,388,483"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_sensor_data.html#ad083f0a1e7769ff62183a0fa47279ae3" title="rtabmap::SensorData\l::setFeatures" alt="" coords="240,507,388,545"/>
+<area shape="rect" id="node16" href="$classrtabmap_1_1_sensor_data.html#a84fbcb16e51018d96065d3ce240650c6" title="rtabmap::SensorData::id" alt="" coords="231,569,397,595"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="466,131,604,169"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_registration_info.html#ae7abf7e34019a0c27b2de8ac5647f277" title="rtabmap::RegistrationInfo\l::copyWithoutData" alt="" coords="449,381,620,420"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_sensor_data.html#ad4945b19593503ee3e4d2da943ba976e" title="rtabmap::SensorData\l::keypoints" alt="" coords="461,444,609,483"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_sensor_data.html#a4379bf96acb881984d532d7019ae5728" title="rtabmap::SensorData\l::keypoints3D" alt="" coords="461,507,609,545"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_sensor_data.html#a9ab254c48aa6507ae02a544f075f11f6" title="rtabmap::SensorData\l::descriptors" alt="" coords="461,569,609,608"/>
+</map>

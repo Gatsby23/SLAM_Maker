@@ -1,0 +1,10 @@
+<map id="rtabmap::Rtabmap::getPathStatus" name="rtabmap::Rtabmap::getPathStatus">
+<area shape="rect" id="node2" href="$namespacertabmap_1_1graph.html#aff77397247efaae21acc181fbf312198" title="rtabmap::graph::computePath" alt="" coords="238,187,436,212"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1graph_1_1_node.html#ab755ff0bade64ef6a2c135674f5bc527" title="rtabmap::graph::Node\l::setClosed" alt="" coords="493,5,644,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1graph_1_1_node.html#a670df031b6c4eb5011c664c14ae98376" title="rtabmap::graph::Node::id" alt="" coords="484,68,653,93"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1graph_1_1_node.html#a620dbf79f28c57499bf6d2f81f3d9c5f" title="rtabmap::graph::Node\l::pose" alt="" coords="493,117,644,156"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1graph_1_1_node.html#a812fd7c1387e69fa6f153286644a2c67" title="rtabmap::graph::Node\l::fromId" alt="" coords="493,180,644,219"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1graph_1_1_node.html#aab5abb47325ddd6b7831a95a6810d33b" title="rtabmap::graph::Node\l::setCostSoFar" alt="" coords="493,243,644,281"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1graph_1_1_node.html#a0c493a7e1bb00d07a65175e1382ce46c" title="rtabmap::graph::Node\l::costSoFar" alt="" coords="493,305,644,344"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1graph_1_1_node.html#ada4f6f099353b6fba806d87e949f0c5e" title="rtabmap::graph::Node\l::distFrom" alt="" coords="493,368,644,407"/>
+</map>

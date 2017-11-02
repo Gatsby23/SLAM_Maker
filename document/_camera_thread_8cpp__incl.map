@@ -1,0 +1,23 @@
+<map id="corelib/src/CameraThread.cpp" name="corelib/src/CameraThread.cpp">
+<area shape="rect" id="node2" href="$_camera_thread_8h.html" title="rtabmap/core/CameraThread.h" alt="" coords="225,405,430,431"/>
+<area shape="rect" id="node11" href="$_camera_8h.html" title="rtabmap/core/Camera.h" alt="" coords="3056,239,3218,264"/>
+<area shape="rect" id="node24" href="$_camera_event_8h.html" title="rtabmap/core/CameraEvent.h" alt="" coords="622,239,818,264"/>
+<area shape="rect" id="node26" href="$_camera_r_g_b_d_8h.html" title="rtabmap/core/CameraRGBD.h" alt="" coords="3310,79,3511,104"/>
+<area shape="rect" id="node33" href="$util2d_8h.html" title="rtabmap/core/util2d.h" alt="" coords="1136,405,1282,431"/>
+<area shape="rect" id="node34" href="$util3d_8h.html" title="rtabmap/core/util3d.h" alt="" coords="1184,239,1330,264"/>
+<area shape="rect" id="node39" href="$util3d__surface_8h.html" title="rtabmap/core/util3d\l_surface.h" alt="" coords="1949,232,2085,271"/>
+<area shape="rect" id="node44" href="$util3d__filtering_8h.html" title="rtabmap/core/util3d\l_filtering.h" alt="" coords="2405,232,2541,271"/>
+<area shape="rect" id="node46" href="$_stereo_dense_8h.html" title="rtabmap/core/StereoDense.h" alt="" coords="682,405,875,431"/>
+<area shape="rect" id="node47" href="$_d_b_reader_8h.html" title="rtabmap/core/DBReader.h" alt="" coords="2533,152,2709,177"/>
+<area shape="rect" id="node48" href="$discrete__depth__distortion__model_8h.html" title="rtabmap/core/clams\l/discrete_depth_distortion\l_model.h" alt="" coords="3533,225,3707,277"/>
+<area shape="rect" id="node3" href="$_rtabmap_exp_8h.html" title="rtabmap/core/RtabmapExp.h" alt="" coords="1876,559,2068,584"/>
+<area shape="rect" id="node4" href="$_parameters_8h.html" title="rtabmap/core/Parameters.h" alt="" coords="815,485,998,511"/>
+<area shape="rect" id="node5" href="$_version_8h.html" title="rtabmap/core/Version.h" alt="" coords="2271,559,2430,584"/>
+<area shape="rect" id="node13" href="$_sensor_data_8h.html" title="rtabmap/core/SensorData.h" alt="" coords="1095,325,1280,351"/>
+<area shape="rect" id="node20" href="$_camera_info_8h.html" title="rtabmap/core/CameraInfo.h" alt="" coords="634,325,819,351"/>
+<area shape="rect" id="node14" href="$_transform_8h.html" title="rtabmap/core/Transform.h" alt="" coords="1472,485,1647,511"/>
+<area shape="rect" id="node18" href="$_camera_model_8h.html" title="rtabmap/core/CameraModel.h" alt="" coords="1872,405,2071,431"/>
+<area shape="rect" id="node29" href="$_camera_r_g_b_8h.html" title="rtabmap/core/CameraRGB.h" alt="" coords="3716,152,3907,177"/>
+<area shape="rect" id="node41" href="$_progress_state_8h.html" title="rtabmap/core/ProgressState.h" alt="" coords="2145,325,2345,351"/>
+<area shape="rect" id="node43" href="$util3d__surface_8hpp.html" title="rtabmap/core/impl/util3d\l_surface.hpp" alt="" coords="949,399,1112,437"/>
+</map>

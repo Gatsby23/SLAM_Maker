@@ -1,0 +1,8 @@
+<map id="rtabmap::util3d::segmentObstaclesFromGround" name="rtabmap::util3d::segmentObstaclesFromGround">
+<area shape="rect" id="node2" href="$namespacertabmap_1_1util3d.html#ab4c3c735b24cb1d6e92e44030e758c5c" title="rtabmap::util3d::normalFiltering" alt="" coords="221,5,427,31"/>
+<area shape="rect" id="node3" href="$namespacertabmap_1_1util3d.html#ac163d1fe283d7acd37222a13075836f1" title="rtabmap::util3d::extract\lClusters" alt="" coords="245,55,402,93"/>
+<area shape="rect" id="node4" href="$namespacertabmap_1_1util3d.html#a2b97c48e714ec3e282960486b953f52d" title="rtabmap::util3d::getMinMax3D" alt="" coords="224,117,424,143"/>
+<area shape="rect" id="node5" href="$namespacertabmap_1_1util3d.html#a80dfa166257d44fbb34d00ffcc98c4d8" title="Concatenate a vector of indices to a single vector. " alt="" coords="229,167,419,192"/>
+<area shape="rect" id="node6" href="$namespacertabmap_1_1util3d.html#a19d4a3fdc8510d76dc1c0b2a161e9703" title="rtabmap::util3d::extract\lIndices" alt="" coords="245,216,402,255"/>
+<area shape="rect" id="node7" href="$namespacertabmap_1_1util3d.html#a3097c91882ed38b2ad61d4ccefb320ba" title="rtabmap::util3d::passThrough" alt="" coords="227,279,421,304"/>
+</map>

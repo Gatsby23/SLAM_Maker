@@ -1,0 +1,8 @@
+<map id="AISNavigation::Pose3::Pose3" name="AISNavigation::Pose3::Pose3">
+<area shape="rect" id="node2" href="$struct_a_i_s_navigation_1_1_vector3.html#a89bd8d8ec3c70d9b692d198a60da7b43" title="AISNavigation::Vector3\l::roll" alt="" coords="220,5,378,44"/>
+<area shape="rect" id="node3" href="$struct_a_i_s_navigation_1_1_vector3.html#a9a16bdd45e574d4dad49cf9a2a937f83" title="AISNavigation::Vector3\l::pitch" alt="" coords="220,68,378,107"/>
+<area shape="rect" id="node4" href="$struct_a_i_s_navigation_1_1_vector3.html#a0eac1e83ee01c6e79c89220c75cca530" title="AISNavigation::Vector3::yaw" alt="" coords="204,131,394,156"/>
+<area shape="rect" id="node5" href="$struct_a_i_s_navigation_1_1_vector3.html#a6f0cc2bf8b58bc25fed06f370cd77773" title="AISNavigation::Vector3::x" alt="" coords="213,180,385,205"/>
+<area shape="rect" id="node6" href="$struct_a_i_s_navigation_1_1_vector3.html#a8ce9615d199f756d4eff49dd3c9eabee" title="AISNavigation::Vector3::y" alt="" coords="213,229,385,255"/>
+<area shape="rect" id="node7" href="$struct_a_i_s_navigation_1_1_vector3.html#aa678da5ce00472f9a68037eed3dc31ed" title="AISNavigation::Vector3::z" alt="" coords="213,279,385,304"/>
+</map>

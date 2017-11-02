@@ -1,0 +1,19 @@
+<map id="LZ4_compressHC2_continue" name="LZ4_compressHC2_continue">
+<area shape="rect" id="node2" href="$lz4hc_8c.html#ae5971fc1bbbafebec5bdf9739ca540b6" title="LZ4HC_compress_generic" alt="" coords="247,130,427,155"/>
+<area shape="rect" id="node3" href="$lz4hc_8c.html#a343d274d3a75754e8c7803cb72584772" title="LZ4HC_InsertAndFindBestMatch" alt="" coords="477,130,694,155"/>
+<area shape="rect" id="node14" href="$lz4hc_8c.html#ab0d406d62fa16192735e1f4c5e9a685a" title="LZ4HC_InsertAndGetWiderMatch" alt="" coords="475,54,696,79"/>
+<area shape="rect" id="node15" href="$lz4hc_8c.html#a4461f48b9b055f10a072b1d1799ed31e" title="LZ4HC_encodeSequence" alt="" coords="498,407,673,432"/>
+<area shape="rect" id="node4" href="$lz4hc_8c.html#ab8eb5e3c69c3dd15264f4d1b277aaead" title="LZ4HC_Insert" alt="" coords="747,54,852,79"/>
+<area shape="rect" id="node5" href="$lz4hc_8c.html#a6dfb17b725951af3ff632df33fc8cb36" title="LZ4HC_hashPtr" alt="" coords="923,54,1040,79"/>
+<area shape="rect" id="node6" href="$lz4_8c.html#a91090d7f3d29948be259526ace41da4c" title="LZ4_read32" alt="" coords="1126,104,1219,130"/>
+<area shape="rect" id="node7" href="$lz4_8c.html#ab8919e7197ca3e2e3b1789b3a66c0703" title="LZ4_count" alt="" coords="757,206,842,231"/>
+<area shape="rect" id="node8" href="$lz4_8c.html#aae7aec5429d810d72971501f66d6d79c" title="LZ4_read_ARCH" alt="" coords="919,255,1043,280"/>
+<area shape="rect" id="node9" href="$lz4_8c.html#ab7bfc24aa9fe12cae4f0da4538c08aef" title="LZ4_64bits" alt="" coords="1129,306,1216,331"/>
+<area shape="rect" id="node11" href="$lz4_8c.html#ac0c3137c89a9186b6422b4dd1842a05d" title="LZ4_NbCommonBytes" alt="" coords="903,356,1059,382"/>
+<area shape="rect" id="node13" href="$lz4_8c.html#adceb4c7713e1bed1554da37458db6fb6" title="LZ4_read16" alt="" coords="934,206,1028,231"/>
+<area shape="rect" id="node10" href="$lz4_8c.html#a08d108393438a63016c65c4433a95109" title="LZ4_read64" alt="" coords="1126,255,1219,280"/>
+<area shape="rect" id="node12" href="$lz4_8c.html#aa8a9ba402bf00e8e6c21691085ae9601" title="LZ4_isLittleEndian" alt="" coords="1107,382,1238,407"/>
+<area shape="rect" id="node16" href="$lz4_8c.html#a0c2e465f97a0020fd9d49af49689644b" title="LZ4_wildCopy" alt="" coords="747,456,852,482"/>
+<area shape="rect" id="node18" href="$lz4_8c.html#a3a6a0833a6f5ee0e99c80cbae73ca3a7" title="LZ4_writeLE16" alt="" coords="744,407,855,432"/>
+<area shape="rect" id="node17" href="$lz4_8c.html#ad53d5222d76f18ead9f7db9863091d18" title="LZ4_copy8" alt="" coords="937,458,1025,483"/>
+</map>

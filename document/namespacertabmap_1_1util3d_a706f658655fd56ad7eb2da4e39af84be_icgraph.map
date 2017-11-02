@@ -1,0 +1,5 @@
+<map id="rtabmap::util3d::voxelize" name="rtabmap::util3d::voxelize">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_occupancy_grid.html#ab4d219667665870613e09ad52ae239f5" title="rtabmap::OccupancyGrid\l::segmentCloud" alt="" coords="228,5,397,44"/>
+<area shape="rect" id="node3" href="$namespacertabmap_1_1util3d.html#a9b93d07997a94a78b6be6bd573e39148" title="rtabmap::util3d::occupancy2\lDFromGroundObstacles" alt="" coords="218,68,407,107"/>
+<area shape="rect" id="node4" href="$namespacertabmap_1_1util3d.html#a64f18bbc80cb46dc528487bb9ede465a" title="rtabmap::util3d::uniform\lSampling" alt="" coords="232,131,393,169"/>
+</map>

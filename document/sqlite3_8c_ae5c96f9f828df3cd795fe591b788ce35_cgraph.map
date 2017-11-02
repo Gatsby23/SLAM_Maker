@@ -1,0 +1,5 @@
+<map id="setSectorSize" name="setSectorSize">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a251e030ce1bd2e552bc2dd66b1ac36d0" title="sqlite3OsDeviceCharacteristics" alt="" coords="157,5,363,31"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aa7a19cf4335c553ca8a39a706ad761b9" title="sqlite3SectorSize" alt="" coords="198,55,322,80"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a6f3dc94b9e48b6973f57701ac10e695b" title="sqlite3OsSectorSize" alt="" coords="411,55,552,80"/>
+</map>

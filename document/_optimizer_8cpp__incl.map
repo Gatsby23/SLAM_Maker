@@ -1,0 +1,23 @@
+<map id="corelib/src/Optimizer.cpp" name="corelib/src/Optimizer.cpp">
+<area shape="rect" id="node6" href="$_optimizer_8h.html" title="rtabmap/core/Optimizer.h" alt="" coords="558,165,729,191"/>
+<area shape="rect" id="node30" href="$_graph_8h.html" title="rtabmap/core/Graph.h" alt="" coords="502,245,654,271"/>
+<area shape="rect" id="node31" href="$util3d__transforms_8h.html" title="rtabmap/core/util3d\l_transforms.h" alt="" coords="2229,239,2365,277"/>
+<area shape="rect" id="node34" href="$_registration_vis_8h.html" title="rtabmap/core/Registration\lVis.h" alt="" coords="1140,79,1315,117"/>
+<area shape="rect" id="node38" href="$_optimizer_t_o_r_o_8h.html" title="rtabmap/core/OptimizerTORO.h" alt="" coords="5,85,215,111"/>
+<area shape="rect" id="node39" href="$_optimizer_g2_o_8h.html" title="rtabmap/core/OptimizerG2O.h" alt="" coords="240,85,440,111"/>
+<area shape="rect" id="node40" href="$_optimizer_g_t_s_a_m_8h.html" title="rtabmap/core/OptimizerGTSAM.h" alt="" coords="521,85,740,111"/>
+<area shape="rect" id="node41" href="$_optimizer_c_v_s_b_a_8h.html" title="rtabmap/core/OptimizerCVSBA.h" alt="" coords="765,85,981,111"/>
+<area shape="rect" id="node7" href="$_rtabmap_exp_8h.html" title="rtabmap/core/RtabmapExp.h" alt="" coords="452,632,644,657"/>
+<area shape="rect" id="node10" href="$_link_8h.html" title="rtabmap/core/Link.h" alt="" coords="954,485,1093,511"/>
+<area shape="rect" id="node17" href="$_parameters_8h.html" title="rtabmap/core/Parameters.h" alt="" coords="829,245,1013,271"/>
+<area shape="rect" id="node19" href="$_signature_8h.html" title="rtabmap/core/Signature.h" alt="" coords="1275,245,1447,271"/>
+<area shape="rect" id="node11" href="$_transform_8h.html" title="rtabmap/core/Transform.h" alt="" coords="1776,559,1951,584"/>
+<area shape="rect" id="node18" href="$_version_8h.html" title="rtabmap/core/Version.h" alt="" coords="841,325,1001,351"/>
+<area shape="rect" id="node24" href="$_sensor_data_8h.html" title="rtabmap/core/SensorData.h" alt="" coords="1499,325,1684,351"/>
+<area shape="rect" id="node25" href="$_camera_model_8h.html" title="rtabmap/core/CameraModel.h" alt="" coords="1616,485,1815,511"/>
+<area shape="rect" id="node27" href="$_stereo_camera_model_8h.html" title="rtabmap/core/StereoCamera\lModel.h" alt="" coords="1617,399,1807,437"/>
+<area shape="rect" id="node28" href="$_laser_scan_info_8h.html" title="rtabmap/core/LaserScanInfo.h" alt="" coords="2083,405,2284,431"/>
+<area shape="rect" id="node29" href="$_geodetic_coords_8h.html" title="rtabmap/core/GeodeticCoords.h" alt="" coords="1171,559,1383,584"/>
+<area shape="rect" id="node35" href="$_registration_8h.html" title="rtabmap/core/Registration.h" alt="" coords="1137,165,1323,191"/>
+<area shape="rect" id="node36" href="$_registration_info_8h.html" title="rtabmap/core/Registration\lInfo.h" alt="" coords="1471,239,1646,277"/>
+</map>

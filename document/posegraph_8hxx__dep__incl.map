@@ -1,0 +1,12 @@
+<map id="corelib/src/toro3d/posegraph.hxx" name="corelib/src/toro3d/posegraph.hxx">
+<area shape="rect" id="node2" href="$posegraph_8hh.html" title="The template class for the node parameters. The graph of poses with support to tree construction func..." alt="" coords="229,92,353,131"/>
+<area shape="rect" id="node3" href="$posegraph2_8hh.html" title="Defines the graph of 2D poses, with specific functionalities such as loading, saving, merging constraints, and etc. " alt="" coords="155,179,278,217"/>
+<area shape="rect" id="node7" href="$posegraph3_8hh.html" title="Defines the graph of 3D poses, with specific functionalities such as loading, saving, merging constraints, and etc. " alt="" coords="304,179,428,217"/>
+<area shape="rect" id="node4" href="$posegraph2_8cpp.html" title="Defines the graph of 2D poses, with specific functionalities such as loading, saving, merging constraints, and etc. " alt="" coords="5,265,129,304"/>
+<area shape="rect" id="node5" href="$treeoptimizer2_8hh.html" title="Defines the core optimizer class for 2D graphs which is a subclass of TreePoseGraph2. " alt="" coords="152,265,280,304"/>
+<area shape="rect" id="node6" href="$treeoptimizer2_8cpp.html" title="Defines the core optimizer class for 2D graphs which is a subclass of TreePoseGraph2. " alt="" coords="149,352,284,391"/>
+<area shape="rect" id="node8" href="$posegraph3_8cpp.html" title="Defines the graph of 3D poses, with specific functionalities such as loading, saving, merging constraints, and etc. " alt="" coords="304,265,428,304"/>
+<area shape="rect" id="node9" href="$treeoptimizer3_8hh.html" title="Defines the core optimizer class for 3D graphs which is a subclass of TreePoseGraph3. " alt="" coords="451,265,579,304"/>
+<area shape="rect" id="node10" href="$treeoptimizer3_8cpp.html" title="Defines the core optimizer class for 3D graphs which is a subclass of TreePoseGraph3. " alt="" coords="377,352,512,391"/>
+<area shape="rect" id="node11" href="$treeoptimizer3__iteration_8cpp.html" title="corelib/src/toro3d\l/treeoptimizer3_iteration.cpp" alt="" coords="536,352,726,391"/>
+</map>

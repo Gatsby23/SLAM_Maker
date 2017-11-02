@@ -1,0 +1,5 @@
+<map id="rtabmap::Rtabmap::getWords" name="rtabmap::Rtabmap::getWords">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#a15ec109dd157745f69dcd4f80efaf561" title="rtabmap::Memory::getSignature" alt="" coords="249,5,458,31"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_signature.html#a88157e5e6d88adab6823bb99067c96c7" title="rtabmap::Signature\l::getWords" alt="" coords="286,55,421,93"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_memory.html#aecb333268e0858678add037a5a59a719" title="rtabmap::Memory::_getSignature" alt="" coords="506,5,722,31"/>
+</map>

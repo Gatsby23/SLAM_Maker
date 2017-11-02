@@ -1,0 +1,10 @@
+<map id="rtabmap::VWDictionary::addNewWords" name="rtabmap::VWDictionary::addNewWords">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_flann_index.html#a4a5c33446a515bd8f0c2f73a1adaeb23" title="rtabmap::FlannIndex\l::isBuilt" alt="" coords="219,5,363,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_flann_index.html#a8191e3ba9cc7a5361443430171691df3" title="rtabmap::FlannIndex\l::featuresDim" alt="" coords="219,68,363,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_flann_index.html#ace329768df8b54b935fbe7a8921efe69" title="rtabmap::FlannIndex\l::featuresType" alt="" coords="219,131,363,169"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_flann_index.html#accf263b21aaacf3d00e6e73ccef5cc75" title="rtabmap::FlannIndex\l::knnSearch" alt="" coords="219,193,363,232"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_v_w_dictionary.html#a085d69ef577600000f397bd63abeaf69" title="rtabmap::VWDictionary\l::getNextId" alt="" coords="212,256,370,295"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_visual_word.html#a988fd37d739297c9b04c7dc156de3c66" title="rtabmap::VisualWord::id" alt="" coords="418,321,581,347"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_v_w_dictionary.html#abf3e47435ccd1d75ce3987f0309bf817" title="rtabmap::VWDictionary\l::addWordRef" alt="" coords="212,371,370,409"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_visual_word.html#a5826c6a57f9115e6766bb60e2628fe30" title="rtabmap::VisualWord\l::addRef" alt="" coords="427,371,572,409"/>
+</map>

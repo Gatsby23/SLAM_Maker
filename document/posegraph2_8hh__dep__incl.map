@@ -1,0 +1,5 @@
+<map id="corelib/src/toro3d/posegraph2.hh" name="corelib/src/toro3d/posegraph2.hh">
+<area shape="rect" id="node2" href="$posegraph2_8cpp.html" title="Defines the graph of 2D poses, with specific functionalities such as loading, saving, merging constraints, and etc. " alt="" coords="5,92,129,131"/>
+<area shape="rect" id="node3" href="$treeoptimizer2_8hh.html" title="Defines the core optimizer class for 2D graphs which is a subclass of TreePoseGraph2. " alt="" coords="152,92,280,131"/>
+<area shape="rect" id="node4" href="$treeoptimizer2_8cpp.html" title="Defines the core optimizer class for 2D graphs which is a subclass of TreePoseGraph2. " alt="" coords="149,179,284,217"/>
+</map>

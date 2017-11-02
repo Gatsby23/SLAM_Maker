@@ -1,0 +1,4 @@
+<map id="rtabmap::StereoCameraModel::StereoCameraModel" name="rtabmap::StereoCameraModel::StereoCameraModel">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_transform.html#aefc8f052315cb4ba1116ff8fc8297306" title="rtabmap::Transform\l::getIdentity" alt="" coords="254,5,392,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_transform.html#ac3654d3f6802d4b0c17b6110d1eda71a" title="rtabmap::Transform\l::Transform" alt="" coords="440,5,578,44"/>
+</map>

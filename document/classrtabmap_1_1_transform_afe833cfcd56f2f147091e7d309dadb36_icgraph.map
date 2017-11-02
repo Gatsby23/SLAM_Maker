@@ -1,0 +1,24 @@
+<map id="rtabmap::Transform::setIdentity" name="rtabmap::Transform::setIdentity">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_odometry_d_v_o.html#a1bd61317923db3011292087bd8366420" title="rtabmap::OdometryDVO\l::reset" alt="" coords="206,5,372,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_odometry_d_v_o.html#ab84990bb90e148fca21920d6b54e0c67" title="rtabmap::OdometryDVO\l::computeTransform" alt="" coords="206,68,372,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_odometry_f2_m.html#a1203f3e1f595154b758a225a2e4d8d91" title="rtabmap::OdometryF2M\l::computeTransform" alt="" coords="208,131,370,169"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_odometry_thread.html#a27c256ad489ef650279d444336765463" title="rtabmap::OdometryThread\l::handleEvent" alt="" coords="200,193,378,232"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_odometry_viso2.html#a2b8460f10bf55aa92e562338d2c565ed" title="rtabmap::OdometryViso2\l::reset" alt="" coords="204,256,374,295"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_odometry_viso2.html#ad2d4a091cde2e440220242bc5747085c" title="rtabmap::OdometryViso2\l::computeTransform" alt="" coords="204,319,374,357"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_rtabmap.html#a5e0b2eada8ae885e45df23165bb91d2f" title="rtabmap::Rtabmap::close" alt="" coords="458,243,628,268"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_rtabmap.html#a4ab6de2be120bbda75577911d52346d4" title="rtabmap::Rtabmap::trigger\lNewMap" alt="" coords="455,509,632,548"/>
+<area shape="rect" id="node18" href="$classrtabmap_1_1_rtabmap.html#af12ae46226f33adf8c4cafbe1bcf544c" title="rtabmap::Rtabmap::resetMemory" alt="" coords="435,572,652,597"/>
+<area shape="rect" id="node19" href="$classrtabmap_1_1_rtabmap.html#a589cd696bffe53a5e00898631e7d9103" title="rtabmap::Rtabmap::clearPath" alt="" coords="191,433,387,459"/>
+<area shape="rect" id="node22" href="$classrtabmap_1_1_rtabmap_thread.html#aea5c7a61adab9ed8382066806420bfac" title="rtabmap::RtabmapThread\l::clearBufferedData" alt="" coords="202,667,376,705"/>
+<area shape="rect" id="node9" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="965,357,1154,383"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_rtabmap.html#a0a1857e1aaa78ef772140c42b8749f56" title="rtabmap::Rtabmap::\l~Rtabmap" alt="" coords="739,123,878,161"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_rtabmap_thread.html#aabea5cf86e55d6669d41b0b569dac574" title="rtabmap::RtabmapThread\l::close" alt="" coords="722,185,896,224"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="1202,508,1376,547"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_rtabmap_thread.html#acf08fe27f94f6bf512abc35080063b8a" title="rtabmap::RtabmapThread\l::~RtabmapThread" alt="" coords="973,185,1147,224"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_rtabmap.html#ad7f085b6ae0fd3c7077c500c028fd5c3" title="Main loop of rtabmap. " alt="" coords="716,459,901,484"/>
+<area shape="rect" id="node16" href="$classrtabmap_1_1_rtabmap.html#a35cf8fd93f77d1c148ae6d3107725750" title="rtabmap::Rtabmap::process" alt="" coords="967,459,1153,484"/>
+<area shape="rect" id="node17" href="$classrtabmap_1_1_rtabmap_thread.html#a921bb6c18683103d08270a7e665d89dc" title="rtabmap::RtabmapThread\l::process" alt="" coords="973,508,1147,547"/>
+<area shape="rect" id="node20" href="$classrtabmap_1_1_rtabmap.html#ab797f7f5bb73a507ba4d4672cd5476df" title="rtabmap::Rtabmap::computePath" alt="" coords="700,351,917,376"/>
+<area shape="rect" id="node21" href="$classrtabmap_1_1_rtabmap.html#a9ab69f23bdf1a4e19f4b7e27a404c3c8" title="rtabmap::Rtabmap::update\lGoalIndex" alt="" coords="453,344,633,383"/>
+<area shape="rect" id="node23" href="$classrtabmap_1_1_rtabmap_thread.html#a5605a93526530d2ab401ccd07acad91b" title="rtabmap::RtabmapThread\l::mainLoopKill" alt="" coords="456,724,630,763"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="operator*" name="operator*">
+<area shape="rect" id="node2" href="$struct_d_vector.html#a6cf334eb6771902e755ebbf2135fbd0a" title="DVector::dim" alt="" coords="143,5,241,31"/>
+<area shape="rect" id="node3" href="$class_d_matrix.html#a413215781111e4a0482fb33c9bbe13e0" title="DMatrix::rows" alt="" coords="140,55,243,80"/>
+<area shape="rect" id="node4" href="$class_d_matrix.html#acd1798657ea0ead97997accaaa3f9f39" title="DMatrix::columns" alt="" coords="130,104,254,129"/>
+</map>

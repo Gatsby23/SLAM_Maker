@@ -1,0 +1,11 @@
+<map id="rtabmap::CameraModel::roi" name="rtabmap::CameraModel::roi">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_stereo_camera_model.html#ac2fb1c489ae60bd7e4c104515db3c3a9" title="rtabmap::StereoCameraModel::roi" alt="" coords="237,5,460,31"/>
+<area shape="rect" id="node3" href="$namespacertabmap_1_1util3d.html#a0c94ef2bc3a75501b5b4bc70567b9dd0" title="rtabmap::util3d::cloudFrom\lSensorData" alt="" coords="258,55,438,93"/>
+<area shape="rect" id="node5" href="$namespacertabmap_1_1util3d.html#a7988fe78d61c9474feee03118bf7ded0" title="rtabmap::util3d::cloudRGBFrom\lSensorData" alt="" coords="244,117,453,156"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_odometry.html#a4fcbe67de2ec6f23829e3962ee586315" title="rtabmap::Odometry::\lprocess" alt="" coords="521,55,664,93"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_camera_thread.html#aba9e3775217a8bd7e10fcd3e5710b655" title="rtabmap::CameraThread\l::postUpdate" alt="" coords="509,117,676,156"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_occupancy_grid.html#a3a26dfc3108d6562ee920082446ce82b" title="rtabmap::OccupancyGrid\l::createLocalMap" alt="" coords="508,180,677,219"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_camera_thread.html#a4e4f475ed37c6696b303c3437d127682" title="rtabmap::CameraThread\l::mainLoop" alt="" coords="755,117,923,156"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_memory.html#ae57c1e215b5449431b93588dd4217703" title="rtabmap::Memory::createSignature" alt="" coords="725,187,953,212"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="1001,187,1175,212"/>
+</map>

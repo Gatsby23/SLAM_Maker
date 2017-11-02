@@ -1,0 +1,5 @@
+<map id="rtabmap::util3d::fillProjectedCloudHoles" name="rtabmap::util3d::fillProjectedCloudHoles">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera_images.html#a00a3e412173771537411a1683c18c0f7" title="rtabmap::CameraImages\l::captureImage" alt="" coords="239,37,408,76"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera_r_g_b_d_images.html#aee8dd9e887c5342a9eef225d45f8ac0c" title="rtabmap::CameraRGBDImages\l::captureImage" alt="" coords="456,5,664,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_camera_stereo_images.html#a3fc92d104807f923c70e9e820e25a473" title="rtabmap::CameraStereoImages\l::captureImage" alt="" coords="456,68,664,107"/>
+</map>

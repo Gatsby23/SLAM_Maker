@@ -1,0 +1,8 @@
+<map id="rtabmap::Memory::getWeights" name="rtabmap::Memory::getWeights">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_rtabmap.html#a353361aeeece3ce8c799d168a5798a01" title="rtabmap::Rtabmap::getWeights" alt="" coords="253,5,459,31"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_rtabmap.html#ad7f085b6ae0fd3c7077c500c028fd5c3" title="Main loop of rtabmap. " alt="" coords="263,55,449,80"/>
+<area shape="rect" id="node4" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="507,5,695,31"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_rtabmap.html#a35cf8fd93f77d1c148ae6d3107725750" title="rtabmap::Rtabmap::process" alt="" coords="508,55,694,80"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_rtabmap_thread.html#a921bb6c18683103d08270a7e665d89dc" title="rtabmap::RtabmapThread\l::process" alt="" coords="514,104,688,143"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="743,104,917,143"/>
+</map>

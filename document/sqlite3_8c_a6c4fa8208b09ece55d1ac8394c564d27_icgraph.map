@@ -1,0 +1,9 @@
+<map id="sqlite3PagerSetFlags" name="sqlite3PagerSetFlags">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ae7501dffaa3b3fcd63da529a903d8295" title="sqlite3BtreeSetPagerFlags" alt="" coords="201,31,381,56"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a69cb751a7da501b9a0aa37e0d7c3eaf7" title="attachFunc" alt="" coords="447,5,534,31"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a2efd6f200d070a904b8575da494cdeec" title="setAllPagerFlags" alt="" coords="429,55,551,80"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ae0907fe0b43cc1b4c7e6a16213e8546f" title="sqlite3Attach" alt="" coords="604,5,702,31"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a7c419a9b25711c666a9a2449ef377f14" title="yy_reduce" alt="" coords="754,31,837,56"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a0327d71a5fabe0b6a343d78a2602e72a" title="sqlite3Parser" alt="" coords="885,31,984,56"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a111391370f58f8e6a6eca51fd34d62ed" title="sqlite3Pragma" alt="" coords="599,55,706,80"/>
+</map>

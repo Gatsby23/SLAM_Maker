@@ -1,0 +1,17 @@
+<map id="rtabmap::Registration::computeTransformation" name="rtabmap::Registration::computeTransformation">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_registration.html#a44530cd77f6d0a9657251864fb136c0d" title="rtabmap::Registration\l::computeTransformationMod" alt="" coords="222,209,417,248"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_transform.html#a0d6a1985391a45de4fe208e58c51b9d2" title="rtabmap::Transform\l::isNull" alt="" coords="1164,5,1302,44"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_transform.html#a3a1b7b3d9f2db760b8eff9f3f90cd405" title="rtabmap::Transform\l::to3DoF" alt="" coords="494,240,631,279"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_registration.html#a21635a391a85b64bc33787179a6cd71b" title="rtabmap::Registration\l::computeTransformationImpl" alt="" coords="465,303,660,341"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_registration.html#a579bcbc81779aa5a255bce37c0c915c9" title="rtabmap::Registration\l::normalizeCovariance" alt="" coords="486,177,639,216"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="1350,37,1488,76"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_transform.html#a1d69c9ae9129ccffe30b971ed8747adc" title="rtabmap::Transform::x" alt="" coords="964,219,1116,244"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_transform.html#af7d90ee7b9ace464ea80dad90e3df9a3" title="rtabmap::Transform::y" alt="" coords="964,287,1116,312"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_transform.html#af3c3671ae31945e689ee9a84deca5d6b" title="rtabmap::Transform::z" alt="" coords="964,336,1116,361"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_transform.html#aad65adff491fd57a31dbe4e26d7f29af" title="rtabmap::Transform\l::getTranslationAndEulerAngles" alt="" coords="708,125,916,164"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_transform.html#ac3654d3f6802d4b0c17b6110d1eda71a" title="rtabmap::Transform\l::Transform" alt="" coords="743,405,881,444"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_transform.html#a76e359a47eab8b98684ef0fa36da413f" title="rtabmap::Transform\l::toEigen3f" alt="" coords="971,68,1109,107"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_transform.html#a1cb08be14adcabc0999eca4db3c67812" title="rtabmap::Transform\l::toEigen4f" alt="" coords="1164,68,1302,107"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_transform.html#af3c46b76fe855b0334a7f255792a6082" title="rtabmap::Transform\l::getNorm" alt="" coords="743,240,881,279"/>
+<area shape="rect" id="node16" href="$classrtabmap_1_1_transform.html#a24ce4cd1d812a596b82c269c665e90a7" title="rtabmap::Transform\l::getAngle" alt="" coords="743,63,881,101"/>
+</map>

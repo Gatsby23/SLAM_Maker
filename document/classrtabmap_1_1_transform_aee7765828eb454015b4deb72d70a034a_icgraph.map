@@ -1,0 +1,8 @@
+<map id="rtabmap::Transform::getNormSquared" name="rtabmap::Transform::getNormSquared">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_odometry_mono.html#af59c2d45e7a683f8cd3dfc22def75733" title="rtabmap::OdometryMono\l::computeTransform" alt="" coords="199,5,369,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_rtabmap.html#ad7f085b6ae0fd3c7077c500c028fd5c3" title="Main loop of rtabmap. " alt="" coords="191,68,377,93"/>
+<area shape="rect" id="node4" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="425,19,614,44"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_rtabmap.html#a35cf8fd93f77d1c148ae6d3107725750" title="rtabmap::Rtabmap::process" alt="" coords="427,68,612,93"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_rtabmap_thread.html#a921bb6c18683103d08270a7e665d89dc" title="rtabmap::RtabmapThread\l::process" alt="" coords="433,117,607,156"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="662,117,836,156"/>
+</map>

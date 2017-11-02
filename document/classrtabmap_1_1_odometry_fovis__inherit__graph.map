@@ -1,0 +1,3 @@
+<map id="rtabmap::OdometryFovis" name="rtabmap::OdometryFovis">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_odometry.html" title="{rtabmap::Odometry\n|&#45; _resetCountdown\l&#45; _force3DoF\l&#45; _holonomic\l&#45; guessFromMotion_\l&#45; _filteringStrategy\l&#45; _particleSize\l&#45; _particleNoiseT\l&#45; _particleLambdaT\l&#45; _particleNoiseR\l&#45; _particleLambdaR\land 14 more...\l|+ ~Odometry()\l+ process()\l+ process()\l+ reset()\l+ getType()\l+ getPose()\l+ isInfoDataFilled()\l+ previousVelocityTransform()\l+ previousStamp()\l+ framesProcessed()\l+ create()\l+ create()\l# Odometry()\l&#45; computeTransform()\l&#45; initKalmanFilter()\l&#45; predictKalmanFilter()\l&#45; updateKalmanFilter()\l}" alt="" coords="5,5,204,425"/>
+</map>

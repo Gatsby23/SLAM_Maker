@@ -1,0 +1,8 @@
+<map id="sqlite3BtreeLeaveCursor" name="sqlite3BtreeLeaveCursor">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#afff57e13332b98c8a44a7cebe38962ab" title="blobSeekToRow" alt="" coords="221,55,339,80"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a6c1d57e4337ee1b8655215c06dea4046" title="blobReadWrite" alt="" coords="226,104,335,129"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#adb8ad839a5bdd62a43785132bc7dd518" title="sqlite3_blob_open" alt="" coords="393,5,523,31"/>
+<area shape="rect" id="node4" href="$sqlite3_8h.html#abc77c24fdc0150138490359a94360f7e" title="sqlite3_blob_reopen" alt="" coords="387,55,529,80"/>
+<area shape="rect" id="node6" href="$sqlite3_8h.html#ae63f397da378931a64a597069ce3532a" title="sqlite3_blob_read" alt="" coords="395,104,521,129"/>
+<area shape="rect" id="node7" href="$sqlite3_8h.html#a0dd24c2ce4bfd36279ed96e8266b1d87" title="sqlite3_blob_write" alt="" coords="394,153,522,179"/>
+</map>

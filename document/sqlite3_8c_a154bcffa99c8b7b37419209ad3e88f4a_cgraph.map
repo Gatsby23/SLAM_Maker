@@ -1,0 +1,16 @@
+<map id="sqlite3VdbeMemReleaseExternal" name="sqlite3VdbeMemReleaseExternal">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="1246,94,1382,119"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a2568220f48ddef81b1c43e401042d9d2" title="sqlite3VdbeMemFinalize" alt="" coords="489,43,656,69"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#a90606361dbeba88159fd6ff03fcc10cc" title="sqlite3VdbeMemRelease" alt="" coords="272,94,441,119"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#ae153de0cd969511a607e26deeca80342" title="sqlite3RowSetClear" alt="" coords="503,145,642,170"/>
+<area shape="rect" id="node15" href="$sqlite3_8c.html#ae01092c23aebaf8a3ebdf3954609b410" title="sqlite3VdbeMemSetNull" alt="" coords="275,195,438,221"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="704,145,808,170"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aa397e5a8a03495203a0767abf0a71f86" title="sqlite3DbMallocSize" alt="" coords="856,145,998,170"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a770fa05ff9717b75e16f4d968a77b897" title="isLookaside" alt="" coords="1071,195,1163,221"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="882,294,972,319"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="1046,245,1188,270"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="1056,294,1178,319"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="1055,343,1179,369"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="1046,393,1189,418"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a83967c837c1c000d3b5adcfaa688f5dc" title="sqlite3_mutex_notheld" alt="" coords="1237,393,1391,418"/>
+</map>

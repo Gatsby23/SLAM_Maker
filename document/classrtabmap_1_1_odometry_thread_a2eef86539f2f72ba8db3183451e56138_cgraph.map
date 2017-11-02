@@ -1,0 +1,17 @@
+<map id="rtabmap::OdometryThread::mainLoop" name="rtabmap::OdometryThread::mainLoop">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_odometry.html#a4b50f655bb8023ea6f7c9dbeab570dda" title="rtabmap::Odometry::\lreset" alt="" coords="249,149,393,188"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_transform.html#a61ff0bf933e0e7f220f20745df3d0818" title="rtabmap::Transform\l::prettyPrint" alt="" coords="461,235,599,273"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_odometry_thread.html#a955868edb66b544698affed00fe87467" title="rtabmap::OdometryThread\l::getData" alt="" coords="232,292,410,331"/>
+<area shape="rect" id="node16" href="$classrtabmap_1_1_odometry.html#a0c2d39ed9b76c2c411a9e62e16e3bce1" title="rtabmap::Odometry::\lprocess" alt="" coords="249,355,393,393"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_transform.html#a0d6a1985391a45de4fe208e58c51b9d2" title="rtabmap::Transform\l::isNull" alt="" coords="685,91,823,129"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_transform.html#af0020cf4093b8b1a3d1f68ee657b3662" title="rtabmap::Transform\l::setNull" alt="" coords="461,5,599,44"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_transform.html#aad65adff491fd57a31dbe4e26d7f29af" title="rtabmap::Transform\l::getTranslationAndEulerAngles" alt="" coords="650,153,858,192"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_odometry.html#a760fcaab74be2af917b280a22129c313" title="rtabmap::Odometry::\linitKalmanFilter" alt="" coords="458,120,602,159"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="1278,121,1416,160"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_transform.html#ac3654d3f6802d4b0c17b6110d1eda71a" title="rtabmap::Transform\l::Transform" alt="" coords="685,5,823,44"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_transform.html#a76e359a47eab8b98684ef0fa36da413f" title="rtabmap::Transform\l::toEigen3f" alt="" coords="906,151,1044,189"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_transform.html#a1cb08be14adcabc0999eca4db3c67812" title="rtabmap::Transform\l::toEigen4f" alt="" coords="1092,149,1230,188"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_transform.html#a1d69c9ae9129ccffe30b971ed8747adc" title="rtabmap::Transform::x" alt="" coords="678,315,830,340"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_transform.html#af7d90ee7b9ace464ea80dad90e3df9a3" title="rtabmap::Transform::y" alt="" coords="678,216,830,241"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_transform.html#af3c3671ae31945e689ee9a84deca5d6b" title="rtabmap::Transform::z" alt="" coords="678,265,830,291"/>
+</map>

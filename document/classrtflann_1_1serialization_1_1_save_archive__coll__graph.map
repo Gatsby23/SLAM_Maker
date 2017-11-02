@@ -1,0 +1,6 @@
+<map id="rtflann::serialization::SaveArchive" name="rtflann::serialization::SaveArchive">
+<area shape="rect" id="node2" href="$classrtflann_1_1serialization_1_1_output_archive.html" title="{rtflann::serialization\l::OutputArchive\&lt; SaveArchive \&gt;\n||+ operator&amp;()\l# OutputArchive()\l}" alt="" coords="5,316,216,416"/>
+<area shape="rect" id="node3" href="$classrtflann_1_1serialization_1_1_archive_base.html" title="{rtflann::serialization\l::ArchiveBase\n|&#45; object_\l|+ getObject()\l+ setObject()\l}" alt="" coords="37,5,174,105"/>
+<area shape="rect" id="node4" href="$classrtflann_1_1serialization_1_1_output_archive.html" title="{rtflann::serialization\l::OutputArchive\&lt; Archive \&gt;\n||+ operator &amp;()\l# OutputArchive()\l}" alt="" coords="126,155,306,255"/>
+<area shape="rect" id="node5" href="$struct_l_z4__stream_h_c__t.html" title="{LZ4_streamHC_t\n|+ table\l|}" alt="" coords="240,329,363,403"/>
+</map>

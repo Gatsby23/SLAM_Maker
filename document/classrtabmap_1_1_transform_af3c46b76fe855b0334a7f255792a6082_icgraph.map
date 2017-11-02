@@ -1,0 +1,25 @@
+<map id="rtabmap::Transform::getNorm" name="rtabmap::Transform::getNorm">
+<area shape="rect" id="node2" href="$namespacertabmap_1_1graph.html#a5e9903d8b65340ac447d795e56179ad4" title="rtabmap::graph::computePath" alt="" coords="191,5,389,31"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_odometry.html#a4fcbe67de2ec6f23829e3962ee586315" title="rtabmap::Odometry::\lprocess" alt="" coords="218,55,362,93"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_odometry_d_v_o.html#ab84990bb90e148fca21920d6b54e0c67" title="rtabmap::OdometryDVO\l::computeTransform" alt="" coords="208,117,373,156"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_odometry_mono.html#af59c2d45e7a683f8cd3dfc22def75733" title="rtabmap::OdometryMono\l::computeTransform" alt="" coords="205,180,375,219"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_registration.html#a579bcbc81779aa5a255bce37c0c915c9" title="rtabmap::Registration\l::normalizeCovariance" alt="" coords="213,243,367,281"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_rtabmap.html#ad7f085b6ae0fd3c7077c500c028fd5c3" title="Main loop of rtabmap. " alt="" coords="1163,283,1349,308"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_registration.html#a44530cd77f6d0a9657251864fb136c0d" title="rtabmap::Registration\l::computeTransformationMod" alt="" coords="437,243,632,281"/>
+<area shape="rect" id="node24" href="$classrtabmap_1_1_registration_vis.html#ad58a6cdcc37eb85639f50da6089f0e32" title="rtabmap::RegistrationVis\l::computeTransformationImpl" alt="" coords="437,156,632,195"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_memory.html#a4ae0287262c04905baab2d6f94448486" title="rtabmap::Memory::compute\lTransform" alt="" coords="931,155,1115,193"/>
+<area shape="rect" id="node17" href="$classrtabmap_1_1_odometry_f2_f.html#a6d49a1960e7e0d9a4459cfaad2e8fdc6" title="rtabmap::OdometryF2F\l::computeTransform" alt="" coords="701,273,861,312"/>
+<area shape="rect" id="node18" href="$classrtabmap_1_1_odometry_f2_m.html#a1203f3e1f595154b758a225a2e4d8d91" title="rtabmap::OdometryF2M\l::computeTransform" alt="" coords="700,336,863,375"/>
+<area shape="rect" id="node19" href="$classrtabmap_1_1_optimizer.html#ac2f90d3b87e0e2b3b449d7ebe8cfde41" title="rtabmap::Optimizer\l::computeBACorrespondences" alt="" coords="680,93,883,132"/>
+<area shape="rect" id="node21" href="$classrtabmap_1_1_registration.html#aa6b81a6f4137138a1b49510cc3f97679" title="rtabmap::Registration\l::computeTransformation" alt="" coords="697,211,866,249"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_memory.html#a29636c34234e6e2809e3d57329dc40d6" title="rtabmap::Memory::compute\lTransform" alt="" coords="1164,155,1348,193"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_rtabmap.html#ab4a451d9183305f4f457862340b245ed" title="rtabmap::Rtabmap::detect\lMoreLoopClosures" alt="" coords="1168,217,1344,256"/>
+<area shape="rect" id="node16" href="$classrtabmap_1_1_rtabmap.html#a6650c241bd6a89f66718ce7a227dfe10" title="rtabmap::Rtabmap::refine\lLinks" alt="" coords="1170,92,1342,131"/>
+<area shape="rect" id="node11" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="1397,233,1586,259"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_rtabmap.html#a35cf8fd93f77d1c148ae6d3107725750" title="rtabmap::Rtabmap::process" alt="" coords="1399,283,1584,308"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_rtabmap_thread.html#a921bb6c18683103d08270a7e665d89dc" title="rtabmap::RtabmapThread\l::process" alt="" coords="1405,332,1579,371"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="1634,332,1808,371"/>
+<area shape="rect" id="node20" href="$classrtabmap_1_1_optimizer.html#a613b0191db68416e6f4fdfc66379b7c2" title="rtabmap::Optimizer\l::optimizeBA" alt="" coords="956,92,1090,131"/>
+<area shape="rect" id="node22" href="$classrtabmap_1_1_memory.html#a0463f12cb8a4cacfce12c643c48b7df0" title="rtabmap::Memory::compute\lIcpTransform" alt="" coords="931,217,1115,256"/>
+<area shape="rect" id="node23" href="$classrtabmap_1_1_memory.html#a34aa7efd5f6ce0fd3136459542ad8ebb" title="rtabmap::Memory::compute\lIcpTransformMulti" alt="" coords="931,280,1115,319"/>
+</map>

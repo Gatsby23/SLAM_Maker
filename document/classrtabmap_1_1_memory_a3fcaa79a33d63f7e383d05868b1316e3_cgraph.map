@@ -1,0 +1,9 @@
+<map id="rtabmap::Memory::removeLink" name="rtabmap::Memory::removeLink">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#aecb333268e0858678add037a5a59a719" title="rtabmap::Memory::_getSignature" alt="" coords="255,5,472,31"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_signature.html#a31c6e7b7e720eca20fb5935e0ee1d9f9" title="rtabmap::Signature::id" alt="" coords="287,55,440,80"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_signature.html#a88ef774c7ad48509fbdab7ad8f7a5d7c" title="rtabmap::Signature\l::hasLink" alt="" coords="296,104,431,143"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_signature.html#a2afa282617cff501b89998ec4d29b6e0" title="rtabmap::Signature\l::getLinks" alt="" coords="296,167,431,205"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_signature.html#a701b32c562d789929a18a19c08bac4ca" title="rtabmap::Signature\l::getWeight" alt="" coords="296,229,431,268"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_signature.html#a28cc9f0c8d553a24ef9e5227be1c99fe" title="rtabmap::Signature\l::setWeight" alt="" coords="296,292,431,331"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_signature.html#abbd9806c2b20182217d2269c7398541e" title="rtabmap::Signature\l::removeLink" alt="" coords="296,355,431,393"/>
+</map>

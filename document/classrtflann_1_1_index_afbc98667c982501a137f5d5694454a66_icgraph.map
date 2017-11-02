@@ -1,0 +1,31 @@
+<map id="rtflann::Index::buildIndex" name="rtflann::Index::buildIndex">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_flann_index.html#aff6ec4930ec87f6cb27d91a316c025cd" title="rtabmap::FlannIndex\l::buildLinearIndex" alt="" coords="234,337,378,376"/>
+<area shape="rect" id="node27" href="$classrtabmap_1_1_flann_index.html#a24d05a2546d481658617cfa073a596b0" title="rtabmap::FlannIndex\l::buildKDTreeIndex" alt="" coords="234,149,378,188"/>
+<area shape="rect" id="node28" href="$classrtabmap_1_1_flann_index.html#a93195bb592ba21f47a37444e88ad14e3" title="rtabmap::FlannIndex\l::buildKDTreeSingleIndex" alt="" coords="220,400,392,439"/>
+<area shape="rect" id="node29" href="$classrtabmap_1_1_flann_index.html#af503b45234374457f7604e613a023be8" title="rtabmap::FlannIndex\l::buildLSHIndex" alt="" coords="234,212,378,251"/>
+<area shape="rect" id="node30" href="$classrtabmap_1_1_flann_index.html#a0eacc0c8532baa4cee37913e1e9b2650" title="rtabmap::FlannIndex\l::addPoints" alt="" coords="234,275,378,313"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_v_w_dictionary.html#a1c1f28b1619e2818ab618c96d807cf7c" title="rtabmap::VWDictionary\l::update" alt="" coords="440,244,598,283"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_memory.html#a0ca2455a6afa82dfecfdcfdc02299b52" title="rtabmap::Memory::loadData\lFromDb" alt="" coords="890,124,1076,163"/>
+<area shape="rect" id="node20" href="$classrtabmap_1_1_memory.html#ab0ff6e17336d0af53dc9449d12efaeb3" title="rtabmap::Memory::preUpdate" alt="" coords="646,307,842,332"/>
+<area shape="rect" id="node22" href="$classrtabmap_1_1_registration_vis.html#ad58a6cdcc37eb85639f50da6089f0e32" title="rtabmap::RegistrationVis\l::computeTransformationImpl" alt="" coords="647,356,841,395"/>
+<area shape="rect" id="node23" href="$classrtabmap_1_1_v_w_dictionary.html#a5f3712744b9f7beb5da186a842f7d74a" title="rtabmap::VWDictionary\l::setFixedDictionary" alt="" coords="665,181,823,220"/>
+<area shape="rect" id="node26" href="$classrtabmap_1_1_v_w_dictionary.html#a4a8e41703a6ba2f4e8dd8e8731915f19" title="rtabmap::VWDictionary\l::setNNStrategy" alt="" coords="665,244,823,283"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_memory.html#aeeabc78648bf7dc14ea1356828cdeddd" title="rtabmap::Memory::init" alt="" coords="1454,131,1604,156"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_memory.html#a72f6c18390f9cae3bc605912ce56a7cb" title="rtabmap::Memory::parseParameters" alt="" coords="1124,181,1360,207"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_odometry_mono.html#a70291ffff0cad044bf74dfdd0254d2d1" title="rtabmap::OdometryMono\l::OdometryMono" alt="" coords="1721,5,1891,44"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_odometry_mono.html#a94a2a76070fead26339132d207045ab7" title="rtabmap::OdometryMono\l::reset" alt="" coords="1721,68,1891,107"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_rtabmap.html#ae681073a3089c235b4b615c823af646e" title="rtabmap::Rtabmap::init" alt="" coords="1728,180,1884,205"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_rtabmap.html#af12ae46226f33adf8c4cafbe1bcf544c" title="rtabmap::Rtabmap::resetMemory" alt="" coords="1697,131,1914,156"/>
+<area shape="rect" id="node9" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="1962,236,2151,261"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_rtabmap.html#ace677b762b97392bd49ae4c535280541" title="rtabmap::Rtabmap::init" alt="" coords="1979,124,2135,149"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="1970,173,2144,212"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_memory.html#a24d451cdf46a9cc04cce995142a101d4" title="rtabmap::Memory::Memory" alt="" coords="1438,181,1619,207"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_rtabmap.html#a5a461ed88e83d2dbebee819ab6690e7a" title="rtabmap::Rtabmap::parseParameters" alt="" coords="1408,231,1649,256"/>
+<area shape="rect" id="node16" href="$classrtabmap_1_1_rtabmap.html#a5e0b2eada8ae885e45df23165bb91d2f" title="rtabmap::Rtabmap::close" alt="" coords="1721,281,1891,307"/>
+<area shape="rect" id="node17" href="$classrtabmap_1_1_rtabmap.html#a0a1857e1aaa78ef772140c42b8749f56" title="rtabmap::Rtabmap::\l~Rtabmap" alt="" coords="1987,348,2126,387"/>
+<area shape="rect" id="node18" href="$classrtabmap_1_1_rtabmap_thread.html#aabea5cf86e55d6669d41b0b569dac574" title="rtabmap::RtabmapThread\l::close" alt="" coords="1970,285,2144,324"/>
+<area shape="rect" id="node19" href="$classrtabmap_1_1_rtabmap_thread.html#acf08fe27f94f6bf512abc35080063b8a" title="rtabmap::RtabmapThread\l::~RtabmapThread" alt="" coords="2199,285,2373,324"/>
+<area shape="rect" id="node21" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="896,307,1070,332"/>
+<area shape="rect" id="node24" href="$classrtabmap_1_1_v_w_dictionary.html#ab1a2ac7f2a30c90e8195d65a4d6279e1" title="rtabmap::VWDictionary\l::parseParameters" alt="" coords="904,187,1062,225"/>
+<area shape="rect" id="node25" href="$classrtabmap_1_1_v_w_dictionary.html#ada3980b520d8411a1ebb3ce14e2f8734" title="rtabmap::VWDictionary\l::VWDictionary" alt="" coords="1163,237,1321,276"/>
+</map>

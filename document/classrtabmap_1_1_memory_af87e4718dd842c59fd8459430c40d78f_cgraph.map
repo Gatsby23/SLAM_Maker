@@ -1,0 +1,29 @@
+<map id="rtabmap::Memory::cleanup" name="rtabmap::Memory::cleanup">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_signature.html#a693874de0d6ede4fe5c5d43d6f4d8b55" title="rtabmap::Signature\l::isBadSignature" alt="" coords="535,72,670,111"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_signature.html#a31c6e7b7e720eca20fb5935e0ee1d9f9" title="rtabmap::Signature::id" alt="" coords="790,319,942,344"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_memory.html#a7a03169eea501fe5f61bb8dee60c06f1" title="rtabmap::Memory::moveToTrash" alt="" coords="233,597,447,623"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_signature.html#a0d15326165e9d01f0b91b247f5da23ea" title="rtabmap::Signature\l::isSaved" alt="" coords="535,1119,670,1157"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_memory.html#a19fe91598153249250ac4870db535e8e" title="rtabmap::Memory::isInSTM" alt="" coords="511,1181,693,1207"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_signature.html#a2afa282617cff501b89998ec4d29b6e0" title="rtabmap::Signature\l::getLinks" alt="" coords="799,519,933,557"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_memory.html#aecb333268e0858678add037a5a59a719" title="rtabmap::Memory::_getSignature" alt="" coords="758,707,974,732"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_signature.html#a88ef774c7ad48509fbdab7ad8f7a5d7c" title="rtabmap::Signature\l::hasLink" alt="" coords="535,1231,670,1269"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_signature.html#a28cc9f0c8d553a24ef9e5227be1c99fe" title="rtabmap::Signature\l::setWeight" alt="" coords="535,187,670,225"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_signature.html#a701b32c562d789929a18a19c08bac4ca" title="rtabmap::Signature\l::getWeight" alt="" coords="535,249,670,288"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_signature.html#abbd9806c2b20182217d2269c7398541e" title="rtabmap::Signature\l::removeLink" alt="" coords="799,644,933,683"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_signature.html#a2d90940afc30370f124627a872b1b2c6" title="rtabmap::Signature\l::removeLinks" alt="" coords="535,375,670,413"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_signature.html#aa6dc3ad065ae2fd29afbbe69429f3a7b" title="rtabmap::Signature\l::setLabel" alt="" coords="535,437,670,476"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_memory.html#aa77fb0f90185a274b3e9d0c609ce14ed" title="rtabmap::Memory::removeVirtual\lLinks" alt="" coords="495,677,710,716"/>
+<area shape="rect" id="node17" href="$classrtabmap_1_1_memory.html#afbe60365b30586ca6749fe8d891c7c6f" title="rtabmap::Memory::disable\lWordsRef" alt="" coords="515,843,690,881"/>
+<area shape="rect" id="node19" href="$classrtabmap_1_1_signature.html#a88157e5e6d88adab6823bb99067c96c7" title="rtabmap::Signature\l::getWords" alt="" coords="799,1007,933,1045"/>
+<area shape="rect" id="node24" href="$classrtabmap_1_1_visual_word.html#a988fd37d739297c9b04c7dc156de3c66" title="rtabmap::VisualWord::id" alt="" coords="1022,945,1185,971"/>
+<area shape="rect" id="node26" href="$classrtabmap_1_1_v_w_dictionary.html#abbd007a028847ecbbdd50e3480ba95e3" title="rtabmap::VWDictionary\l::getUnusedWord" alt="" coords="523,500,682,539"/>
+<area shape="rect" id="node27" href="$classrtabmap_1_1_v_w_dictionary.html#ab49fe8d8b121f632aa250ed7d9c2214c" title="rtabmap::VWDictionary\l::removeWords" alt="" coords="523,563,682,601"/>
+<area shape="rect" id="node28" href="$classrtabmap_1_1_d_b_driver.html#ad1510e157f3ab8df3284528369a6d88f" title="rtabmap::DBDriver::\lasyncSave" alt="" coords="533,312,672,351"/>
+<area shape="rect" id="node16" href="$classrtabmap_1_1_signature.html#a328419f90f9dd8113dee4e38c9e30367" title="rtabmap::Signature\l::removeVirtualLinks" alt="" coords="795,581,937,620"/>
+<area shape="rect" id="node18" href="$classrtabmap_1_1_signature.html#a343a565680d03c45cc29dff7392b275e" title="rtabmap::Signature\l::isEnabled" alt="" coords="799,881,933,920"/>
+<area shape="rect" id="node20" href="$classrtabmap_1_1_v_w_dictionary.html#a98447a880fdcf91709f00d00cfd4e54d" title="rtabmap::VWDictionary\l::getTotalActiveReferences" alt="" coords="776,944,956,983"/>
+<area shape="rect" id="node21" href="$classrtabmap_1_1_v_w_dictionary.html#ac4a70358ca2db8e63c67a30383a1d34b" title="rtabmap::VWDictionary\l::removeAllWordRef" alt="" coords="787,756,945,795"/>
+<area shape="rect" id="node25" href="$classrtabmap_1_1_signature.html#a51a08cbabd87eb0fd5045ffdb4cb3c00" title="rtabmap::Signature\l::setEnabled" alt="" coords="799,819,933,857"/>
+<area shape="rect" id="node22" href="$classrtabmap_1_1_visual_word.html#a63364292bdd9921668187b16c2e0457e" title="rtabmap::VisualWord\l::removeAllRef" alt="" coords="1031,788,1176,827"/>
+<area shape="rect" id="node23" href="$classrtabmap_1_1_visual_word.html#a55544d28ca539be9e3c78fafd430ac21" title="rtabmap::VisualWord\l::getReferences" alt="" coords="1031,725,1176,764"/>
+</map>

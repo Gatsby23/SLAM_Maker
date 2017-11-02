@@ -1,0 +1,7 @@
+<map id="rtflann::HierarchicalClusteringIndex::buildIndexImpl" name="rtflann::HierarchicalClusteringIndex::buildIndexImpl">
+<area shape="rect" id="node2" href="$classrtflann_1_1_index.html#a9bc48ff4018003041ac55ef28f406b5d" title="rtflann::Index::size" alt="" coords="273,5,402,31"/>
+<area shape="rect" id="node3" href="$classrtflann_1_1_heap.html#a9d8024cc712149fb2b69e44c6d7d894e" title="rtflann::Heap::popMin" alt="" coords="263,55,412,80"/>
+<area shape="rect" id="node4" href="$classrtflann_1_1_dynamic_bitset.html#a211e1bb9ee0d0db0d1e5bf15adc247c7" title="rtflann::DynamicBitset\l::test" alt="" coords="262,104,413,143"/>
+<area shape="rect" id="node5" href="$classrtflann_1_1_dynamic_bitset.html#a7b3fbe777b1ce6b14b00d315816e48ef" title="rtflann::DynamicBitset::set" alt="" coords="250,167,426,192"/>
+<area shape="rect" id="node6" href="$classrtflann_1_1_heap.html#a5fc5ac79c59c2da76e77d896ec83eb30" title="rtflann::Heap::insert" alt="" coords="269,216,406,241"/>
+</map>

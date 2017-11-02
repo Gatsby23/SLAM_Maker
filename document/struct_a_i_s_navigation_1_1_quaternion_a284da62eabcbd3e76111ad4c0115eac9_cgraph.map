@@ -1,0 +1,5 @@
+<map id="AISNavigation::Quaternion::rotateThisAlong" name="AISNavigation::Quaternion::rotateThisAlong">
+<area shape="rect" id="node2" href="$struct_a_i_s_navigation_1_1_quaternion.html#a83c535a1305028cb5c002bf93277bb2f" title="AISNavigation::Quaternion\l::normalized" alt="" coords="233,5,412,44"/>
+<area shape="rect" id="node3" href="$struct_a_i_s_navigation_1_1_quaternion.html#a2f3f2e1fbc8002f078aa870268e8c36a" title="AISNavigation::Quaternion\l::withRotation" alt="" coords="233,68,412,107"/>
+<area shape="rect" id="node4" href="$struct_a_i_s_navigation_1_1_quaternion.html#a01df5ebeefa745d6d9bc2669757ae251" title="AISNavigation::Quaternion\l::rotatePoint" alt="" coords="233,131,412,169"/>
+</map>

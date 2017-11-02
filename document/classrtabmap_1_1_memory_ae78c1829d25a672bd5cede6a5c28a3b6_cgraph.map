@@ -1,0 +1,19 @@
+<map id="rtabmap::Memory::enableWordsRef" name="rtabmap::Memory::enableWordsRef">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#aecb333268e0858678add037a5a59a719" title="rtabmap::Memory::_getSignature" alt="" coords="286,5,502,31"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_signature.html#a343a565680d03c45cc29dff7392b275e" title="rtabmap::Signature\l::isEnabled" alt="" coords="326,55,461,93"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_signature.html#a88157e5e6d88adab6823bb99067c96c7" title="rtabmap::Signature\l::getWords" alt="" coords="326,117,461,156"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_v_w_dictionary.html#a5cf9981cf11f8f93280b7d0c195159e1" title="rtabmap::VWDictionary\l::getWord" alt="" coords="315,180,473,219"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_v_w_dictionary.html#abbd007a028847ecbbdd50e3480ba95e3" title="rtabmap::VWDictionary\l::getUnusedWord" alt="" coords="315,243,473,281"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_d_b_driver.html#ad55b04a17f502b126d49a7907c65efe9" title="rtabmap::DBDriver::\lloadWords" alt="" coords="324,305,463,344"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_v_w_dictionary.html#a24bdf4400e8403d5a6dab242e9b38dff" title="rtabmap::VWDictionary\l::findNN" alt="" coords="315,368,473,407"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_d_b_driver.html#ad1510e157f3ab8df3284528369a6d88f" title="rtabmap::DBDriver::\lasyncSave" alt="" coords="324,431,463,469"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_v_w_dictionary.html#aa26ec40880a666e195c7e10ac5832083" title="rtabmap::VWDictionary\l::addWord" alt="" coords="315,493,473,532"/>
+<area shape="rect" id="node16" href="$classrtabmap_1_1_v_w_dictionary.html#a98447a880fdcf91709f00d00cfd4e54d" title="rtabmap::VWDictionary\l::getTotalActiveReferences" alt="" coords="304,556,484,595"/>
+<area shape="rect" id="node17" href="$classrtabmap_1_1_v_w_dictionary.html#abf3e47435ccd1d75ce3987f0309bf817" title="rtabmap::VWDictionary\l::addWordRef" alt="" coords="315,619,473,657"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_d_b_driver.html#a277d2a241d0e488a2e10b88e33d0df2d" title="rtabmap::DBDriver::\lloadWordsQuery" alt="" coords="562,305,701,344"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_visual_word.html#a0a1fff281a1ad9beabf827e35a9ec041" title="rtabmap::VisualWord\l::getDescriptor" alt="" coords="559,368,704,407"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_signature.html#a31c6e7b7e720eca20fb5935e0ee1d9f9" title="rtabmap::Signature::id" alt="" coords="555,437,708,463"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_visual_word.html#a988fd37d739297c9b04c7dc156de3c66" title="rtabmap::VisualWord::id" alt="" coords="550,563,713,588"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_visual_word.html#a55544d28ca539be9e3c78fafd430ac21" title="rtabmap::VisualWord\l::getReferences" alt="" coords="559,493,704,532"/>
+<area shape="rect" id="node18" href="$classrtabmap_1_1_visual_word.html#a5826c6a57f9115e6766bb60e2628fe30" title="rtabmap::VisualWord\l::addRef" alt="" coords="559,619,704,657"/>
+</map>

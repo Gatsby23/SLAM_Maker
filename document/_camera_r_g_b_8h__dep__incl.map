@@ -1,0 +1,8 @@
+<map id="corelib/include/rtabmap/core/CameraRGB.h" name="corelib/include/rtabmap/core/CameraRGB.h">
+<area shape="rect" id="node2" href="$_camera_r_g_b_d_8h.html" title="corelib/include/rtabmap\l/core/CameraRGBD.h" alt="" coords="170,92,329,131"/>
+<area shape="rect" id="node3" href="$_camera_r_g_b_d_8cpp.html" title="corelib/src/CameraRGBD.cpp" alt="" coords="5,179,202,204"/>
+<area shape="rect" id="node5" href="$_camera_stereo_8h.html" title="corelib/include/rtabmap\l/core/CameraStereo.h" alt="" coords="352,92,511,131"/>
+<area shape="rect" id="node6" href="$_camera_stereo_8cpp.html" title="corelib/src/CameraStereo.cpp" alt="" coords="450,179,648,204"/>
+<area shape="rect" id="node7" href="$_camera_r_g_b_8cpp.html" title="corelib/src/CameraRGB.cpp" alt="" coords="586,99,773,124"/>
+<area shape="rect" id="node4" href="$_camera_thread_8cpp.html" title="corelib/src/CameraThread.cpp" alt="" coords="226,179,427,204"/>
+</map>

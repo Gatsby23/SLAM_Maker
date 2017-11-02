@@ -1,0 +1,7 @@
+<map id="triggerStepAllocate" name="triggerStepAllocate">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a1b215ec90dee06bd647a83f2f4751bea" title="sqlite3TriggerInsertStep" alt="" coords="192,5,355,31"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a747552fbad2050589d779b2baee13941" title="sqlite3TriggerUpdateStep" alt="" coords="187,55,359,80"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a7f1bcb4e2de5e641f2c286d27348f823" title="sqlite3TriggerDeleteStep" alt="" coords="190,104,357,129"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a7c419a9b25711c666a9a2449ef377f14" title="yy_reduce" alt="" coords="407,55,490,80"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a0327d71a5fabe0b6a343d78a2602e72a" title="sqlite3Parser" alt="" coords="538,55,637,80"/>
+</map>

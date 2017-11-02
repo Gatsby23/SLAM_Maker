@@ -1,0 +1,6 @@
+<map id="rtabmap::CameraModel::scaled" name="rtabmap::CameraModel::scaled">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera_model.html#a7b6db41415e085d52bf363d09d5e6d67" title="rtabmap::CameraModel\l::isValidForProjection" alt="" coords="223,5,384,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera_model.html#a5df2e6c3f361b7084e4d26d7f1846e3d" title="rtabmap::CameraModel::K" alt="" coords="215,68,392,93"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_camera_model.html#acda5d9c4eeeaaad69e950f5ea630430a" title="rtabmap::CameraModel::P" alt="" coords="215,117,392,143"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_camera_model.html#adad6652a711eecc9a50e544f14d276cd" title="rtabmap::CameraModel\l::CameraModel" alt="" coords="223,167,384,205"/>
+</map>

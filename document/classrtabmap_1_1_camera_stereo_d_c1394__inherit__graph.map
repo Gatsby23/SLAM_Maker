@@ -1,0 +1,3 @@
+<map id="rtabmap::CameraStereoDC1394" name="rtabmap::CameraStereoDC1394">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera.html" title="{rtabmap::Camera\n|&#45; _imageRate\l&#45; _localTransform\l&#45; _targetImageSize\l&#45; _frameRateTimer\l&#45; _seq\l|+ ~Camera()\l+ takeImage()\l+ init()\l+ isCalibrated()\l+ getSerial()\l+ odomProvided()\l+ getImageRate()\l+ getLocalTransform()\l+ setImageRate()\l+ setLocalTransform()\l# Camera()\l# captureImage()\l# getNextSeqID()\l}" alt="" coords="36,5,188,292"/>
+</map>

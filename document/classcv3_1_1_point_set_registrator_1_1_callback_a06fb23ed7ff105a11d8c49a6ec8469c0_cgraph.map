@@ -1,0 +1,6 @@
+<map id="cv3::PointSetRegistrator::Callback::checkSubset" name="cv3::PointSetRegistrator::Callback::checkSubset">
+<area shape="rect" id="node2" href="$classcv3_1_1_l_m_solver.html#a09cec0a5e6047dee5f62a8e47e128cb2" title="cv3::LMSolver::setCallback" alt="" coords="224,5,406,31"/>
+<area shape="rect" id="node3" href="$classcv3_1_1_l_m_solver.html#a523d6e4aaf704568283880888ee7f01d" title="cv3::LMSolver::run" alt="" coords="248,55,381,80"/>
+<area shape="rect" id="node4" href="$namespacecv3.html#ae41a96a6017c67c909fe32fae8afe339" title="cv3::createRANSACPointSet\lRegistrator" alt="" coords="218,104,411,143"/>
+<area shape="rect" id="node5" href="$namespacecv3.html#a42c25dafe3633444d3ba0ff3c3763f96" title="cv3::createLMeDSPointSet\lRegistrator" alt="" coords="224,167,405,205"/>
+</map>

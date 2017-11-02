@@ -1,0 +1,10 @@
+<map id="unixFile" name="unixFile">
+<area shape="rect" id="node2" href="$structsqlite3__vfs.html" title="{sqlite3_vfs\n|+ iVersion\l+ szOsFile\l+ mxPathname\l+ zName\l+ pAppData\l+ xOpen\l+ xDelete\l+ xAccess\l+ xFullPathname\l+ xDlOpen\land 11 more...\l|}" alt="" coords="5,395,127,601"/>
+<area shape="rect" id="node3" href="$structunix_shm.html" title="{unixShm\n|+ hasMutex\l+ id\l+ sharedMask\l+ exclMask\l|}" alt="" coords="417,5,523,119"/>
+<area shape="rect" id="node4" href="$structunix_shm_node.html" title="{unixShmNode\n|+ zFilename\l+ h\l+ szRegion\l+ nRegion\l+ isReadonly\l+ apRegion\l+ nRef\l|}" alt="" coords="576,180,681,333"/>
+<area shape="rect" id="node6" href="$structunix_inode_info.html" title="{unixInodeInfo\n|+ nShared\l+ eFileLock\l+ bProcessLock\l+ nRef\l+ nLock\l|}" alt="" coords="416,435,532,561"/>
+<area shape="rect" id="node5" href="$structsqlite3__mutex.html" title="{sqlite3_mutex\n|+ mutex\l|}" alt="" coords="616,25,719,99"/>
+<area shape="rect" id="node7" href="$struct_unix_unused_fd.html" title="{UnixUnusedFd\n|+ fd\l+ flags\l|}" alt="" coords="271,213,381,300"/>
+<area shape="rect" id="node8" href="$structunix_file_id.html" title="{unixFileId\n|+ dev\l+ ino\l|}" alt="" coords="474,213,552,300"/>
+<area shape="rect" id="node9" href="$structsqlite3__io__methods.html" title="{sqlite3_io_methods\n|+ iVersion\l+ xClose\l+ xRead\l+ xWrite\l+ xTruncate\l+ xSync\l+ xFileSize\l+ xLock\l+ xUnlock\l+ xCheckReservedLock\land 9 more...\l|}" alt="" coords="626,395,789,601"/>
+</map>

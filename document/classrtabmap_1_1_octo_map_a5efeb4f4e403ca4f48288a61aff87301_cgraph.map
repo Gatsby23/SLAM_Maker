@@ -1,0 +1,10 @@
+<map id="rtabmap::OctoMap::createProjectionMap" name="rtabmap::OctoMap::createProjectionMap">
+<area shape="rect" id="node2" href="$namespacertabmap_1_1util3d.html#ab38b385224260f7d29e7cca5da02bf5f" title="rtabmap::util3d::voxelize" alt="" coords="257,5,422,31"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_transform.html#aefc8f052315cb4ba1116ff8fc8297306" title="rtabmap::Transform\l::getIdentity" alt="" coords="270,55,408,93"/>
+<area shape="rect" id="node5" href="$namespacertabmap_1_1util3d.html#aa95e51658e0b45440d58423fd465654e" title="rtabmap::util3d::create2\lDMapFromOccupancyLocalMaps" alt="" coords="230,117,449,156"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_transform.html#ac3654d3f6802d4b0c17b6110d1eda71a" title="rtabmap::Transform\l::Transform" alt="" coords="514,55,652,93"/>
+<area shape="rect" id="node6" href="$namespacertabmap_1_1util3d.html#a6a4faa6e17243490062523c799cd6934" title="rtabmap::util3d::transform\lPoint" alt="" coords="497,117,670,156"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_transform.html#a1d69c9ae9129ccffe30b971ed8747adc" title="rtabmap::Transform::x" alt="" coords="718,75,870,100"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_transform.html#af7d90ee7b9ace464ea80dad90e3df9a3" title="rtabmap::Transform::y" alt="" coords="718,124,870,149"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_transform.html#af3c3671ae31945e689ee9a84deca5d6b" title="rtabmap::Transform::z" alt="" coords="718,173,870,199"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="parseDateOrTime" name="parseDateOrTime">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ad3a4252b0c148f0174e1e546115b5802" title="parseYyyyMmDd" alt="" coords="196,22,319,47"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ac4cdecf91abf320cc407022a3bd4944f" title="parseHhMmSs" alt="" coords="409,72,518,98"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a18009d23009369ca192dbbc98f7b9e2e" title="setDateTimeToCurrent" alt="" coords="180,123,335,148"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#ad2a961fc08942417d977510a1384b6d2" title="sqlite3AtoF" alt="" coords="214,172,302,198"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#a3dcd80ba41f1a308193dee74857b62a7" title="sqlite3Strlen30" alt="" coords="203,222,312,247"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#af4fdc2bcc27f2897a50c080040855e4d" title="getDigits" alt="" coords="820,23,893,48"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aeeefea84c7c62565ee8e5491f39c0bc4" title="computeJD" alt="" coords="419,23,508,48"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a0cdd15f925d164c8f4ce8f6a7ef87294" title="parseTimezone" alt="" coords="626,74,738,99"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ae1011d49964d4f1e38cebd95eab80802" title="sqlite3StmtCurrentTime" alt="" coords="383,123,544,148"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a8fba11754c83b89782ef18af266f5ec2" title="sqlite3OsCurrentTimeInt64" alt="" coords="592,123,772,148"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a5b13083911b3dc0a0b54f43acc686a39" title="sqlite3Atoi64" alt="" coords="415,172,512,198"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#adcbebdd3f570175519922276b83132e0" title="compare2pow63" alt="" coords="622,172,742,198"/>
+</map>

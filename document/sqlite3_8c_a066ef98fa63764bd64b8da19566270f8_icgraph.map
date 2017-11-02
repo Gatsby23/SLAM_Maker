@@ -1,0 +1,13 @@
+<map id="sqlite3Utf8CharLen" name="sqlite3Utf8CharLen">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aa5cfdb507ff74e559f2efb0318c96d2c" title="sqlite3AlterRenameTable" alt="" coords="599,5,768,31"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a7b5f2c66c0f0b6f819d970ca389768b0" title="sqlite3EndTable" alt="" coords="397,92,513,117"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a066cc91be49c444497acfa7f2e7dfbd3" title="likeFunc" alt="" coords="214,143,285,168"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a5842e6724b91885125f83c438da1f15b" title="sqlite3Prepare16" alt="" coords="189,192,311,217"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a7c419a9b25711c666a9a2449ef377f14" title="yy_reduce" alt="" coords="816,81,899,107"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a0327d71a5fabe0b6a343d78a2602e72a" title="sqlite3Parser" alt="" coords="947,81,1046,107"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a9d85cb00ff71dee5cd9a019503a6982e" title="sqlite3CreateView" alt="" coords="619,107,748,132"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a8d807e0e5709528765edfc75696dbdb5" title="sqlite3RegisterLikeFunctions" alt="" coords="359,143,551,168"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a111391370f58f8e6a6eca51fd34d62ed" title="sqlite3Pragma" alt="" coords="630,156,737,181"/>
+<area shape="rect" id="node11" href="$sqlite3_8h.html#ad1651e0e1c121ec4027dbd419eb8daca" title="sqlite3_prepare16" alt="" coords="391,192,519,217"/>
+<area shape="rect" id="node12" href="$sqlite3_8h.html#ad1768867c1e3f150ebafb122c244a228" title="sqlite3_prepare16_v2" alt="" coords="380,241,530,267"/>
+</map>

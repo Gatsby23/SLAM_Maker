@@ -1,0 +1,6 @@
+<map id="clams::DiscreteDepthDistortionModel::undistort" name="clams::DiscreteDepthDistortionModel::undistort">
+<area shape="rect" id="node2" href="$classclams_1_1_discrete_depth_distortion_model.html#a8d77caa1be93b95e6a3e5ec279228df2" title="clams::DiscreteDepthDistortion\lModel::frustum" alt="" coords="258,5,462,44"/>
+<area shape="rect" id="node3" href="$classclams_1_1_discrete_frustum.html#a30101e2ab19b87f585bbba94a5c32615" title="clams::DiscreteFrustum\l::interpolatedUndistort" alt="" coords="279,68,441,107"/>
+<area shape="rect" id="node4" href="$classclams_1_1_discrete_frustum.html#a949d86d873f6efed29b235c656b52e81" title="clams::DiscreteFrustum\l::index" alt="" coords="719,68,881,107"/>
+<area shape="rect" id="node5" href="$classclams_1_1_discrete_frustum.html#ad83d70458a5e0eb20aeae90f73ad131f" title="clams::DiscreteFrustum\l::undistort" alt="" coords="510,96,671,135"/>
+</map>

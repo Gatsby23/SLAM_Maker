@@ -1,0 +1,7 @@
+<map id="rtabmap::util3d::projectCloudToCamera" name="rtabmap::util3d::projectCloudToCamera">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera_images.html#a00a3e412173771537411a1683c18c0f7" title="rtabmap::CameraImages\l::captureImage" alt="" coords="210,64,379,103"/>
+<area shape="rect" id="node5" href="$classclams_1_1_frame_projector.html#a26c74a7a7f6f6e9c2e18d6a38693699c" title="clams::FrameProjector\l::estimateMapDepth" alt="" coords="217,127,372,165"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera_r_g_b_d_images.html#aee8dd9e887c5342a9eef225d45f8ac0c" title="rtabmap::CameraRGBDImages\l::captureImage" alt="" coords="427,5,635,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_camera_stereo_images.html#a3fc92d104807f923c70e9e820e25a473" title="rtabmap::CameraStereoImages\l::captureImage" alt="" coords="427,68,635,107"/>
+<area shape="rect" id="node6" href="$namespaceclams.html#adb312d785289d27adebfb7ae047ae5fa" title="clams::calibrate" alt="" coords="474,133,588,159"/>
+</map>

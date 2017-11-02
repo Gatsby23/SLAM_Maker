@@ -1,0 +1,6 @@
+<map id="sqlite3CompareAffinity" name="sqlite3CompareAffinity">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aca6a667380b05650f917422118d8b7d3" title="sqlite3ExprAffinity" alt="" coords="208,31,335,56"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a91b59896d4e3534de7c33940dca8537c" title="sqlite3ExprSkipCollate" alt="" coords="383,5,538,31"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ad3b6641027549ec6634f6239256676bd" title="sqlite3AffinityType" alt="" coords="396,55,525,80"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a5f876209b4343549fc9224cd11c70928" title="sqlite3GetInt32" alt="" coords="586,55,697,80"/>
+</map>

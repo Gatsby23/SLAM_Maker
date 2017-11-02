@@ -1,0 +1,6 @@
+<map id="isLegalUTF8" name="isLegalUTF8">
+<area shape="rect" id="node2" href="$_convert_u_t_f_8h.html#acc15f861aadcbdb7028e21abf7da77da" title="isLegalUTF8Sequence" alt="" coords="150,5,307,31"/>
+<area shape="rect" id="node3" href="$_convert_u_t_f_8h.html#a741e622980b476dff14e7b04828f662f" title="ConvertUTF8toUTF16" alt="" coords="152,55,305,80"/>
+<area shape="rect" id="node5" href="$_convert_u_t_f_8h.html#a41eac02a22186fe9d0e7f0de369377d7" title="ConvertUTF8toUTF32" alt="" coords="152,104,305,129"/>
+<area shape="rect" id="node4" href="$class_s_i___convert_w.html#a132a9317a6f69780fa6b818d3fcf59e9" title="SI_ConvertW::ConvertFrom\lStore" alt="" coords="355,73,541,112"/>
+</map>

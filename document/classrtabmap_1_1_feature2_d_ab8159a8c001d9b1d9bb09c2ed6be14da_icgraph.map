@@ -1,0 +1,6 @@
+<map id="rtabmap::Feature2D::generateKeypoints" name="rtabmap::Feature2D::generateKeypoints">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#ae57c1e215b5449431b93588dd4217703" title="rtabmap::Memory::createSignature" alt="" coords="194,5,421,31"/>
+<area shape="rect" id="node4" href="$namespacertabmap.html#a2791dc0c4e895cec1b02babd1f49d10f" title="rtabmap::computeKeyPoints" alt="" coords="213,55,402,80"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="480,5,654,31"/>
+<area shape="rect" id="node5" href="$namespacertabmap.html#a9548256e3e8e10b3d70475337459c8c5" title="rtabmap::computeDescriptors" alt="" coords="469,55,666,80"/>
+</map>

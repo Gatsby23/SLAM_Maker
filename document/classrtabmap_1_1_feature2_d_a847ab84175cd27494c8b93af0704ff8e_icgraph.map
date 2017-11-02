@@ -1,0 +1,8 @@
+<map id="rtabmap::Feature2D::limitKeypoints" name="rtabmap::Feature2D::limitKeypoints">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_feature2_d.html#ac8ffdc03a0b32e03f4ebcfa7bd11469a" title="rtabmap::Feature2D\l::limitKeypoints" alt="" coords="194,5,335,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_feature2_d.html#ab8159a8c001d9b1d9bb09c2ed6be14da" title="rtabmap::Feature2D\l::generateKeypoints" alt="" coords="194,120,335,159"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_memory.html#ae57c1e215b5449431b93588dd4217703" title="rtabmap::Memory::createSignature" alt="" coords="383,73,610,99"/>
+<area shape="rect" id="node6" href="$namespacertabmap.html#a2791dc0c4e895cec1b02babd1f49d10f" title="rtabmap::computeKeyPoints" alt="" coords="402,127,591,152"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="669,73,843,99"/>
+<area shape="rect" id="node7" href="$namespacertabmap.html#a9548256e3e8e10b3d70475337459c8c5" title="rtabmap::computeDescriptors" alt="" coords="658,127,854,152"/>
+</map>

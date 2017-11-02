@@ -1,0 +1,16 @@
+<map id="rtabmap::Camera::getNextSeqID" name="rtabmap::Camera::getNextSeqID">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera_images.html#a00a3e412173771537411a1683c18c0f7" title="rtabmap::CameraImages\l::captureImage" alt="" coords="254,36,423,75"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_camera_video.html#a1df9c52b183f59795077ae2c3e7b90c0" title="rtabmap::CameraVideo\l::captureImage" alt="" coords="259,99,418,137"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_camera_openni.html#a3507db2b259bed441559dded4fe36000" title="rtabmap::CameraOpenni\l::captureImage" alt="" coords="254,161,422,200"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_camera_open_n_i_c_v.html#a0c5bfa90044f270126e35f2f99e62eae" title="rtabmap::CameraOpenNICV\l::captureImage" alt="" coords="244,224,433,263"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_camera_open_n_i2.html#a94b3afa6c6ba99288764c537e606fb91" title="rtabmap::CameraOpenNI2\l::captureImage" alt="" coords="249,287,428,325"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_camera_freenect.html#adfc88a3b767616062a7ac0eaf743d558" title="rtabmap::CameraFreenect\l::captureImage" alt="" coords="250,349,427,388"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_camera_freenect2.html#a51ab636c2534da7ac1a71ff383bcc508" title="rtabmap::CameraFreenect2\l::captureImage" alt="" coords="246,412,431,451"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_camera_real_sense.html#ae1a2b8b938674b9e8773faf18a873837" title="rtabmap::CameraRealSense\l::captureImage" alt="" coords="243,475,434,513"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_camera_stereo_d_c1394.html#a53a82450c79ad93e5aa1f2bc82cf034d" title="rtabmap::CameraStereoDC1394\l::captureImage" alt="" coords="232,537,445,576"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_camera_stereo_fly_capture2.html#aee25dfea71ee8a479bede422ee9e8493" title="rtabmap::CameraStereoFly\lCapture2::captureImage" alt="" coords="247,600,429,639"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_camera_stereo_zed.html#a8f4376257c242ce1d3b503dc8315e262" title="rtabmap::CameraStereoZed\l::captureImage" alt="" coords="245,663,432,701"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_camera_stereo_video.html#ad7a9f44b9f435fce3353005357930f23" title="rtabmap::CameraStereoVideo\l::captureImage" alt="" coords="239,725,438,764"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera_r_g_b_d_images.html#aee8dd9e887c5342a9eef225d45f8ac0c" title="rtabmap::CameraRGBDImages\l::captureImage" alt="" coords="493,5,701,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_camera_stereo_images.html#a3fc92d104807f923c70e9e820e25a473" title="rtabmap::CameraStereoImages\l::captureImage" alt="" coords="493,68,701,107"/>
+</map>

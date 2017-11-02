@@ -1,0 +1,23 @@
+<map id="rtabmap::Memory::updateLink" name="rtabmap::Memory::updateLink">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#aecb333268e0858678add037a5a59a719" title="rtabmap::Memory::_getSignature" alt="" coords="252,5,468,31"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_link.html#a185194e8e766ca979e4de7e179f0e534" title="rtabmap::Link::from" alt="" coords="543,56,680,81"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_link.html#a8d534b311c37d789276dd58bd7dc89e4" title="rtabmap::Link::to" alt="" coords="551,105,672,131"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_signature.html#a88ef774c7ad48509fbdab7ad8f7a5d7c" title="rtabmap::Signature\l::hasLink" alt="" coords="293,272,427,311"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_signature.html#a2afa282617cff501b89998ec4d29b6e0" title="rtabmap::Signature\l::getLinks" alt="" coords="293,335,427,373"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_signature.html#abbd9806c2b20182217d2269c7398541e" title="rtabmap::Signature\l::removeLink" alt="" coords="293,397,427,436"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_signature.html#a3bb2e6a8de8e615e51385c4113630f93" title="rtabmap::Signature\l::addLink" alt="" coords="293,157,427,196"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_link.html#a17ea666cb54c4f7cce1c80bc2e1950c3" title="rtabmap::Link::type" alt="" coords="544,303,679,328"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_link.html#a0d5dcb7392f6ac89ca8b4de202ca07d3" title="rtabmap::Link::inverse" alt="" coords="284,460,436,485"/>
+<area shape="rect" id="node21" href="$classrtabmap_1_1_d_b_driver.html#a94eb69c07a44343c008654b1401dce80" title="rtabmap::DBDriver::\lupdateLink" alt="" coords="290,512,429,551"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_signature.html#a31c6e7b7e720eca20fb5935e0ee1d9f9" title="rtabmap::Signature::id" alt="" coords="535,155,688,180"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_link.html#a09165478f29f72d299a037d851160f66" title="rtabmap::Link::transVariance" alt="" coords="516,204,707,229"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_link.html#a7c5e4701599524cac8c277809666d031" title="rtabmap::Link::rotVariance" alt="" coords="523,253,700,279"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_link.html#a2dce9c7a3ef04085d51f702002107c7b" title="rtabmap::Link::Link" alt="" coords="544,377,678,403"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_transform.html#a0d6a1985391a45de4fe208e58c51b9d2" title="rtabmap::Transform\l::isNull" alt="" coords="755,489,893,528"/>
+<area shape="rect" id="node17" href="$classrtabmap_1_1_transform.html#a71ff72d5731d252a87a19c63e3890e3a" title="rtabmap::Transform\l::inverse" alt="" coords="542,427,680,465"/>
+<area shape="rect" id="node16" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="941,457,1079,496"/>
+<area shape="rect" id="node18" href="$classrtabmap_1_1_transform.html#a469b0923be94d2dc2ca8b290f3bfac8c" title="rtabmap::Transform\l::fromEigen4f" alt="" coords="755,364,893,403"/>
+<area shape="rect" id="node20" href="$classrtabmap_1_1_transform.html#a1cb08be14adcabc0999eca4db3c67812" title="rtabmap::Transform\l::toEigen4f" alt="" coords="755,427,893,465"/>
+<area shape="rect" id="node19" href="$classrtabmap_1_1_transform.html#ac3654d3f6802d4b0c17b6110d1eda71a" title="rtabmap::Transform\l::Transform" alt="" coords="941,364,1079,403"/>
+<area shape="rect" id="node22" href="$classrtabmap_1_1_d_b_driver.html#a7e8e9f1798f7850cba3fc27608ff2d59" title="rtabmap::DBDriver::\lupdateLinkQuery" alt="" coords="542,541,681,580"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="corelib/include/rtabmap/core/RegistrationInfo.h" name="corelib/include/rtabmap/core/RegistrationInfo.h">
+<area shape="rect" id="node2" href="$_odometry_info_8h.html" title="corelib/include/rtabmap\l/core/OdometryInfo.h" alt="" coords="1338,92,1497,131"/>
+<area shape="rect" id="node16" href="$_registration_8h.html" title="corelib/include/rtabmap\l/core/Registration.h" alt="" coords="418,92,577,131"/>
+<area shape="rect" id="node24" href="$_rtabmap_8cpp.html" title="corelib/src/Rtabmap.cpp" alt="" coords="1521,99,1686,124"/>
+<area shape="rect" id="node3" href="$_odometry_event_8h.html" title="corelib/include/rtabmap\l/core/OdometryEvent.h" alt="" coords="2087,179,2246,217"/>
+<area shape="rect" id="node7" href="$_odometry_thread_8cpp.html" title="corelib/src/OdometryThread.cpp" alt="" coords="1918,272,2130,297"/>
+<area shape="rect" id="node8" href="$_odometry_8cpp.html" title="corelib/src/Odometry.cpp" alt="" coords="2270,185,2439,211"/>
+<area shape="rect" id="node9" href="$_odometry_d_v_o_8cpp.html" title="corelib/src/OdometryDVO.cpp" alt="" coords="817,185,1015,211"/>
+<area shape="rect" id="node10" href="$_odometry_f2_f_8cpp.html" title="corelib/src/OdometryF2F.cpp" alt="" coords="601,185,793,211"/>
+<area shape="rect" id="node11" href="$_odometry_f2_m_8cpp.html" title="corelib/src/OdometryF2M.cpp" alt="" coords="951,272,1147,297"/>
+<area shape="rect" id="node12" href="$_odometry_fovis_8cpp.html" title="corelib/src/OdometryFovis.cpp" alt="" coords="1090,185,1291,211"/>
+<area shape="rect" id="node13" href="$_odometry_mono_8cpp.html" title="corelib/src/OdometryMono.cpp" alt="" coords="1316,185,1519,211"/>
+<area shape="rect" id="node14" href="$_odometry_o_r_b_s_l_a_m2_8cpp.html" title="corelib/src/OdometryORBSLAM2.cpp" alt="" coords="1543,185,1785,211"/>
+<area shape="rect" id="node15" href="$_odometry_viso2_8cpp.html" title="corelib/src/OdometryViso2.cpp" alt="" coords="1809,185,2012,211"/>
+<area shape="rect" id="node4" href="$_rtabmap_thread_8h.html" title="corelib/include/rtabmap\l/core/RtabmapThread.h" alt="" coords="2204,265,2366,304"/>
+<area shape="rect" id="node5" href="$_rtabmap_thread_8cpp.html" title="corelib/src/RtabmapThread.cpp" alt="" coords="2121,352,2329,377"/>
+<area shape="rect" id="node6" href="$_d_b_reader_8cpp.html" title="corelib/src/DBReader.cpp" alt="" coords="2390,272,2562,297"/>
+<area shape="rect" id="node17" href="$_registration_icp_8h.html" title="corelib/include/rtabmap\l/core/RegistrationIcp.h" alt="" coords="183,179,342,217"/>
+<area shape="rect" id="node18" href="$_memory_8cpp.html" title="corelib/src/Memory.cpp" alt="" coords="186,272,344,297"/>
+<area shape="rect" id="node21" href="$_registration_vis_8h.html" title="corelib/include/rtabmap\l/core/RegistrationVis.h" alt="" coords="418,179,577,217"/>
+<area shape="rect" id="node19" href="$_registration_8cpp.html" title="corelib/src/Registration.cpp" alt="" coords="369,272,551,297"/>
+<area shape="rect" id="node20" href="$_registration_icp_8cpp.html" title="corelib/src/Registration\lIcp.cpp" alt="" coords="5,265,162,304"/>
+<area shape="rect" id="node22" href="$_optimizer_8cpp.html" title="corelib/src/Optimizer.cpp" alt="" coords="575,272,742,297"/>
+<area shape="rect" id="node23" href="$_registration_vis_8cpp.html" title="corelib/src/Registration\lVis.cpp" alt="" coords="767,265,924,304"/>
+</map>

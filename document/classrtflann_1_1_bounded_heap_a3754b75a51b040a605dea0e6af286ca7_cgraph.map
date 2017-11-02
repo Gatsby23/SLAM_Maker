@@ -1,0 +1,6 @@
+<map id="rtflann::BoundedHeap::insert" name="rtflann::BoundedHeap::insert">
+<area shape="rect" id="node2" href="$classrtflann_1_1_interval_heap.html#aa704d1b432f20f80c030b2804d27556f" title="rtflann::IntervalHeap\l::size" alt="" coords="204,5,346,44"/>
+<area shape="rect" id="node3" href="$classrtflann_1_1_interval_heap.html#ab46783f2d644f93e1b6e8965dec723dd" title="rtflann::IntervalHeap\l::getMax" alt="" coords="204,68,346,107"/>
+<area shape="rect" id="node4" href="$classrtflann_1_1_interval_heap.html#a9bf14347f12960bba4d04b0cc21ceafc" title="rtflann::IntervalHeap\l::popMax" alt="" coords="204,131,346,169"/>
+<area shape="rect" id="node5" href="$classrtflann_1_1_interval_heap.html#ae96824b27b5e66833d717010a1b74e7c" title="rtflann::IntervalHeap\l::insert" alt="" coords="204,193,346,232"/>
+</map>

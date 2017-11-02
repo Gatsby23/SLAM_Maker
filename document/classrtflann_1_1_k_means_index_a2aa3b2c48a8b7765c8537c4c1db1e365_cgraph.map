@@ -1,0 +1,5 @@
+<map id="rtflann::KMeansIndex::findNN" name="rtflann::KMeansIndex::findNN">
+<area shape="rect" id="node2" href="$classrtflann_1_1_result_set.html#a916e0d6432a4168e18f61ee7fc4cdd04" title="rtflann::ResultSet\l::worstDist" alt="" coords="201,5,324,44"/>
+<area shape="rect" id="node3" href="$classrtflann_1_1_result_set.html#a0ae8ff1086bc00de4d0df4f7a02ac9e2" title="rtflann::ResultSet\l::full" alt="" coords="201,68,324,107"/>
+<area shape="rect" id="node4" href="$classrtflann_1_1_result_set.html#a5ea125f4d9eb7ba17e82437fe477d03d" title="rtflann::ResultSet\l::addPoint" alt="" coords="201,131,324,169"/>
+</map>

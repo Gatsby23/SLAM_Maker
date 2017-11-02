@@ -1,0 +1,8 @@
+<map id="rtabmap::Memory::cleanUnusedWords" name="rtabmap::Memory::cleanUnusedWords">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_v_w_dictionary.html#a706e209f6228c02730dd8ea501ab5369" title="rtabmap::VWDictionary\l::isIncremental" alt="" coords="264,5,423,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_v_w_dictionary.html#ab47b5ecb12c822474004f0ad77dbb388" title="rtabmap::VWDictionary\l::getUnusedWords" alt="" coords="264,68,423,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_v_w_dictionary.html#a5f5b608a74dfd7e09637ea0642b478ae" title="rtabmap::VWDictionary\l::getVisualWords" alt="" coords="264,131,423,169"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_v_w_dictionary.html#ab49fe8d8b121f632aa250ed7d9c2214c" title="rtabmap::VWDictionary\l::removeWords" alt="" coords="264,193,423,232"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_d_b_driver.html#ad1510e157f3ab8df3284528369a6d88f" title="rtabmap::DBDriver::\lasyncSave" alt="" coords="274,256,413,295"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_signature.html#a31c6e7b7e720eca20fb5935e0ee1d9f9" title="rtabmap::Signature::id" alt="" coords="471,263,623,288"/>
+</map>

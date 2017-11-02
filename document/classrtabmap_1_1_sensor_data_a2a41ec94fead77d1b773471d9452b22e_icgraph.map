@@ -1,0 +1,10 @@
+<map id="rtabmap::SensorData::setUserDataRaw" name="rtabmap::SensorData::setUserDataRaw">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#a3dfe20cf3c40ee43798028662a8bad67" title="rtabmap::Memory::removeRawData" alt="" coords="201,55,434,80"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_memory.html#ae57c1e215b5449431b93588dd4217703" title="rtabmap::Memory::createSignature" alt="" coords="204,104,431,129"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_rtabmap.html#ad7f085b6ae0fd3c7077c500c028fd5c3" title="Main loop of rtabmap. " alt="" coords="482,55,668,80"/>
+<area shape="rect" id="node4" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="716,5,905,31"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_rtabmap.html#a35cf8fd93f77d1c148ae6d3107725750" title="rtabmap::Rtabmap::process" alt="" coords="717,55,903,80"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_rtabmap_thread.html#a921bb6c18683103d08270a7e665d89dc" title="rtabmap::RtabmapThread\l::process" alt="" coords="723,104,897,143"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="953,104,1127,143"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="488,104,662,129"/>
+</map>

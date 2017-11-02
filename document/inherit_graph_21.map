@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$struct_a_i_s_navigation_1_1_tree_pose_graph.html" title="AISNavigation::TreePoseGraph\l\&lt; Operations2D\&lt; double \&gt; \&gt;" alt="" coords="5,5,213,44"/>
+<area shape="rect" id="node2" href="$struct_a_i_s_navigation_1_1_tree_pose_graph2.html" title="The class (struct) that contains 2D graph related functions such as loading, saving, merging, etc. " alt="" coords="261,12,476,37"/>
+<area shape="rect" id="node3" href="$struct_a_i_s_navigation_1_1_tree_optimizer2.html" title="Class that contains the core optimization algorithm. " alt="" coords="524,12,729,37"/>
+</map>

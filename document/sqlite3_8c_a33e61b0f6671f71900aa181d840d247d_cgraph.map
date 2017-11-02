@@ -1,0 +1,8 @@
+<map id="sqlite3_memory_alarm" name="sqlite3_memory_alarm">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a3a9566583a79c184600082b3d3a50938" title="sqlite3MemoryAlarm" alt="" coords="210,55,352,80"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="401,5,543,31"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a30b8ac296c6e200c1fa57708d52c6ef6" title="sqlite3StatusValue" alt="" coords="406,55,537,80"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="400,104,543,129"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="601,79,737,104"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a83967c837c1c000d3b5adcfaa688f5dc" title="sqlite3_mutex_notheld" alt="" coords="591,128,746,153"/>
+</map>

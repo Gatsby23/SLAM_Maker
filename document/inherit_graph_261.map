@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classrtflann_1_1serialization_1_1_archive_base.html" title="rtflann::serialization\l::ArchiveBase" alt="" coords="5,131,142,169"/>
+<area shape="rect" id="node2" href="$classrtflann_1_1serialization_1_1_input_archive.html" title="rtflann::serialization\l::InputArchive\&lt; LoadArchive \&gt;" alt="" coords="195,5,395,44"/>
+<area shape="rect" id="node4" href="$classrtflann_1_1serialization_1_1_output_archive.html" title="rtflann::serialization\l::OutputArchive\&lt; SaveArchive \&gt;" alt="" coords="190,68,401,107"/>
+<area shape="rect" id="node6" href="$classrtflann_1_1serialization_1_1_output_archive.html" title="rtflann::serialization\l::OutputArchive\&lt; SizeArchive \&gt;" alt="" coords="192,131,398,169"/>
+<area shape="rect" id="node8" href="$classrtflann_1_1serialization_1_1_input_archive.html" title="rtflann::serialization\l::InputArchive\&lt; Archive \&gt;" alt="" coords="210,193,380,232"/>
+<area shape="rect" id="node9" href="$classrtflann_1_1serialization_1_1_output_archive.html" title="rtflann::serialization\l::OutputArchive\&lt; Archive \&gt;" alt="" coords="205,256,385,295"/>
+<area shape="rect" id="node3" href="$classrtflann_1_1serialization_1_1_load_archive.html" title="rtflann::serialization\l::LoadArchive" alt="" coords="449,5,585,44"/>
+<area shape="rect" id="node5" href="$classrtflann_1_1serialization_1_1_save_archive.html" title="rtflann::serialization\l::SaveArchive" alt="" coords="449,68,585,107"/>
+<area shape="rect" id="node7" href="$classrtflann_1_1serialization_1_1_size_archive.html" title="rtflann::serialization\l::SizeArchive" alt="" coords="449,131,585,169"/>
+</map>

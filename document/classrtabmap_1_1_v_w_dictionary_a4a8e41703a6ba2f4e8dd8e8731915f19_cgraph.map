@@ -1,0 +1,19 @@
+<map id="rtabmap::VWDictionary::setNNStrategy" name="rtabmap::VWDictionary::setNNStrategy">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_v_w_dictionary.html#a1c1f28b1619e2818ab618c96d807cf7c" title="rtabmap::VWDictionary\l::update" alt="" coords="212,308,370,347"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_flann_index.html#a7d78d049ac4afb9f90fc0705506a6ce0" title="rtabmap::FlannIndex\l::removePoint" alt="" coords="428,5,572,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_visual_word.html#a0a1fff281a1ad9beabf827e35a9ec041" title="rtabmap::VisualWord\l::getDescriptor" alt="" coords="427,68,572,107"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_flann_index.html#a4a5c33446a515bd8f0c2f73a1adaeb23" title="rtabmap::FlannIndex\l::isBuilt" alt="" coords="428,131,572,169"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_flann_index.html#aff6ec4930ec87f6cb27d91a316c025cd" title="rtabmap::FlannIndex\l::buildLinearIndex" alt="" coords="428,245,572,284"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_flann_index.html#a6eb4692afb561932aa6a20f7ebdee6c4" title="rtabmap::FlannIndex\l::release" alt="" coords="654,251,798,289"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_flann_index.html#a24d05a2546d481658617cfa073a596b0" title="rtabmap::FlannIndex\l::buildKDTreeIndex" alt="" coords="428,308,572,347"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_flann_index.html#af503b45234374457f7604e613a023be8" title="rtabmap::FlannIndex\l::buildLSHIndex" alt="" coords="428,371,572,409"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_flann_index.html#a8191e3ba9cc7a5361443430171691df3" title="rtabmap::FlannIndex\l::featuresDim" alt="" coords="428,496,572,535"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_flann_index.html#ace329768df8b54b935fbe7a8921efe69" title="rtabmap::FlannIndex\l::featuresType" alt="" coords="428,559,572,597"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_flann_index.html#a0eacc0c8532baa4cee37913e1e9b2650" title="rtabmap::FlannIndex\l::addPoints" alt="" coords="428,433,572,472"/>
+<area shape="rect" id="node18" href="$classrtabmap_1_1_visual_word.html#a988fd37d739297c9b04c7dc156de3c66" title="rtabmap::VisualWord::id" alt="" coords="418,621,581,647"/>
+<area shape="rect" id="node8" href="$classrtflann_1_1_index.html#afbc98667c982501a137f5d5694454a66" title="rtflann::Index::buildIndex" alt="" coords="643,323,809,348"/>
+<area shape="rect" id="node14" href="$classrtflann_1_1_index.html#a247701359ffe24bc84df53b10c0255fb" title="rtflann::Index::removedCount" alt="" coords="629,484,823,509"/>
+<area shape="rect" id="node15" href="$classrtflann_1_1_index.html#a743bbe44a2fb7b7ecec5894fe3a75c36" title="rtflann::Index::addPoints" alt="" coords="643,533,809,559"/>
+<area shape="rect" id="node16" href="$classrtflann_1_1_index.html#a532a6bd1133d1c93929d6122e56b4009" title="rtflann::Index::sizeAtBuild" alt="" coords="640,385,812,411"/>
+<area shape="rect" id="node17" href="$classrtflann_1_1_index.html#a9bc48ff4018003041ac55ef28f406b5d" title="rtflann::Index::size" alt="" coords="661,435,791,460"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="openSubJournal" name="openSubJournal">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ad464be0cdcbcfad82c33db47ba916bf4" title="sqlite3MemJournalOpen" alt="" coords="172,5,338,31"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aebcb4ac28e13fcb66454bb555327c331" title="pagerOpentemp" alt="" coords="196,55,314,80"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a467faa8c56423e1d71f1edcdf788ea01" title="sqlite3MemJournalSize" alt="" coords="386,5,545,31"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a12a1f3451e28f9cecd19cf0bb4f8f416" title="sqlite3OsOpen" alt="" coords="410,55,520,80"/>
+</map>

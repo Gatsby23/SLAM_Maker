@@ -1,0 +1,6 @@
+<map id="rtabmap::util3d::voxelize" name="rtabmap::util3d::voxelize">
+<area shape="rect" id="node2" href="$namespacertabmap.html#a0fe8655ba5e402b728ecfc7aa217d2a5" title="rtabmap::HSVtoRGB" alt="" coords="234,5,379,31"/>
+<area shape="rect" id="node3" href="$namespacertabmap_1_1util3d.html#a931d8d7426fdf72f8ab0f326312b4a25" title="rtabmap::util3d::loadCloud" alt="" coords="218,55,395,80"/>
+<area shape="rect" id="node5" href="$namespacertabmap_1_1util3d.html#a326db0fa70e9cddc881e9ac8ec9e943d" title="rtabmap::util3d::voxelize" alt="" coords="224,104,389,129"/>
+<area shape="rect" id="node4" href="$namespacertabmap_1_1util3d.html#a44e49e3fccf1809d549595b4503592ae" title="rtabmap::util3d::loadScan" alt="" coords="443,55,616,80"/>
+</map>

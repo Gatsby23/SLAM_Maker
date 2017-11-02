@@ -1,0 +1,6 @@
+<map id="rtabmap::Rtabmap::getWeights" name="rtabmap::Rtabmap::getWeights">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#a4d8bfc0b85f270dbb3fc66cde079b63e" title="rtabmap::Memory::getWeights" alt="" coords="259,33,459,59"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_memory.html#a15ec109dd157745f69dcd4f80efaf561" title="rtabmap::Memory::getSignature" alt="" coords="507,5,715,31"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_signature.html#a701b32c562d789929a18a19c08bac4ca" title="rtabmap::Signature\l::getWeight" alt="" coords="544,55,678,93"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_memory.html#aecb333268e0858678add037a5a59a719" title="rtabmap::Memory::_getSignature" alt="" coords="763,5,980,31"/>
+</map>

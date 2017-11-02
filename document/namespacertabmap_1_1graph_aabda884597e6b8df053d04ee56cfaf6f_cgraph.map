@@ -1,0 +1,11 @@
+<map id="rtabmap::graph::reduceGraph" name="rtabmap::graph::reduceGraph">
+<area shape="rect" id="node2" href="$namespacertabmap_1_1graph.html#a7469cae5cb6e97f261c8b8f44ecc2f72" title="rtabmap::graph::findLink" alt="" coords="267,137,432,163"/>
+<area shape="rect" id="node3" href="$namespacertabmap_1_1graph.html#aff77397247efaae21acc181fbf312198" title="rtabmap::graph::computePath" alt="" coords="250,187,448,212"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1graph_1_1_node.html#ab755ff0bade64ef6a2c135674f5bc527" title="rtabmap::graph::Node\l::setClosed" alt="" coords="505,5,656,44"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1graph_1_1_node.html#a670df031b6c4eb5011c664c14ae98376" title="rtabmap::graph::Node::id" alt="" coords="496,68,665,93"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1graph_1_1_node.html#a620dbf79f28c57499bf6d2f81f3d9c5f" title="rtabmap::graph::Node\l::pose" alt="" coords="505,117,656,156"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1graph_1_1_node.html#a812fd7c1387e69fa6f153286644a2c67" title="rtabmap::graph::Node\l::fromId" alt="" coords="505,180,656,219"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1graph_1_1_node.html#aab5abb47325ddd6b7831a95a6810d33b" title="rtabmap::graph::Node\l::setCostSoFar" alt="" coords="505,243,656,281"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1graph_1_1_node.html#a0c493a7e1bb00d07a65175e1382ce46c" title="rtabmap::graph::Node\l::costSoFar" alt="" coords="505,305,656,344"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1graph_1_1_node.html#ada4f6f099353b6fba806d87e949f0c5e" title="rtabmap::graph::Node\l::distFrom" alt="" coords="505,368,656,407"/>
+</map>

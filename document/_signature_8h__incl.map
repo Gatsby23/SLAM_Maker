@@ -1,0 +1,10 @@
+<map id="corelib/include/rtabmap/core/Signature.h" name="corelib/include/rtabmap/core/Signature.h">
+<area shape="rect" id="node2" href="$_rtabmap_exp_8h.html" title="rtabmap/core/RtabmapExp.h" alt="" coords="600,399,792,424"/>
+<area shape="rect" id="node11" href="$_transform_8h.html" title="rtabmap/core/Transform.h" alt="" coords="430,325,605,351"/>
+<area shape="rect" id="node15" href="$_sensor_data_8h.html" title="rtabmap/core/SensorData.h" alt="" coords="411,92,597,117"/>
+<area shape="rect" id="node22" href="$_link_8h.html" title="rtabmap/core/Link.h" alt="" coords="93,252,232,277"/>
+<area shape="rect" id="node16" href="$_camera_model_8h.html" title="rtabmap/core/CameraModel.h" alt="" coords="418,252,617,277"/>
+<area shape="rect" id="node18" href="$_stereo_camera_model_8h.html" title="rtabmap/core/StereoCamera\lModel.h" alt="" coords="409,165,599,204"/>
+<area shape="rect" id="node19" href="$_laser_scan_info_8h.html" title="rtabmap/core/LaserScanInfo.h" alt="" coords="624,172,824,197"/>
+<area shape="rect" id="node21" href="$_geodetic_coords_8h.html" title="rtabmap/core/GeodeticCoords.h" alt="" coords="194,325,406,351"/>
+</map>

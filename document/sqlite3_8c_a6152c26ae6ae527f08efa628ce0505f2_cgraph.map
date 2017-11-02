@@ -1,0 +1,12 @@
+<map id="memjrnlClose" name="memjrnlClose">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aee6d659143d04fd6d28e65e0c63c297d" title="memjrnlTruncate" alt="" coords="156,153,277,179"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="363,104,453,129"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#ad464be0cdcbcfad82c33db47ba916bf4" title="sqlite3MemJournalOpen" alt="" coords="325,177,491,203"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="548,5,689,31"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="558,55,679,80"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="556,104,681,129"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="547,153,690,179"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="755,129,892,155"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a83967c837c1c000d3b5adcfaa688f5dc" title="sqlite3_mutex_notheld" alt="" coords="746,179,901,204"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a467faa8c56423e1d71f1edcdf788ea01" title="sqlite3MemJournalSize" alt="" coords="539,203,698,228"/>
+</map>

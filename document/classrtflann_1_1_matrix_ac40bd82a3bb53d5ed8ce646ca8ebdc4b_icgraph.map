@@ -1,0 +1,5 @@
+<map id="rtflann::Matrix::ptr" name="rtflann::Matrix::ptr">
+<area shape="rect" id="node2" href="$classrtflann_1_1_autotuned_index.html#ad6c65ae41ba4579f2024536c347b3114" title="rtflann::AutotunedIndex\l::estimateSearchParams" alt="" coords="178,5,346,44"/>
+<area shape="rect" id="node3" href="$classrtflann_1_1_k_means_index.html#a4bb5e9b054ae69a0a18a19e88118d8e1" title="rtflann::KMeansIndex\l::computeClustering" alt="" coords="188,68,336,107"/>
+<area shape="rect" id="node4" href="$classrtflann_1_1_n_n_index.html#a63f1cb2b0c4b72f017318a836076d472" title="rtflann::NNIndex::radius\lSearch" alt="" coords="181,131,343,169"/>
+</map>

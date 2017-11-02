@@ -1,0 +1,5 @@
+<map id="rtflann::NNIndex::buildIndex" name="rtflann::NNIndex::buildIndex">
+<area shape="rect" id="node2" href="$classrtflann_1_1_autotuned_index.html#a1379c8a6aa2b478bdcd3323e88a61e21" title="rtflann::AutotunedIndex\l::evaluate_kmeans" alt="" coords="257,5,416,44"/>
+<area shape="rect" id="node3" href="$classrtflann_1_1_autotuned_index.html#a59aebe74419027c611fbd3220f27d8e6" title="rtflann::AutotunedIndex\l::evaluate_kdtree" alt="" coords="257,68,416,107"/>
+<area shape="rect" id="node4" href="$namespacertflann.html#a37021aeeb3f070dda1d38aa37644ec43" title="rtflann::hierarchicalClustering" alt="" coords="239,131,433,156"/>
+</map>

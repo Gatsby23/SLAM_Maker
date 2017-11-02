@@ -1,0 +1,4 @@
+<map id="rtabmap::EpipolarGeometry::triangulatePoints" name="rtabmap::EpipolarGeometry::triangulatePoints">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_epipolar_geometry.html#a0781a121d8e681e32c1eedb2c08c01e9" title="rtabmap::EpipolarGeometry\l::iterativeLinearLSTriangulation" alt="" coords="238,5,444,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_epipolar_geometry.html#a1dfd45c53a242e09dc974eef5c1c26cf" title="rtabmap::EpipolarGeometry\l::linearLSTriangulation" alt="" coords="492,5,677,44"/>
+</map>

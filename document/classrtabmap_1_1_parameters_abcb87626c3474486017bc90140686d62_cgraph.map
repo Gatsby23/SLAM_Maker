@@ -1,0 +1,5 @@
+<map id="rtabmap::Parameters::writeINI" name="rtabmap::Parameters::writeINI">
+<area shape="rect" id="node2" href="$class_c_simple_ini_templ.html#aebb6e5fff76efc05ca6cc4b7b56481a3" title="CSimpleIniTempl::LoadFile" alt="" coords="201,5,381,31"/>
+<area shape="rect" id="node3" href="$class_c_simple_ini_templ.html#aa2014a3dc8fdd638316cf1d3611796ab" title="CSimpleIniTempl::SetValue" alt="" coords="200,55,382,80"/>
+<area shape="rect" id="node4" href="$class_c_simple_ini_templ.html#af00e754689a94cbe87b387f99f7a5d01" title="CSimpleIniTempl::SaveFile" alt="" coords="201,104,381,129"/>
+</map>

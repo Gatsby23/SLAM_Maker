@@ -1,0 +1,9 @@
+<map id="rtabmap::DBDriverSqlite3::loadQuery" name="rtabmap::DBDriverSqlite3::loadQuery">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_visual_word.html#a58f7ff50ca24f1586bf3fdf5999d6184" title="rtabmap::VisualWord\l::setSaved" alt="" coords="232,5,378,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_v_w_dictionary.html#aa26ec40880a666e195c7e10ac5832083" title="rtabmap::VWDictionary\l::addWord" alt="" coords="226,68,384,107"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_d_b_driver.html#acd7bd8d39e782633f8146cb322f12082" title="rtabmap::DBDriver::\lgetLastWordId" alt="" coords="235,131,375,169"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_v_w_dictionary.html#af0b676e13c7dba437147520335289e97" title="rtabmap::VWDictionary\l::setLastWordId" alt="" coords="226,193,384,232"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_visual_word.html#a988fd37d739297c9b04c7dc156de3c66" title="rtabmap::VisualWord::id" alt="" coords="432,19,595,44"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_visual_word.html#a55544d28ca539be9e3c78fafd430ac21" title="rtabmap::VisualWord\l::getReferences" alt="" coords="441,68,586,107"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_d_b_driver.html#a12fe902034503ce9a95568272a06ecc4" title="rtabmap::DBDriver::\lgetLastIdQuery" alt="" coords="444,131,583,169"/>
+</map>

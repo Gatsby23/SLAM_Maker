@@ -1,0 +1,6 @@
+<map id="rtabmap::Memory::setUserData" name="rtabmap::Memory::setUserData">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#aecb333268e0858678add037a5a59a719" title="rtabmap::Memory::_getSignature" alt="" coords="261,5,477,31"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_signature.html#a522971783852ef45e2de8e592d49a860" title="rtabmap::Signature\l::sensorData" alt="" coords="301,55,436,93"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_sensor_data.html#a1bfe55357c1faddf33cbf4f4190d4e5e" title="rtabmap::SensorData\l::setUserData" alt="" coords="295,117,443,156"/>
+<area shape="rect" id="node5" href="$namespacertabmap.html#a21f00cdd5f42e4a3fda3ef52cd51e67f" title="rtabmap::compressData2" alt="" coords="525,124,696,149"/>
+</map>

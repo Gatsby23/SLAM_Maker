@@ -1,0 +1,5 @@
+<map id="AISNavigation::TreeOptimizer2" name="AISNavigation::TreeOptimizer2">
+<area shape="rect" id="node2" href="$struct_a_i_s_navigation_1_1_tree_pose_graph2.html" title="The class (struct) that contains 2D graph related functions such as loading, saving, merging, etc. " alt="" coords="5,716,220,923"/>
+<area shape="rect" id="node3" href="$struct_a_i_s_navigation_1_1_tree_pose_graph.html" title="{AISNavigation::TreePoseGraph\l\&lt; Operations2D\&lt; double \&gt; \&gt;\n|+ root\l+ vertices\l+ edges\l+ sortedEdges\l# edgeCompareMode\l|+ vertex()\l+ vertex()\l+ edge()\l+ edge()\l+ addVertex()\l+ removeVertex()\l+ addEdge()\l+ removeEdge()\l+ addIncrementalEdge()\l+ affectedEdges()\land 19 more...\l# fillEdgeInfo()\l# fillEdgesInfo()\l}" alt="" coords="9,367,217,667"/>
+<area shape="rect" id="node4" href="$struct_a_i_s_navigation_1_1_tree_pose_graph.html" title="The template class for representing an abstract tree without specifing the dimensionality of the exac..." alt="" coords="9,5,217,305"/>
+</map>

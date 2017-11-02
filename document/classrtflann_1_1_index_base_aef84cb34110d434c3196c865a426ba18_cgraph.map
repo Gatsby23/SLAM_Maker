@@ -1,0 +1,9 @@
+<map id="rtflann::IndexBase::~IndexBase" name="rtflann::IndexBase::~IndexBase">
+<area shape="rect" id="node2" href="$classrtflann_1_1_index_base.html#a10776bcc3b94dadac5da1f76325cd5db" title="rtflann::IndexBase\l::veclen" alt="" coords="182,5,311,44"/>
+<area shape="rect" id="node3" href="$classrtflann_1_1_index_base.html#a1330811fd55db8943622e5c5cc9ad6c9" title="rtflann::IndexBase\l::size" alt="" coords="182,68,311,107"/>
+<area shape="rect" id="node4" href="$classrtflann_1_1_index_base.html#aa9bf8c025fe5996b0bbc7931738ddb2d" title="rtflann::IndexBase\l::getType" alt="" coords="182,131,311,169"/>
+<area shape="rect" id="node5" href="$classrtflann_1_1_index_base.html#a38e9983716e42bc5061b4500d7c6f4ba" title="rtflann::IndexBase\l::usedMemory" alt="" coords="182,193,311,232"/>
+<area shape="rect" id="node6" href="$classrtflann_1_1_index_base.html#a5e339c99b787eb5e0e48c38478cb848d" title="rtflann::IndexBase\l::getParameters" alt="" coords="182,256,311,295"/>
+<area shape="rect" id="node7" href="$classrtflann_1_1_index_base.html#a069d48f000edb1f3279106942a12e7ee" title="rtflann::IndexBase\l::loadIndex" alt="" coords="182,319,311,357"/>
+<area shape="rect" id="node8" href="$classrtflann_1_1_index_base.html#acdfa6fd7917c5bd16efcc6bbe0b438db" title="rtflann::IndexBase\l::saveIndex" alt="" coords="182,381,311,420"/>
+</map>

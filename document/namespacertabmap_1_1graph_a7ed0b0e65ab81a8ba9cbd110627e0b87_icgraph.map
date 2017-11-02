@@ -1,0 +1,6 @@
+<map id="rtabmap::graph::importPoses" name="rtabmap::graph::importPoses">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera_images.html#a8a704e1942921fe4a50abe64fe2ddf82" title="rtabmap::CameraImages\l::readPoses" alt="" coords="247,37,415,76"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera_images.html#aa3021d2708c753eb566cf7f4797fb04e" title="rtabmap::CameraImages\l::init" alt="" coords="463,37,632,76"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_camera_r_g_b_d_images.html#a47615a1c24d40037215446af5f304f9f" title="rtabmap::CameraRGBDImages\l::init" alt="" coords="681,5,888,44"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_camera_stereo_images.html#a3fa0d69119fb04d1756c20004973caf4" title="rtabmap::CameraStereoImages\l::init" alt="" coords="680,68,888,107"/>
+</map>

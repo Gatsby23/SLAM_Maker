@@ -1,0 +1,33 @@
+<map id="rtabmap::Feature2D::generateKeypoints3D" name="rtabmap::Feature2D::generateKeypoints3D">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_sensor_data.html#aaa7408cb13ea2cbe33438e007b80de30" title="rtabmap::SensorData\l::rightRaw" alt="" coords="237,5,385,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_sensor_data.html#afa6facb37c5a22315eaf9c2693622bc8" title="rtabmap::SensorData\l::imageRaw" alt="" coords="237,76,385,115"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_sensor_data.html#ac0cc52bd3f7ddf0ce75a05acfc19e0d5" title="rtabmap::SensorData\l::stereoCameraModel" alt="" coords="236,139,385,177"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_stereo_camera_model.html#a6c16870b83978d286003b166fd6949cf" title="rtabmap::StereoCameraModel\l::isValidForProjection" alt="" coords="210,201,411,240"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_stereo.html#ab2720b6b7643e7791f9582d5294a150f" title="rtabmap::Stereo::compute\lCorrespondences" alt="" coords="223,264,398,303"/>
+<area shape="rect" id="node11" href="$namespacertabmap_1_1util3d.html#aa52527b6024a7e835defa281d94421b5" title="rtabmap::util3d::generate\lKeypoints3DStereo" alt="" coords="226,327,395,365"/>
+<area shape="rect" id="node28" href="$classrtabmap_1_1_sensor_data.html#a1970cd319999fb371873553b53b07d73" title="rtabmap::SensorData\l::depthRaw" alt="" coords="237,389,385,428"/>
+<area shape="rect" id="node29" href="$classrtabmap_1_1_sensor_data.html#aea457bf4fa2488272ef374b8042b13e1" title="rtabmap::SensorData\l::cameraModels" alt="" coords="237,452,385,491"/>
+<area shape="rect" id="node30" href="$namespacertabmap_1_1util3d.html#a90451eaaa2ed6c97371201d9d7c9352d" title="rtabmap::util3d::generate\lKeypoints3DDepth" alt="" coords="226,515,395,553"/>
+<area shape="rect" id="node32" href="$classrtabmap_1_1_sensor_data.html#a4f4ad7d6c9d32c72dbd560119e1730b6" title="rtabmap::SensorData\l::depthOrRightRaw" alt="" coords="237,577,385,616"/>
+<area shape="rect" id="node3" href="$namespacertabmap.html#a52c9962294b2d150d6540a1e82bf1999" title="rtabmap::uncompressData" alt="" coords="470,8,649,33"/>
+<area shape="rect" id="node8" href="$namespacertabmap_1_1util2d.html#ae5108270dacf70c6560b58f69a151521" title="rtabmap::util2d::calcStereo\lCorrespondences" alt="" coords="469,57,649,96"/>
+<area shape="rect" id="node9" href="$namespacertabmap_1_1util2d.html#af9801a5c3607a0185faa207f0a348fa2" title="rtabmap::util2d::ssd" alt="" coords="739,15,877,40"/>
+<area shape="rect" id="node10" href="$namespacertabmap_1_1util2d.html#a55593444d4a8b1e6c9f7b7a6b60adc72" title="rtabmap::util2d::sad" alt="" coords="739,64,877,89"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_stereo_camera_model.html#a4485bbbe4e3e4a59defc2d87b450a357" title="rtabmap::StereoCameraModel\l::left" alt="" coords="708,113,908,152"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_camera_model.html#acea616d4e141804dbc5c6eda58bebf6b" title="rtabmap::CameraModel::fx" alt="" coords="718,176,898,201"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_stereo_camera_model.html#a8dc48f95fcf68eb81da96941f778535f" title="rtabmap::StereoCameraModel\l::baseline" alt="" coords="708,387,908,425"/>
+<area shape="rect" id="node15" href="$namespacertabmap_1_1util3d.html#a0a0e0db6f2f18c9782eba6df000c4303" title="rtabmap::util3d::project\lDisparityTo3D" alt="" coords="481,223,638,261"/>
+<area shape="rect" id="node19" href="$namespacertabmap_1_1util3d.html#ad883f74dd571d335ff923093ef254e98" title="rtabmap::util3d::isFinite" alt="" coords="480,337,639,363"/>
+<area shape="rect" id="node20" href="$classrtabmap_1_1_stereo_camera_model.html#a68fafe2588e7631921b78d5535dafdfc" title="rtabmap::StereoCameraModel\l::localTransform" alt="" coords="459,387,660,425"/>
+<area shape="rect" id="node21" href="$classrtabmap_1_1_transform.html#a0d6a1985391a45de4fe208e58c51b9d2" title="rtabmap::Transform\l::isNull" alt="" coords="490,449,628,488"/>
+<area shape="rect" id="node23" href="$classrtabmap_1_1_transform.html#ae0636052ce31698d4d45afe4492ffab9" title="rtabmap::Transform\l::isIdentity" alt="" coords="490,512,628,551"/>
+<area shape="rect" id="node24" href="$namespacertabmap_1_1util3d.html#a6a4faa6e17243490062523c799cd6934" title="rtabmap::util3d::transform\lPoint" alt="" coords="473,575,646,613"/>
+<area shape="rect" id="node16" href="$classrtabmap_1_1_stereo_camera_model.html#a01184c25c8ea4152a8b4950e0cabc59e" title="rtabmap::StereoCameraModel\l::right" alt="" coords="708,275,908,313"/>
+<area shape="rect" id="node17" href="$classrtabmap_1_1_camera_model.html#af81ee9572d32f69bf0a66cd1f4671c20" title="rtabmap::CameraModel::cx" alt="" coords="717,337,899,363"/>
+<area shape="rect" id="node18" href="$classrtabmap_1_1_camera_model.html#aa3a18f811d3e9db290d01371e078add3" title="rtabmap::CameraModel::cy" alt="" coords="717,225,899,251"/>
+<area shape="rect" id="node22" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="739,459,877,497"/>
+<area shape="rect" id="node25" href="$classrtabmap_1_1_transform.html#a1d69c9ae9129ccffe30b971ed8747adc" title="rtabmap::Transform::x" alt="" coords="732,631,884,656"/>
+<area shape="rect" id="node26" href="$classrtabmap_1_1_transform.html#af7d90ee7b9ace464ea80dad90e3df9a3" title="rtabmap::Transform::y" alt="" coords="732,532,884,557"/>
+<area shape="rect" id="node27" href="$classrtabmap_1_1_transform.html#af3c3671ae31945e689ee9a84deca5d6b" title="rtabmap::Transform::z" alt="" coords="732,581,884,607"/>
+<area shape="rect" id="node31" href="$classrtabmap_1_1_camera_model.html#a7b6db41415e085d52bf363d09d5e6d67" title="rtabmap::CameraModel\l::isValidForProjection" alt="" coords="479,637,640,676"/>
+</map>

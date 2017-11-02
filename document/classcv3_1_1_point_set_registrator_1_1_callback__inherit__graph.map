@@ -1,0 +1,4 @@
+<map id="cv3::PointSetRegistrator::Callback" name="cv3::PointSetRegistrator::Callback">
+<area shape="rect" id="node2" href="$classcv3_1_1_affine3_d_estimator_callback.html" title="{cv3::Affine3DEstimatorCallback\n||+ runKernel()\l+ computeError()\l+ checkSubset()\l}" alt="" coords="5,213,213,313"/>
+<area shape="rect" id="node3" href="$classcv3_1_1_pn_p_ransac_callback.html" title="{cv3::PnPRansacCallback\n|+ cameraMatrix\l+ distCoeffs\l+ flags\l+ useExtrinsicGuess\l+ rvec\l+ tvec\l|+ PnPRansacCallback()\l+ runKernel()\l+ computeError()\l}" alt="" coords="237,180,408,347"/>
+</map>

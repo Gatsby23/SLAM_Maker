@@ -1,0 +1,18 @@
+<map id="rtabmap::util3d::voxelize" name="rtabmap::util3d::voxelize">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_occupancy_grid.html#ab4d219667665870613e09ad52ae239f5" title="rtabmap::OccupancyGrid\l::segmentCloud" alt="" coords="247,5,417,44"/>
+<area shape="rect" id="node3" href="$namespacertabmap_1_1util3d.html#a9b93d07997a94a78b6be6bd573e39148" title="rtabmap::util3d::occupancy2\lDFromGroundObstacles" alt="" coords="238,68,426,107"/>
+<area shape="rect" id="node4" href="$namespacertabmap_1_1util3d.html#a64f18bbc80cb46dc528487bb9ede465a" title="rtabmap::util3d::uniform\lSampling" alt="" coords="251,131,413,169"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_camera_images.html#a00a3e412173771537411a1683c18c0f7" title="rtabmap::CameraImages\l::captureImage" alt="" coords="496,393,665,432"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_camera_thread.html#aba9e3775217a8bd7e10fcd3e5710b655" title="rtabmap::CameraThread\l::postUpdate" alt="" coords="248,193,416,232"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_memory.html#ae57c1e215b5449431b93588dd4217703" title="rtabmap::Memory::createSignature" alt="" coords="218,256,446,281"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_octo_map.html#a5efeb4f4e403ca4f48288a61aff87301" title="rtabmap::OctoMap::create\lProjectionMap" alt="" coords="244,357,420,396"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_odometry.html#a4fcbe67de2ec6f23829e3962ee586315" title="rtabmap::Odometry::\lprocess" alt="" coords="260,420,404,459"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_registration_icp.html#a08cb2eda291112236ddf17053a04f782" title="rtabmap::RegistrationIcp\l::computeTransformationImpl" alt="" coords="235,483,429,521"/>
+<area shape="rect" id="node15" href="$namespacertabmap_1_1util3d.html#abe43dffd18c940826f3e805f897c89f7" title="rtabmap::util3d::loadCloud" alt="" coords="244,545,421,571"/>
+<area shape="rect" id="node17" href="$namespacertabmap_1_1util3d.html#aa2e54873cd5412e7e3825f37e4c9bd08" title="rtabmap::util3d::voxelize" alt="" coords="250,595,415,620"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_camera_r_g_b_d_images.html#aee8dd9e887c5342a9eef225d45f8ac0c" title="rtabmap::CameraRGBDImages\l::captureImage" alt="" coords="716,363,923,401"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_camera_stereo_images.html#a3fc92d104807f923c70e9e820e25a473" title="rtabmap::CameraStereoImages\l::captureImage" alt="" coords="716,425,924,464"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_camera_thread.html#a4e4f475ed37c6696b303c3437d127682" title="rtabmap::CameraThread\l::mainLoop" alt="" coords="497,193,664,232"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="494,256,668,281"/>
+<area shape="rect" id="node16" href="$namespacertabmap_1_1util3d.html#a0120b85a5ad81dadb9154b3ed3b2b834" title="rtabmap::util3d::loadScan" alt="" coords="495,545,667,571"/>
+</map>

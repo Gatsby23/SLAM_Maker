@@ -1,0 +1,16 @@
+<map id="rtabmap::Transform::rotation" name="rtabmap::Transform::rotation">
+<area shape="rect" id="node2" href="$namespacertabmap_1_1graph.html#a5e9903d8b65340ac447d795e56179ad4" title="rtabmap::graph::computePath" alt="" coords="191,5,389,31"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_transform.html#af471c17a5e411db55813b766727830f4" title="rtabmap::Transform\l::Transform" alt="" coords="221,55,359,93"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_transform.html#a64246d263e984b712a83f0c20a5c6e12" title="rtabmap::Transform\l::getQuaternionf" alt="" coords="221,117,359,156"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_transform.html#a50bceaa69080fae579291b608a4bba9c" title="rtabmap::Transform\l::getQuaterniond" alt="" coords="221,180,359,219"/>
+<area shape="rect" id="node5" href="$namespacertabmap_1_1graph.html#aa4b5595ca5c8ce6c48edafdb165e173b" title="rtabmap::graph::exportPoses" alt="" coords="437,93,630,119"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_transform.html#af42b1c945a7fee57a26207fb96b7143d" title="rtabmap::Transform\l::interpolate" alt="" coords="465,149,603,188"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_rtabmap.html#af7fa0cbd1ef027f8bb2af11364487df8" title="rtabmap::Rtabmap::getTime\lThreshold" alt="" coords="682,24,869,63"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_rtabmap.html#aeffdfc811a178ba2e55205b746a6ea71" title="rtabmap::Rtabmap::export\lPoses" alt="" coords="687,87,863,125"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="921,87,1095,125"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_camera_images.html#a8a704e1942921fe4a50abe64fe2ddf82" title="rtabmap::CameraImages\l::readPoses" alt="" coords="691,149,860,188"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_registration_vis.html#ad58a6cdcc37eb85639f50da6089f0e32" title="rtabmap::RegistrationVis\l::computeTransformationImpl" alt="" coords="678,212,873,251"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_camera_images.html#aa3021d2708c753eb566cf7f4797fb04e" title="rtabmap::CameraImages\l::init" alt="" coords="923,149,1092,188"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_camera_r_g_b_d_images.html#a47615a1c24d40037215446af5f304f9f" title="rtabmap::CameraRGBDImages\l::init" alt="" coords="1143,117,1350,156"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_camera_stereo_images.html#a3fa0d69119fb04d1756c20004973caf4" title="rtabmap::CameraStereoImages\l::init" alt="" coords="1143,180,1351,219"/>
+</map>

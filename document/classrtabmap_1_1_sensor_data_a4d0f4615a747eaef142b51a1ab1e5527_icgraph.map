@@ -1,0 +1,15 @@
+<map id="rtabmap::SensorData::setId" name="rtabmap::SensorData::setId">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_d_b_reader.html#a9a6ac02201ae0881dff8992d9f31beff" title="rtabmap::DBReader::\lgetNextData" alt="" coords="228,8,375,47"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_memory.html#aef198c85ed18b259f4dcb929c7b6ece3" title="rtabmap::Memory::copyData" alt="" coords="207,72,397,97"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_odometry_f2_m.html#a1203f3e1f595154b758a225a2e4d8d91" title="rtabmap::OdometryF2M\l::computeTransform" alt="" coords="220,121,383,160"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_rtabmap.html#a48365a9700e971767dace6dbed2074b0" title="rtabmap::Rtabmap::get3DMap" alt="" coords="201,184,402,209"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_rtabmap_thread.html#a2e20eea87e525a49ab532127bf65337d" title="rtabmap::RtabmapThread\l::addData" alt="" coords="215,233,389,272"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_signature.html#aa3367bba5b890341238d93e642f847a7" title="rtabmap::Signature\l::Signature" alt="" coords="234,296,369,335"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_d_b_reader.html#a5a5d740647fb80267ce94c99a9bdd68b" title="rtabmap::DBReader::\lcaptureImage" alt="" coords="471,5,618,44"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_memory.html#ac6b2a77f42ee06e5db6c21146493387f" title="rtabmap::Memory::rehearsal\lMerge" alt="" coords="450,68,639,107"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_memory.html#a74b4e28806f6c53ba8758baa67fab621" title="rtabmap::Memory::rehearsal" alt="" coords="687,75,876,100"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="924,75,1098,100"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_rtabmap_thread.html#a17b15cb2cd9d152c571f3d0ed3342ab2" title="rtabmap::RtabmapThread\l::publishMap" alt="" coords="457,173,631,212"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="694,173,868,212"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_rtabmap_thread.html#aad3724459e85bf45a5c27339e7db1550" title="rtabmap::RtabmapThread\l::handleEvent" alt="" coords="457,236,631,275"/>
+</map>

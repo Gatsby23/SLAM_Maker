@@ -1,0 +1,10 @@
+<map id="rtabmap::OdometryF2M::OdometryF2M" name="rtabmap::OdometryF2M::OdometryF2M">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_parameters.html#a74719b1e59dc21efce4db008bfc366ec" title="rtabmap::Parameters\l::parse" alt="" coords="431,26,577,65"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_optimizer.html#a17cbadee10ca03a54494966894db5126" title="rtabmap::Optimizer\l::isAvailable" alt="" coords="223,152,358,190"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_optimizer.html#a1d3515681d4a170260810fd698b6f85f" title="rtabmap::Optimizer\l::create" alt="" coords="223,26,358,65"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_registration.html#ab29d323cc4174db0a22d6bbb077ff299" title="rtabmap::Registration\l::create" alt="" coords="216,89,365,128"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_optimizer_g2_o.html#a0c329b0c2c85b266b30d502f249527cb" title="rtabmap::OptimizerG2O\l::available" alt="" coords="423,89,585,128"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_optimizer_g_t_s_a_m.html#a43b7b589882006b11af0f82124d8efd6" title="rtabmap::OptimizerGTSAM\l::available" alt="" coords="413,152,595,190"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_optimizer_c_v_s_b_a.html#aab4ca88c4d69085934aebe41743d52df" title="rtabmap::OptimizerCVSBA\l::available" alt="" coords="414,214,594,253"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_optimizer_t_o_r_o.html#a7207ce426db0c2e8180bc80087020877" title="rtabmap::OptimizerTORO\l::available" alt="" coords="418,277,591,316"/>
+</map>

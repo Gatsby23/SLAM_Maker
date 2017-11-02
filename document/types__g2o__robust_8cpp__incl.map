@@ -1,0 +1,6 @@
+<map id="corelib/src/vertigo/g2o/types_g2o_robust.cpp" name="corelib/src/vertigo/g2o/types_g2o_robust.cpp">
+<area shape="rect" id="node4" href="$edge__switch_prior_8h.html" title="vertigo/g2o/edge_switchPrior.h" alt="" coords="362,92,565,117"/>
+<area shape="rect" id="node5" href="$vertex__switch_linear_8h.html" title="vertex_switchLinear.h" alt="" coords="217,172,366,197"/>
+<area shape="rect" id="node9" href="$edge__se2_switchable_8h.html" title="vertigo/g2o/edge_se2Switchable.h" alt="" coords="600,92,825,117"/>
+<area shape="rect" id="node13" href="$edge__se3_switchable_8h.html" title="vertigo/g2o/edge_se3Switchable.h" alt="" coords="870,92,1095,117"/>
+</map>

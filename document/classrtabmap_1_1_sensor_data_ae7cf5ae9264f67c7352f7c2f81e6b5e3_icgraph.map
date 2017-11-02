@@ -1,0 +1,8 @@
+<map id="rtabmap::SensorData::clearCompressedData" name="rtabmap::SensorData::clearCompressedData">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#a93119d10342db4a55c77b180cb249453" title="rtabmap::Memory::saveLocationData" alt="" coords="215,55,455,80"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_rtabmap.html#ad7f085b6ae0fd3c7077c500c028fd5c3" title="Main loop of rtabmap. " alt="" coords="503,55,689,80"/>
+<area shape="rect" id="node4" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="737,5,925,31"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_rtabmap.html#a35cf8fd93f77d1c148ae6d3107725750" title="rtabmap::Rtabmap::process" alt="" coords="738,55,924,80"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_rtabmap_thread.html#a921bb6c18683103d08270a7e665d89dc" title="rtabmap::RtabmapThread\l::process" alt="" coords="744,104,918,143"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="973,104,1147,143"/>
+</map>

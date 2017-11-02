@@ -1,0 +1,5 @@
+<map id="rtabmap::Optimizer::isCovarianceIgnored" name="rtabmap::Optimizer::isCovarianceIgnored">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_optimizer_g2_o.html#af68e8c20e465e38c1d65d0989b022674" title="rtabmap::OptimizerG2O\l::optimize" alt="" coords="214,5,377,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_optimizer_g_t_s_a_m.html#af701c155931927adc305d80cc761f541" title="rtabmap::OptimizerGTSAM\l::optimize" alt="" coords="204,68,386,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_optimizer_t_o_r_o.html#a1f5a5cf0dc2935b41a79bf32fe01e745" title="rtabmap::OptimizerTORO\l::optimize" alt="" coords="209,131,382,169"/>
+</map>

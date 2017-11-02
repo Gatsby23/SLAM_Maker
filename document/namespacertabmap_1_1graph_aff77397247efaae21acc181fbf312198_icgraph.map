@@ -1,0 +1,11 @@
+<map id="rtabmap::graph::computePath" name="rtabmap::graph::computePath">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_rtabmap.html#afe4aa4f9a67ba85b60c7dfda86d0131b" title="rtabmap::Rtabmap::getPath\lStatus" alt="" coords="257,5,442,44"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_rtabmap.html#a61bacd79944b136639cca498e0c22bf6" title="rtabmap::Rtabmap::getPath\lTransformToGoal" alt="" coords="257,68,442,107"/>
+<area shape="rect" id="node6" href="$namespacertabmap_1_1graph.html#aabda884597e6b8df053d04ee56cfaf6f" title="rtabmap::graph::reduceGraph" alt="" coords="251,131,448,156"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_rtabmap.html#ad7f085b6ae0fd3c7077c500c028fd5c3" title="Main loop of rtabmap. " alt="" coords="257,180,442,205"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_rtabmap.html#ab797f7f5bb73a507ba4d4672cd5476df" title="rtabmap::Rtabmap::computePath" alt="" coords="496,231,714,256"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_rtabmap_thread.html#a921bb6c18683103d08270a7e665d89dc" title="rtabmap::RtabmapThread\l::process" alt="" coords="518,69,692,108"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="762,147,936,185"/>
+<area shape="rect" id="node8" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="511,132,699,157"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_rtabmap.html#a35cf8fd93f77d1c148ae6d3107725750" title="rtabmap::Rtabmap::process" alt="" coords="512,181,698,207"/>
+</map>

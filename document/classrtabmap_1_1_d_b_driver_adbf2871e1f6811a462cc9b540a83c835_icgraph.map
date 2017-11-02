@@ -1,0 +1,10 @@
+<map id="rtabmap::DBDriver::getInvertedIndexNi" name="rtabmap::DBDriver::getInvertedIndexNi">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#a27442cc517cc3fe7281fb4496f825652" title="rtabmap::Memory::getNi" alt="" coords="192,40,357,65"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_memory.html#a984ca01a87434b11a66dc1d96e2fff17" title="rtabmap::Memory::compute\lLikelihood" alt="" coords="405,33,589,72"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_odometry_mono.html#af59c2d45e7a683f8cd3dfc22def75733" title="rtabmap::OdometryMono\l::computeTransform" alt="" coords="645,5,815,44"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_rtabmap.html#ad7f085b6ae0fd3c7077c500c028fd5c3" title="Main loop of rtabmap. " alt="" coords="637,68,823,93"/>
+<area shape="rect" id="node6" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="871,19,1060,44"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_rtabmap.html#a35cf8fd93f77d1c148ae6d3107725750" title="rtabmap::Rtabmap::process" alt="" coords="873,68,1058,93"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_rtabmap_thread.html#a921bb6c18683103d08270a7e665d89dc" title="rtabmap::RtabmapThread\l::process" alt="" coords="878,117,1052,156"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="1108,117,1282,156"/>
+</map>

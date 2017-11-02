@@ -1,0 +1,3 @@
+<map id="rtabmap::StereoOpticalFlow" name="rtabmap::StereoOpticalFlow">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_stereo.html" title="{rtabmap::Stereo\n|&#45; winWidth_\l&#45; winHeight_\l&#45; iterations_\l&#45; maxLevel_\l&#45; minDisparity_\l&#45; maxDisparity_\l&#45; winSSD_\l|+ Stereo()\l+ ~Stereo()\l+ parseParameters()\l+ computeCorrespondences()\l+ winSize()\l+ iterations()\l+ maxLevel()\l+ minDisparity()\l+ maxDisparity()\l+ winSSD()\l+ create()\l}" alt="" coords="5,5,203,292"/>
+</map>

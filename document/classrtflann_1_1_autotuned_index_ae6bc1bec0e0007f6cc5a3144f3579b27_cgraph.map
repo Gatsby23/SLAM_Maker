@@ -1,0 +1,8 @@
+<map id="rtflann::AutotunedIndex::getType" name="rtflann::AutotunedIndex::getType">
+<area shape="rect" id="node2" href="$classrtflann_1_1_start_stop_timer.html#ae7d39365456cb0c554853c63bd93b5a0" title="rtflann::StartStopTimer\l::start" alt="" coords="228,5,383,44"/>
+<area shape="rect" id="node3" href="$classrtflann_1_1_n_n_index.html#a7d32f948852d4315bc04043633321cc9" title="rtflann::NNIndex::buildIndex" alt="" coords="213,68,398,93"/>
+<area shape="rect" id="node4" href="$classrtflann_1_1_start_stop_timer.html#a79319c153db95a55ec8d2dca33c746d7" title="rtflann::StartStopTimer\l::stop" alt="" coords="228,117,383,156"/>
+<area shape="rect" id="node5" href="$classrtflann_1_1_k_means_index.html#a427c5937f39b25e1c09d6787abdceb51" title="rtflann::KMeansIndex\l::usedMemory" alt="" coords="232,180,379,219"/>
+<area shape="rect" id="node6" href="$classrtflann_1_1_k_d_tree_index.html#a140a4a0613770a781e7e27c1eb9ca64c" title="rtflann::KDTreeIndex\l::usedMemory" alt="" coords="234,243,377,281"/>
+<area shape="rect" id="node7" href="$classrtflann_1_1_start_stop_timer.html#a16ab7b7e60cc8f328fcef5898bba5fa4" title="rtflann::StartStopTimer\l::reset" alt="" coords="228,305,383,344"/>
+</map>

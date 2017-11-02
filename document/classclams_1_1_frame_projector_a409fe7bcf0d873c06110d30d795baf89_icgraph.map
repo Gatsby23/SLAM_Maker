@@ -1,0 +1,6 @@
+<map id="clams::FrameProjector::reproject" name="clams::FrameProjector::reproject">
+<area shape="rect" id="node2" href="$classclams_1_1_frame_projector.html#a6218ae4fa3fd3ba6f0be613ce28bb1a8" title="clams::FrameProjector\l::cloudToRangeIndex" alt="" coords="209,5,364,44"/>
+<area shape="rect" id="node5" href="$classclams_1_1_frame_projector.html#aee478040703319cc4696894e773b8e19" title="clams::FrameProjector\l::coneFit" alt="" coords="209,68,364,107"/>
+<area shape="rect" id="node3" href="$classclams_1_1_frame_projector.html#a26c74a7a7f6f6e9c2e18d6a38693699c" title="clams::FrameProjector\l::estimateMapDepth" alt="" coords="412,37,568,76"/>
+<area shape="rect" id="node4" href="$namespaceclams.html#adb312d785289d27adebfb7ae047ae5fa" title="clams::calibrate" alt="" coords="616,44,730,69"/>
+</map>

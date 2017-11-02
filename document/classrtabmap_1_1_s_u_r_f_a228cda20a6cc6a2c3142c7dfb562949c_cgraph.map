@@ -1,0 +1,8 @@
+<map id="rtabmap::SURF::SURF" name="rtabmap::SURF::SURF">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_s_u_r_f.html#a225aa0f7a2f6edbcef43c22156aa1111" title="rtabmap::SURF::parseParameters" alt="" coords="211,143,435,168"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_feature2_d.html#a3fdf5728d2e013f58593f91b65a3defa" title="rtabmap::Feature2D\l::parseParameters" alt="" coords="483,86,623,124"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_parameters.html#a74719b1e59dc21efce4db008bfc366ec" title="rtabmap::Parameters\l::parse" alt="" coords="1367,38,1513,76"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_stereo.html#a0182f99957ea7e66c36dac30b8e2b3ce" title="rtabmap::Stereo::create" alt="" coords="671,70,833,95"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_stereo.html#abab271e16adb31b74e53d60fb38fdeb5" title="rtabmap::Stereo::parseParameters" alt="" coords="1092,70,1319,95"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_stereo.html#a1031c68f4e66690da216718382af0ab3" title="rtabmap::Stereo::Stereo" alt="" coords="881,70,1044,95"/>
+</map>

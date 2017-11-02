@@ -1,0 +1,15 @@
+<map id="pagerAcquireMapPage" name="pagerAcquireMapPage">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a78c0d5d5dbb919de1617dff7f7fa4c44" title="sqlite3MallocZero" alt="" coords="211,158,337,183"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#abc0da72cb8b8989cf8708b572fe5fef4" title="sqlite3OsUnfetch" alt="" coords="213,207,335,232"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#afeb0b42dca534c9607d5138c79e3fd7e" title="sqlite3Malloc" alt="" coords="385,158,483,183"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="883,7,1024,32"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ab070d5cf8e48ec8a6a43cf025d48598b" title="mallocWithAlarm" alt="" coords="531,158,653,183"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="882,183,1025,208"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="1082,134,1218,159"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#afec7586c01fcb5ea17dc9d7725a589d9" title="sqlite3StatusSet" alt="" coords="708,183,826,208"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a30b8ac296c6e200c1fa57708d52c6ef6" title="sqlite3StatusValue" alt="" coords="888,56,1019,82"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ada66988e8471d1198f3219c062377508" title="sqlite3MallocAlarm" alt="" coords="701,31,834,56"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="705,232,829,258"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="707,282,828,307"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a83967c837c1c000d3b5adcfaa688f5dc" title="sqlite3_mutex_notheld" alt="" coords="1073,183,1227,208"/>
+</map>

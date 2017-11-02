@@ -1,0 +1,9 @@
+<map id="rtabmap::Link::inverse" name="rtabmap::Link::inverse">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_link.html#a2dce9c7a3ef04085d51f702002107c7b" title="rtabmap::Link::Link" alt="" coords="208,5,342,31"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_transform.html#a0d6a1985391a45de4fe208e58c51b9d2" title="rtabmap::Transform\l::isNull" alt="" coords="392,47,530,85"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_transform.html#a71ff72d5731d252a87a19c63e3890e3a" title="rtabmap::Transform\l::inverse" alt="" coords="206,109,344,148"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="578,79,716,117"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_transform.html#a469b0923be94d2dc2ca8b290f3bfac8c" title="rtabmap::Transform\l::fromEigen4f" alt="" coords="392,172,530,211"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_transform.html#a1cb08be14adcabc0999eca4db3c67812" title="rtabmap::Transform\l::toEigen4f" alt="" coords="392,109,530,148"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_transform.html#ac3654d3f6802d4b0c17b6110d1eda71a" title="rtabmap::Transform\l::Transform" alt="" coords="578,172,716,211"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="vertigo::SwitchVariableLinear::SwitchVariableLinear" name="vertigo::SwitchVariableLinear::SwitchVariableLinear">
+<area shape="rect" id="node2" href="$structvertigo_1_1_switch_variable_linear.html#aaaaafbbec4c5473fc85a3d9ab67a8a77" title="vertigo::SwitchVariableLinear\l::retract" alt="" coords="246,12,439,51"/>
+<area shape="rect" id="node4" href="$structvertigo_1_1_switch_variable_linear.html#a9c19ab71197ca322d49cad70ebe4f051" title="vertigo::SwitchVariableLinear\l::identity" alt="" coords="246,75,439,113"/>
+<area shape="rect" id="node5" href="$structvertigo_1_1_switch_variable_linear.html#ab589c04990e9bd22478034d03e288964" title="vertigo::SwitchVariableLinear\l::compose" alt="" coords="246,137,439,176"/>
+<area shape="rect" id="node6" href="$structvertigo_1_1_switch_variable_linear.html#a41877b063c96c62512e6231af9b63a56" title="vertigo::SwitchVariableLinear\l::between" alt="" coords="246,200,439,239"/>
+<area shape="rect" id="node7" href="$structvertigo_1_1_switch_variable_linear.html#a2718b15615c391179a898aca2d9fedda" title="vertigo::SwitchVariableLinear\l::inverse" alt="" coords="246,263,439,301"/>
+<area shape="rect" id="node8" href="$structvertigo_1_1_switch_variable_linear.html#ad34bcad44338f4d02943289cd202113a" title="vertigo::SwitchVariableLinear\l::Expmap" alt="" coords="246,325,439,364"/>
+<area shape="rect" id="node3" href="$structgtsam_1_1traits_3_01vertigo_1_1_switch_variable_linear_01_4.html#ab2711e6bb40f547484d1b6805b09f716" title="gtsam::traits\&lt; vertigo\l::SwitchVariableLinear\l \&gt;::Retract" alt="" coords="487,5,640,57"/>
+</map>

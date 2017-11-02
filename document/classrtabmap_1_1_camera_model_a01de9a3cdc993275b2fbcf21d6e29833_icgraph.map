@@ -1,0 +1,6 @@
+<map id="rtabmap::CameraModel::project" name="rtabmap::CameraModel::project">
+<area shape="rect" id="node2" href="$classclams_1_1_frame_projector.html#ab3547d615ac67279f44faf0752909337" title="clams::FrameProjector\l::project" alt="" coords="215,5,370,44"/>
+<area shape="rect" id="node3" href="$classclams_1_1_frame_projector.html#aee478040703319cc4696894e773b8e19" title="clams::FrameProjector\l::coneFit" alt="" coords="418,5,574,44"/>
+<area shape="rect" id="node4" href="$classclams_1_1_frame_projector.html#a26c74a7a7f6f6e9c2e18d6a38693699c" title="clams::FrameProjector\l::estimateMapDepth" alt="" coords="622,5,777,44"/>
+<area shape="rect" id="node5" href="$namespaceclams.html#adb312d785289d27adebfb7ae047ae5fa" title="clams::calibrate" alt="" coords="825,12,939,37"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="rtabmap::Link::merge" name="rtabmap::Link::merge">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_link.html#a185194e8e766ca979e4de7e179f0e534" title="rtabmap::Link::from" alt="" coords="215,5,352,31"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_link.html#a5d5d54b7f3363d13c3ad44acf7e470db" title="rtabmap::Link::transform" alt="" coords="201,55,366,80"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_transform.html#a0d6a1985391a45de4fe208e58c51b9d2" title="rtabmap::Transform\l::isNull" alt="" coords="215,104,353,143"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_link.html#adc3a81918165c29d7b474df4285e98e0" title="rtabmap::Link::infMatrix" alt="" coords="204,167,364,192"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_link.html#a2dce9c7a3ef04085d51f702002107c7b" title="rtabmap::Link::Link" alt="" coords="217,216,351,241"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_link.html#a8d534b311c37d789276dd58bd7dc89e4" title="rtabmap::Link::to" alt="" coords="223,265,344,291"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="414,104,552,143"/>
+</map>

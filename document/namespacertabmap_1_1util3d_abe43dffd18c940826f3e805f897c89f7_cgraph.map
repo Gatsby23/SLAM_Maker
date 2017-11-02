@@ -1,0 +1,10 @@
+<map id="rtabmap::util3d::loadCloud" name="rtabmap::util3d::loadCloud">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_transform.html#a0d6a1985391a45de4fe208e58c51b9d2" title="rtabmap::Transform\l::isNull" alt="" coords="478,44,615,83"/>
+<area shape="rect" id="node4" href="$namespacertabmap_1_1util3d.html#aa392ef1f2cf279732972d23ccfc84f4c" title="rtabmap::util3d::loadBINCloud" alt="" coords="230,35,430,60"/>
+<area shape="rect" id="node5" href="$namespacertabmap_1_1util3d.html#a9361892cafd89a5c98f5e49559f7fc04" title="rtabmap::util3d::downsample" alt="" coords="234,84,426,109"/>
+<area shape="rect" id="node6" href="$namespacertabmap_1_1util3d.html#ab38b385224260f7d29e7cca5da02bf5f" title="rtabmap::util3d::voxelize" alt="" coords="247,133,412,159"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_transform.html#ae0636052ce31698d4d45afe4492ffab9" title="rtabmap::Transform\l::isIdentity" alt="" coords="478,172,615,211"/>
+<area shape="rect" id="node8" href="$namespacertabmap_1_1util3d.html#a1e534f4aae696479cd2b014bcdc9823e" title="rtabmap::util3d::transform\lPointCloud" alt="" coords="243,235,417,273"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="663,172,801,211"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_transform.html#a1cb08be14adcabc0999eca4db3c67812" title="rtabmap::Transform\l::toEigen4f" alt="" coords="478,235,615,273"/>
+</map>

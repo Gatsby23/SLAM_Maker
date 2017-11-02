@@ -1,0 +1,6 @@
+<map id="LZ4HC_encodeSequence" name="LZ4HC_encodeSequence">
+<area shape="rect" id="node2" href="$lz4_8c.html#a0c2e465f97a0020fd9d49af49689644b" title="LZ4_wildCopy" alt="" coords="231,5,337,31"/>
+<area shape="rect" id="node4" href="$lz4_8c.html#a3a6a0833a6f5ee0e99c80cbae73ca3a7" title="LZ4_writeLE16" alt="" coords="228,55,339,80"/>
+<area shape="rect" id="node3" href="$lz4_8c.html#ad53d5222d76f18ead9f7db9863091d18" title="LZ4_copy8" alt="" coords="409,5,496,31"/>
+<area shape="rect" id="node5" href="$lz4_8c.html#aa8a9ba402bf00e8e6c21691085ae9601" title="LZ4_isLittleEndian" alt="" coords="387,55,518,80"/>
+</map>

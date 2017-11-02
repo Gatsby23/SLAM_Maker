@@ -1,0 +1,5 @@
+<map id="rtabmap::DBDriverSqlite3::saveQuery" name="rtabmap::DBDriverSqlite3::saveQuery">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_visual_word.html#a4a4d316a18741c30c8d2d5db50f3c4e7" title="rtabmap::VisualWord\l::isSaved" alt="" coords="235,5,380,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_visual_word.html#a988fd37d739297c9b04c7dc156de3c66" title="rtabmap::VisualWord::id" alt="" coords="226,68,389,93"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_visual_word.html#a0a1fff281a1ad9beabf827e35a9ec041" title="rtabmap::VisualWord\l::getDescriptor" alt="" coords="235,117,380,156"/>
+</map>

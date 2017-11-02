@@ -1,0 +1,6 @@
+<map id="rtabmap::Parameters::isFeatureParameter" name="rtabmap::Parameters::isFeatureParameter">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_odometry_mono.html#a70291ffff0cad044bf74dfdd0254d2d1" title="rtabmap::OdometryMono\l::OdometryMono" alt="" coords="224,5,393,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_parameters.html#a53c0f650f40caee677a6c544d998f3e0" title="rtabmap::Parameters\l::getDefaultOdometryParameters" alt="" coords="200,68,417,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_registration_vis.html#ace88eb54afc9a8910ae3acdd75b8893d" title="rtabmap::RegistrationVis\l::parseParameters" alt="" coords="225,131,392,169"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_registration_vis.html#aa845f7fbbfc8fc340dba96a2a6550d03" title="rtabmap::RegistrationVis\l::RegistrationVis" alt="" coords="465,131,632,169"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="rtabmap::SensorData::setFeatures" name="rtabmap::SensorData::setFeatures">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_sensor_data.html#ad4945b19593503ee3e4d2da943ba976e" title="rtabmap::SensorData\l::keypoints" alt="" coords="201,5,349,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_sensor_data.html#a4379bf96acb881984d532d7019ae5728" title="rtabmap::SensorData\l::keypoints3D" alt="" coords="201,68,349,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_sensor_data.html#a9ab254c48aa6507ae02a544f075f11f6" title="rtabmap::SensorData\l::descriptors" alt="" coords="201,131,349,169"/>
+</map>

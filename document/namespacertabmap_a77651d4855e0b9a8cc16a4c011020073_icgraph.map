@@ -1,0 +1,4 @@
+<map id="rtabmap::HarrisResponses" name="rtabmap::HarrisResponses">
+<area shape="rect" id="node2" href="$namespacertabmap.html#a2791dc0c4e895cec1b02babd1f49d10f" title="rtabmap::computeKeyPoints" alt="" coords="233,5,422,31"/>
+<area shape="rect" id="node3" href="$namespacertabmap.html#a9548256e3e8e10b3d70475337459c8c5" title="rtabmap::computeDescriptors" alt="" coords="470,5,666,31"/>
+</map>

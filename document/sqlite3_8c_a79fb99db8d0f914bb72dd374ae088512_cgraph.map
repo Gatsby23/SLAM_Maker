@@ -1,0 +1,6 @@
+<map id="sqlite3FindIndex" name="sqlite3FindIndex">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a3dcd80ba41f1a308193dee74857b62a7" title="sqlite3Strlen30" alt="" coords="175,5,285,31"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a1bb83282c04c104ba033c3f5eb9556d2" title="sqlite3HashFind" alt="" coords="172,55,289,80"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a28fb46fe75615ecc3ba2ff3172c09048" title="strHash" alt="" coords="382,29,449,55"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#acd222b7539c14ad3f6d59cd6496c3865" title="findElementGivenHash" alt="" coords="337,79,494,104"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="AISNavigation::Quaternion::Quaternion" name="AISNavigation::Quaternion::Quaternion">
+<area shape="rect" id="node2" href="$struct_a_i_s_navigation_1_1_pose3.html#ad18bafa1d06292cbdcdefc29344fcdc3" title="AISNavigation::Pose3::x" alt="" coords="236,5,401,31"/>
+<area shape="rect" id="node3" href="$struct_a_i_s_navigation_1_1_vector3.html#a6f0cc2bf8b58bc25fed06f370cd77773" title="AISNavigation::Vector3::x" alt="" coords="233,55,405,80"/>
+<area shape="rect" id="node4" href="$struct_a_i_s_navigation_1_1_pose3.html#a7a793e69497bb1d524e7b6dc674f97e2" title="AISNavigation::Pose3::y" alt="" coords="236,104,401,129"/>
+<area shape="rect" id="node5" href="$struct_a_i_s_navigation_1_1_vector3.html#a8ce9615d199f756d4eff49dd3c9eabee" title="AISNavigation::Vector3::y" alt="" coords="233,153,405,179"/>
+<area shape="rect" id="node6" href="$struct_a_i_s_navigation_1_1_pose3.html#a5cf15d75157e470e3be8def1fb680d53" title="AISNavigation::Pose3::z" alt="" coords="236,203,401,228"/>
+<area shape="rect" id="node7" href="$struct_a_i_s_navigation_1_1_vector3.html#aa678da5ce00472f9a68037eed3dc31ed" title="AISNavigation::Vector3::z" alt="" coords="233,252,405,277"/>
+</map>

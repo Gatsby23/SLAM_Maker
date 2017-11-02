@@ -1,0 +1,4 @@
+<map id="rtabmap::util3d::cleanTextureMesh" name="rtabmap::util3d::cleanTextureMesh">
+<area shape="rect" id="node2" href="$namespacertabmap_1_1util3d.html#ac0a4e6feddafc25e9cc983866b8a1c64" title="Given a set of polygons, create two indexes: polygons to neighbor polygons and vertices to polygons..." alt="" coords="278,5,481,44"/>
+<area shape="rect" id="node3" href="$namespacertabmap_1_1util3d.html#a6322f521ddd46ff4dd9fa9e3421b5b62" title="rtabmap::util3d::cluster\lPolygons" alt="" coords="301,68,458,107"/>
+</map>

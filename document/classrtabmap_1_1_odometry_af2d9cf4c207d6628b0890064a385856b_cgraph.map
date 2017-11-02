@@ -1,0 +1,8 @@
+<map id="rtabmap::Odometry::Odometry" name="rtabmap::Odometry::Odometry">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_parameters.html#a74719b1e59dc21efce4db008bfc366ec" title="rtabmap::Parameters\l::parse" alt="" coords="197,5,344,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_odometry.html#a760fcaab74be2af917b280a22129c313" title="rtabmap::Odometry::\linitKalmanFilter" alt="" coords="198,68,342,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_transform.html#aad65adff491fd57a31dbe4e26d7f29af" title="rtabmap::Transform\l::getTranslationAndEulerAngles" alt="" coords="392,68,600,107"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_transform.html#a76e359a47eab8b98684ef0fa36da413f" title="rtabmap::Transform\l::toEigen3f" alt="" coords="648,68,786,107"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_transform.html#a1cb08be14adcabc0999eca4db3c67812" title="rtabmap::Transform\l::toEigen4f" alt="" coords="834,68,972,107"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="1020,68,1158,107"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="rtabmap::StereoCameraModel::computeDisparity" name="rtabmap::StereoCameraModel::computeDisparity">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_stereo_camera_model.html#a6c16870b83978d286003b166fd6949cf" title="rtabmap::StereoCameraModel\l::isValidForProjection" alt="" coords="254,5,455,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_stereo_camera_model.html#a8dc48f95fcf68eb81da96941f778535f" title="rtabmap::StereoCameraModel\l::baseline" alt="" coords="254,68,455,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_stereo_camera_model.html#a4485bbbe4e3e4a59defc2d87b450a357" title="rtabmap::StereoCameraModel\l::left" alt="" coords="254,131,455,169"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_camera_model.html#acea616d4e141804dbc5c6eda58bebf6b" title="rtabmap::CameraModel::fx" alt="" coords="265,193,444,219"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_stereo_camera_model.html#a01184c25c8ea4152a8b4950e0cabc59e" title="rtabmap::StereoCameraModel\l::right" alt="" coords="254,243,455,281"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_camera_model.html#af81ee9572d32f69bf0a66cd1f4671c20" title="rtabmap::CameraModel::cx" alt="" coords="263,305,445,331"/>
+</map>

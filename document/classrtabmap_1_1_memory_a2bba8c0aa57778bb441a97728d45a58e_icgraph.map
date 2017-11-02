@@ -1,0 +1,8 @@
+<map id="rtabmap::Memory::joinTrashThread" name="rtabmap::Memory::joinTrashThread">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_rtabmap.html#a3c32f64acd943c676a9b11c7dbd3a5ae" title="rtabmap::Rtabmap::generate\lDOTGraph" alt="" coords="241,5,433,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_rtabmap.html#ad7f085b6ae0fd3c7077c500c028fd5c3" title="Main loop of rtabmap. " alt="" coords="244,79,430,104"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="718,72,892,111"/>
+<area shape="rect" id="node5" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="481,51,670,76"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_rtabmap.html#a35cf8fd93f77d1c148ae6d3107725750" title="rtabmap::Rtabmap::process" alt="" coords="482,100,668,125"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_rtabmap_thread.html#a921bb6c18683103d08270a7e665d89dc" title="rtabmap::RtabmapThread\l::process" alt="" coords="488,149,662,188"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="rtabmap::CameraRealSense::captureImage" name="rtabmap::CameraRealSense::captureImage">
+<area shape="rect" id="node2" href="$namespacertabmap_1_1util2d.html#a8d36d9d3b9cf03243565e0c43a50cad5" title="rtabmap::util2d::fillRegistered\lDepthHoles" alt="" coords="244,5,438,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera.html#a469b6e2ad49c1c8174395e98c84431ac" title="rtabmap::Camera::getNext\lSeqID" alt="" coords="251,68,430,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_transform.html#a71ff72d5731d252a87a19c63e3890e3a" title="rtabmap::Transform\l::inverse" alt="" coords="272,131,410,169"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_transform.html#a469b0923be94d2dc2ca8b290f3bfac8c" title="rtabmap::Transform\l::fromEigen4f" alt="" coords="486,99,624,137"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_transform.html#a1cb08be14adcabc0999eca4db3c67812" title="rtabmap::Transform\l::toEigen4f" alt="" coords="486,161,624,200"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_transform.html#ac3654d3f6802d4b0c17b6110d1eda71a" title="rtabmap::Transform\l::Transform" alt="" coords="672,99,809,137"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="672,161,809,200"/>
+</map>

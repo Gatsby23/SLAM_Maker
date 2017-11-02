@@ -1,0 +1,6 @@
+<map id="rtflann::UniqueRandom::next" name="rtflann::UniqueRandom::next">
+<area shape="rect" id="node2" href="$classrtflann_1_1_random_center_chooser.html#a604453ff6fe727c3857ee34aa634ab66" title="rtflann::RandomCenterChooser\l::operator()" alt="" coords="212,5,418,44"/>
+<area shape="rect" id="node3" href="$namespacertflann.html#a1fa6d87c960b4ccc2f2a527158d58d70" title="rtflann::random_sample" alt="" coords="234,68,396,93"/>
+<area shape="rect" id="node4" href="$classrtflann_1_1_autotuned_index.html#a26e82720b6771e055658a5864102b3fa" title="rtflann::AutotunedIndex\l::estimateBuildParams" alt="" coords="470,29,630,68"/>
+<area shape="rect" id="node5" href="$classrtflann_1_1_autotuned_index.html#ad6c65ae41ba4579f2024536c347b3114" title="rtflann::AutotunedIndex\l::estimateSearchParams" alt="" coords="466,92,634,131"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="AISNavigation::Pose3::pitch" name="AISNavigation::Pose3::pitch">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_optimizer_t_o_r_o.html#a1f5a5cf0dc2935b41a79bf32fe01e745" title="rtabmap::OptimizerTORO\l::optimize" alt="" coords="225,5,398,44"/>
+<area shape="rect" id="node3" href="$struct_a_i_s_navigation_1_1_tree_pose_graph3.html#aca7afda51eab3164922d75c616057416" title="AISNavigation::TreePoseGraph3\l::load" alt="" coords="204,68,419,107"/>
+<area shape="rect" id="node4" href="$struct_a_i_s_navigation_1_1_tree_pose_graph3.html#aa841dfeb8933e1f0aacbfc14f480f584" title="AISNavigation::TreePoseGraph3\l::save" alt="" coords="204,131,419,169"/>
+<area shape="rect" id="node5" href="$struct_a_i_s_navigation_1_1_tree_pose_graph3.html#a774ecbe755ecd16b85906f92cd8833db" title="AISNavigation::TreePoseGraph3\l::printEdgesStat" alt="" coords="204,193,419,232"/>
+<area shape="rect" id="node6" href="$struct_a_i_s_navigation_1_1_transformation3.html#a8b25ecaefe6e77e906db48e0e5e94a62" title="AISNavigation::Transformation3\l::Transformation3" alt="" coords="207,256,417,295"/>
+</map>

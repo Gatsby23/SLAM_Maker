@@ -1,0 +1,6 @@
+<map id="sqlite3GetBoolean" name="sqlite3GetBoolean">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aa67a7866fc5c91958f167f0cfcdeae6d" title="getSafetyLevel" alt="" coords="184,31,293,56"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a567fec0d8e10559f0f901f485158a9ad" title="sqlite3Atoi" alt="" coords="355,5,437,31"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a3dcd80ba41f1a308193dee74857b62a7" title="sqlite3Strlen30" alt="" coords="341,55,451,80"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5f876209b4343549fc9224cd11c70928" title="sqlite3GetInt32" alt="" coords="499,5,610,31"/>
+</map>

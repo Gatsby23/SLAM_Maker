@@ -1,0 +1,5 @@
+<map id="AISNavigation::Quaternion::axis" name="AISNavigation::Quaternion::axis">
+<area shape="rect" id="node2" href="$struct_a_i_s_navigation_1_1_pose3.html#ad18bafa1d06292cbdcdefc29344fcdc3" title="AISNavigation::Pose3::x" alt="" coords="233,5,398,31"/>
+<area shape="rect" id="node3" href="$struct_a_i_s_navigation_1_1_pose3.html#a7a793e69497bb1d524e7b6dc674f97e2" title="AISNavigation::Pose3::y" alt="" coords="233,55,398,80"/>
+<area shape="rect" id="node4" href="$struct_a_i_s_navigation_1_1_pose3.html#a5cf15d75157e470e3be8def1fb680d53" title="AISNavigation::Pose3::z" alt="" coords="233,104,398,129"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="rtabmap::OdometryEvent::velocity" name="rtabmap::OdometryEvent::velocity">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_transform.html#aad65adff491fd57a31dbe4e26d7f29af" title="rtabmap::Transform\l::getTranslationAndEulerAngles" alt="" coords="224,5,432,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_transform.html#a76e359a47eab8b98684ef0fa36da413f" title="rtabmap::Transform\l::toEigen3f" alt="" coords="480,5,618,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_transform.html#a1cb08be14adcabc0999eca4db3c67812" title="rtabmap::Transform\l::toEigen4f" alt="" coords="666,5,804,44"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="852,5,990,44"/>
+</map>

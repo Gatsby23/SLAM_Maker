@@ -1,0 +1,6 @@
+<map id="rtabmap::Transform::toEigen4d" name="rtabmap::Transform::toEigen4d">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_optimizer_g_t_s_a_m.html#af701c155931927adc305d80cc761f541" title="rtabmap::OptimizerGTSAM\l::optimize" alt="" coords="191,5,373,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_transform.html#a823f3ad98ecedcfbb422478f203409fe" title="rtabmap::Transform\l::toEigen3d" alt="" coords="213,68,351,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_optimizer_g2_o.html#a8d4fee036e22a8b02a6e71bb09a57d9a" title="rtabmap::OptimizerG2O\l::optimizeBA" alt="" coords="421,36,584,75"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_transform.html#a50bceaa69080fae579291b608a4bba9c" title="rtabmap::Transform\l::getQuaterniond" alt="" coords="434,99,572,137"/>
+</map>

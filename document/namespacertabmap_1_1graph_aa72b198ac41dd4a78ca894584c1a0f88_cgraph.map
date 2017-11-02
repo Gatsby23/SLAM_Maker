@@ -1,0 +1,15 @@
+<map id="rtabmap::graph::calcKittiSequenceErrors" name="rtabmap::graph::calcKittiSequenceErrors">
+<area shape="rect" id="node2" href="$namespacertabmap_1_1graph.html#a6dd54e620d60fab3e110114a2b97a3bd" title="rtabmap::graph::trajectory\lDistances" alt="" coords="222,16,396,55"/>
+<area shape="rect" id="node6" href="$namespacertabmap_1_1graph.html#a6216d0e335eaa0a752ece320379c534a" title="rtabmap::graph::lastFrame\lFromSegmentLength" alt="" coords="220,141,398,180"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_transform.html#a71ff72d5731d252a87a19c63e3890e3a" title="rtabmap::Transform\l::inverse" alt="" coords="240,204,378,243"/>
+<area shape="rect" id="node12" href="$namespacertabmap_1_1graph.html#a65022686781e52b310dc4b2de9d5284e" title="rtabmap::graph::rotation\lError" alt="" coords="227,267,391,305"/>
+<area shape="rect" id="node13" href="$namespacertabmap_1_1graph.html#a192106e122e2cd22b6cbcd645af0cead" title="rtabmap::graph::translation\lError" alt="" coords="218,79,399,117"/>
+<area shape="rect" id="node14" href="$structrtabmap_1_1graph_1_1errors.html#a26e6686e4c7b5fdd5db64ddefc83ec52" title="rtabmap::graph::errors\l::errors" alt="" coords="232,329,386,368"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_transform.html#a1d69c9ae9129ccffe30b971ed8747adc" title="rtabmap::Transform::x" alt="" coords="447,5,599,31"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_transform.html#af7d90ee7b9ace464ea80dad90e3df9a3" title="rtabmap::Transform::y" alt="" coords="447,55,599,80"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_transform.html#af3c3671ae31945e689ee9a84deca5d6b" title="rtabmap::Transform::z" alt="" coords="447,104,599,129"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_transform.html#a469b0923be94d2dc2ca8b290f3bfac8c" title="rtabmap::Transform\l::fromEigen4f" alt="" coords="454,232,592,271"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_transform.html#a1cb08be14adcabc0999eca4db3c67812" title="rtabmap::Transform\l::toEigen4f" alt="" coords="454,169,592,208"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_transform.html#ac3654d3f6802d4b0c17b6110d1eda71a" title="rtabmap::Transform\l::Transform" alt="" coords="647,232,785,271"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="647,169,785,208"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="rtabmap::RtabmapThread::clearBufferedData" name="rtabmap::RtabmapThread::clearBufferedData">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_transform.html#afe833cfcd56f2f147091e7d309dadb36" title="rtabmap::Transform\l::setIdentity" alt="" coords="227,5,365,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_transform.html#aefc8f052315cb4ba1116ff8fc8297306" title="rtabmap::Transform\l::getIdentity" alt="" coords="413,5,551,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_transform.html#ac3654d3f6802d4b0c17b6110d1eda71a" title="rtabmap::Transform\l::Transform" alt="" coords="599,5,737,44"/>
+</map>

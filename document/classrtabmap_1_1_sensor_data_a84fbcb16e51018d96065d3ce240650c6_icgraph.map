@@ -1,0 +1,23 @@
+<map id="rtabmap::SensorData::id" name="rtabmap::SensorData::id">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera.html#ab81b2948107cb72d4e2a1c655e2620af" title="rtabmap::Camera::takeImage" alt="" coords="235,114,430,139"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera_r_g_b_d_images.html#aee8dd9e887c5342a9eef225d45f8ac0c" title="rtabmap::CameraRGBDImages\l::captureImage" alt="" coords="495,9,702,47"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_camera_stereo_images.html#a3fc92d104807f923c70e9e820e25a473" title="rtabmap::CameraStereoImages\l::captureImage" alt="" coords="495,73,703,111"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_camera_thread.html#a4e4f475ed37c6696b303c3437d127682" title="rtabmap::CameraThread\l::mainLoop" alt="" coords="515,139,682,178"/>
+<area shape="rect" id="node6" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="504,210,693,235"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#a6964bfd723107748e17ddc31d0638879" title="rtabmap::DBDriverSqlite3\l::stepDepth" alt="" coords="247,378,419,417"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#a69af0501e55478354e5c2103e5891181" title="rtabmap::DBDriverSqlite3\l::stepSensorData" alt="" coords="247,315,419,354"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_d_b_reader.html#a5a5d740647fb80267ce94c99a9bdd68b" title="rtabmap::DBReader::\lcaptureImage" alt="" coords="259,441,407,479"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_memory.html#ae57c1e215b5449431b93588dd4217703" title="rtabmap::Memory::createSignature" alt="" coords="219,503,447,529"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_odometry.html#a4fcbe67de2ec6f23829e3962ee586315" title="rtabmap::Odometry::\lprocess" alt="" coords="261,553,405,591"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_odometry_f2_m.html#a1203f3e1f595154b758a225a2e4d8d91" title="rtabmap::OdometryF2M\l::computeTransform" alt="" coords="251,615,414,654"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_registration_icp.html#a08cb2eda291112236ddf17053a04f782" title="rtabmap::RegistrationIcp\l::computeTransformationImpl" alt="" coords="236,678,430,717"/>
+<area shape="rect" id="node16" href="$classrtabmap_1_1_rtabmap.html#ad7f085b6ae0fd3c7077c500c028fd5c3" title="Main loop of rtabmap. " alt="" coords="240,266,426,291"/>
+<area shape="rect" id="node20" href="$classrtabmap_1_1_rtabmap_thread.html#a2e20eea87e525a49ab532127bf65337d" title="rtabmap::RtabmapThread\l::addData" alt="" coords="246,741,420,779"/>
+<area shape="rect" id="node22" href="$classrtabmap_1_1_signature.html#aa3367bba5b890341238d93e642f847a7" title="rtabmap::Signature\l::Signature" alt="" coords="265,803,400,842"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#ad293bfffd615365dc48073240c301fb2" title="rtabmap::DBDriverSqlite3\l::saveQuery" alt="" coords="512,375,685,414"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="512,503,686,529"/>
+<area shape="rect" id="node17" href="$classrtabmap_1_1_rtabmap.html#a35cf8fd93f77d1c148ae6d3107725750" title="rtabmap::Rtabmap::process" alt="" coords="506,322,692,347"/>
+<area shape="rect" id="node18" href="$classrtabmap_1_1_rtabmap_thread.html#a921bb6c18683103d08270a7e665d89dc" title="rtabmap::RtabmapThread\l::process" alt="" coords="512,259,686,298"/>
+<area shape="rect" id="node19" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="751,259,925,298"/>
+<area shape="rect" id="node21" href="$classrtabmap_1_1_rtabmap_thread.html#aad3724459e85bf45a5c27339e7db1550" title="rtabmap::RtabmapThread\l::handleEvent" alt="" coords="512,741,686,779"/>
+</map>

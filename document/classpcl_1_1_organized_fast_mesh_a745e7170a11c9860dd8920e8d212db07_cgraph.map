@@ -1,0 +1,4 @@
+<map id="pcl::OrganizedFastMesh::setTrianglePixelSize" name="pcl::OrganizedFastMesh::setTrianglePixelSize">
+<area shape="rect" id="node2" href="$classpcl_1_1_organized_fast_mesh.html#a8c9540f2e18be8d72d6fb11d912bd22c" title="Set the edge length (in pixels) used for iterating over rows when constructing the fixed mesh..." alt="" coords="229,5,411,44"/>
+<area shape="rect" id="node3" href="$classpcl_1_1_organized_fast_mesh.html#ab8fa19a842373ed2732360c02344d584" title="Set the edge length (in pixels) used for iterating over columns when constructing the fixed mesh..." alt="" coords="219,68,421,107"/>
+</map>

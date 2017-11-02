@@ -1,0 +1,9 @@
+<map id="sqlite3AbsInt32" name="sqlite3AbsInt32">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a1124cc9034bdbc616bb6d54455a4110f" title="sqlite3_uri_boolean" alt="" coords="166,56,303,81"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a3dcd80ba41f1a308193dee74857b62a7" title="sqlite3Strlen30" alt="" coords="727,56,837,81"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ac458a31f6d1ac77f3458747610fb05a0" title="sqlite3_uri_parameter" alt="" coords="529,56,679,81"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aac63e61a619e43c5fd313399df3a437c" title="sqlite3GetBoolean" alt="" coords="351,5,481,31"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aa67a7866fc5c91958f167f0cfcdeae6d" title="getSafetyLevel" alt="" coords="549,7,659,32"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a567fec0d8e10559f0f901f485158a9ad" title="sqlite3Atoi" alt="" coords="741,7,824,32"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a5f876209b4343549fc9224cd11c70928" title="sqlite3GetInt32" alt="" coords="885,7,996,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="rtabmap::compressImage" name="rtabmap::compressImage">
+<area shape="rect" id="node2" href="$namespacertabmap.html#a4ce5db2421c208b2c63353424c19f32e" title="rtabmap::compressImage2" alt="" coords="226,75,406,100"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#a3c25af6a7663ba2a6ebf3f9ddc1f955f" title="rtabmap::DBDriverSqlite3\l::savePreviewImageQuery" alt="" coords="458,5,636,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#ad315f8d4ca53cc7214774c568e9c1a9e" title="rtabmap::DBDriverSqlite3\l::saveOptimizedMeshQuery" alt="" coords="454,68,640,107"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#adc58186ba423efde40f6d4d17f6dd8a2" title="rtabmap::DBDriverSqlite3\l::stepDepthUpdate" alt="" coords="460,131,633,169"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#a47ce44476402e5976ec0c5bc0851ad4b" title="rtabmap::DBDriverSqlite3\l::updateDepthImageQuery" alt="" coords="688,131,866,169"/>
+</map>

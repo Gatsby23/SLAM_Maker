@@ -1,0 +1,5 @@
+<map id="rtflann::serialization::LoadArchive" name="rtflann::serialization::LoadArchive">
+<area shape="rect" id="node2" href="$classrtflann_1_1serialization_1_1_input_archive.html" title="{rtflann::serialization\l::InputArchive\&lt; LoadArchive \&gt;\n||+ operator&amp;()\l# InputArchive()\l}" alt="" coords="5,316,205,416"/>
+<area shape="rect" id="node3" href="$classrtflann_1_1serialization_1_1_archive_base.html" title="{rtflann::serialization\l::ArchiveBase\n|&#45; object_\l|+ getObject()\l+ setObject()\l}" alt="" coords="32,5,168,105"/>
+<area shape="rect" id="node4" href="$classrtflann_1_1serialization_1_1_input_archive.html" title="{rtflann::serialization\l::InputArchive\&lt; Archive \&gt;\n||+ operator &amp;()\l# InputArchive()\l}" alt="" coords="122,155,291,255"/>
+</map>

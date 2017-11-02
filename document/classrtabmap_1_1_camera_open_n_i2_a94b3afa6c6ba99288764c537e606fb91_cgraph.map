@@ -1,0 +1,12 @@
+<map id="rtabmap::CameraOpenNI2::captureImage" name="rtabmap::CameraOpenNI2::captureImage">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera_model.html#a17219cf5cf82d224f2a7ed5af01fa236" title="rtabmap::CameraModel\l::rectifyImage" alt="" coords="243,5,404,44"/>
+<area shape="rect" id="node3" href="$namespacertabmap_1_1util2d.html#aea2b7fa72af463bcdbbe597d8f5c32b9" title="rtabmap::util2d::register\lDepth" alt="" coords="243,68,404,107"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_camera.html#a393eadadd72de5c73c55ce2a4acc531e" title="rtabmap::Camera::getLocal\lTransform" alt="" coords="232,131,415,169"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_camera.html#a469b6e2ad49c1c8174395e98c84431ac" title="rtabmap::Camera::getNext\lSeqID" alt="" coords="234,193,412,232"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_camera_open_n_i2.html#a8e1c56f792ca857a1d59b82850a33e99" title="rtabmap::CameraOpenNI2\l::getSerial" alt="" coords="234,256,412,295"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_camera_open_n_i2.html#a9602765ca9a11c87fc58fc0b3feef36e" title="rtabmap::CameraOpenNI2\l::init" alt="" coords="234,319,412,357"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_transform.html#a0d6a1985391a45de4fe208e58c51b9d2" title="rtabmap::Transform\l::isNull" alt="" coords="649,37,787,76"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_transform.html#a76e359a47eab8b98684ef0fa36da413f" title="rtabmap::Transform\l::toEigen3f" alt="" coords="463,97,601,136"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="835,69,972,108"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_transform.html#a1cb08be14adcabc0999eca4db3c67812" title="rtabmap::Transform\l::toEigen4f" alt="" coords="649,100,787,139"/>
+</map>

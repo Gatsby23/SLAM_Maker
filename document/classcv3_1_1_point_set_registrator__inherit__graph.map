@@ -1,0 +1,4 @@
+<map id="cv3::PointSetRegistrator" name="cv3::PointSetRegistrator">
+<area shape="rect" id="node3" href="$classcv3_1_1_r_a_n_s_a_c_point_set_registrator.html" title="{cv3::RANSACPointSetRegistrator\n|+ cb\l+ modelPoints\l+ checkPartialSubsets\l+ threshold\l+ confidence\l+ maxIters\l|+ RANSACPointSetRegistrator()\l+ findInliers()\l+ getSubset()\l+ run()\l+ setCallback()\l}" alt="" coords="5,261,226,455"/>
+<area shape="rect" id="node4" href="$classcv3_1_1_l_me_d_s_point_set_registrator.html" title="{cv3::LMeDSPointSetRegistrator\n||+ LMeDSPointSetRegistrator()\l+ run()\l}" alt="" coords="11,503,220,589"/>
+</map>

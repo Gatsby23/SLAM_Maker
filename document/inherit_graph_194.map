@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classrtflann_1_1_center_chooser.html" title="rtflann::CenterChooser\l\&lt; Distance \&gt;" alt="" coords="5,100,162,139"/>
+<area shape="rect" id="node2" href="$classrtflann_1_1_gonzales_center_chooser.html" title="rtflann::GonzalesCenterChooser\l\&lt; Distance \&gt;" alt="" coords="213,5,426,44"/>
+<area shape="rect" id="node3" href="$classrtflann_1_1_group_wise_center_chooser.html" title="rtflann::GroupWiseCenter\lChooser\&lt; Distance \&gt;" alt="" coords="233,68,406,107"/>
+<area shape="rect" id="node4" href="$classrtflann_1_1_k_meanspp_center_chooser.html" title="rtflann::KMeansppCenterChooser\l\&lt; Distance \&gt;" alt="" coords="210,131,430,169"/>
+<area shape="rect" id="node5" href="$classrtflann_1_1_random_center_chooser.html" title="rtflann::RandomCenterChooser\l\&lt; Distance \&gt;" alt="" coords="216,193,423,232"/>
+</map>

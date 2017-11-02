@@ -1,0 +1,13 @@
+<map id="rtabmap::VWDictionary::findNN" name="rtabmap::VWDictionary::findNN">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#ae78c1829d25a672bd5cede6a5c28a3b6" title="rtabmap::Memory::enableWordsRef" alt="" coords="212,56,444,81"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_memory.html#aef198c85ed18b259f4dcb929c7b6ece3" title="rtabmap::Memory::copyData" alt="" coords="493,17,682,43"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_memory.html#aa244b8581684b85e35d2056cf972e377" title="rtabmap::Memory::reactivate\lSignatures" alt="" coords="492,77,683,116"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_memory.html#ac6b2a77f42ee06e5db6c21146493387f" title="rtabmap::Memory::rehearsal\lMerge" alt="" coords="731,5,920,44"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_memory.html#a74b4e28806f6c53ba8758baa67fab621" title="rtabmap::Memory::rehearsal" alt="" coords="968,9,1157,35"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="1205,9,1379,35"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_rtabmap.html#ad7f085b6ae0fd3c7077c500c028fd5c3" title="Main loop of rtabmap. " alt="" coords="733,105,918,131"/>
+<area shape="rect" id="node9" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="968,59,1157,84"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_rtabmap.html#a35cf8fd93f77d1c148ae6d3107725750" title="rtabmap::Rtabmap::process" alt="" coords="969,108,1155,133"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_rtabmap_thread.html#a921bb6c18683103d08270a7e665d89dc" title="rtabmap::RtabmapThread\l::process" alt="" coords="975,157,1149,196"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="1205,157,1379,196"/>
+</map>

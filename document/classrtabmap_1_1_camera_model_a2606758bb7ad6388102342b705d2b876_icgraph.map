@@ -1,0 +1,9 @@
+<map id="rtabmap::CameraModel::imageSize" name="rtabmap::CameraModel::imageSize">
+<area shape="rect" id="node2" href="$classclams_1_1_frame_projector.html#a26c74a7a7f6f6e9c2e18d6a38693699c" title="clams::FrameProjector\l::estimateMapDepth" alt="" coords="240,5,395,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_registration_vis.html#ad58a6cdcc37eb85639f50da6089f0e32" title="rtabmap::RegistrationVis\l::computeTransformationImpl" alt="" coords="220,68,414,107"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_stereo_camera_model.html#ae91c2717319f3cd7b6f40768e5adbb9f" title="rtabmap::StereoCameraModel\l::StereoCameraModel" alt="" coords="217,131,418,169"/>
+<area shape="rect" id="node6" href="$namespacertabmap_1_1util3d.html#a0c94ef2bc3a75501b5b4bc70567b9dd0" title="rtabmap::util3d::cloudFrom\lSensorData" alt="" coords="227,193,407,232"/>
+<area shape="rect" id="node8" href="$namespacertabmap_1_1util3d.html#aea73ad3052e734b0d926b65caf719db7" title="rtabmap::util3d::mergeTextures" alt="" coords="215,256,420,281"/>
+<area shape="rect" id="node3" href="$namespaceclams.html#adb312d785289d27adebfb7ae047ae5fa" title="clams::calibrate" alt="" coords="483,12,597,37"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_odometry.html#a4fcbe67de2ec6f23829e3962ee586315" title="rtabmap::Odometry::\lprocess" alt="" coords="468,193,611,232"/>
+</map>

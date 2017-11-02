@@ -1,0 +1,9 @@
+<map id="corelib/include/rtabmap/core/VisualWord.h" name="corelib/include/rtabmap/core/VisualWord.h">
+<area shape="rect" id="node2" href="$_d_b_driver_8cpp.html" title="corelib/src/DBDriver.cpp" alt="" coords="5,99,170,124"/>
+<area shape="rect" id="node3" href="$_d_b_driver_sqlite3_8cpp.html" title="corelib/src/DBDriverSqlite3.cpp" alt="" coords="194,99,400,124"/>
+<area shape="rect" id="node4" href="$_memory_8cpp.html" title="corelib/src/Memory.cpp" alt="" coords="424,99,583,124"/>
+<area shape="rect" id="node5" href="$_odometry_f2_m_8cpp.html" title="corelib/src/OdometryF2M.cpp" alt="" coords="607,99,803,124"/>
+<area shape="rect" id="node6" href="$_registration_vis_8cpp.html" title="corelib/src/Registration\lVis.cpp" alt="" coords="826,92,983,131"/>
+<area shape="rect" id="node7" href="$_visual_word_8cpp.html" title="corelib/src/VisualWord.cpp" alt="" coords="1007,99,1186,124"/>
+<area shape="rect" id="node8" href="$_v_w_dictionary_8cpp.html" title="corelib/src/VWDictionary.cpp" alt="" coords="1211,99,1402,124"/>
+</map>

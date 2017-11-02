@@ -1,0 +1,12 @@
+<map id="rtabmap::Memory::addLink" name="rtabmap::Memory::addLink">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#aabc5046566746d01e590ccdd6ac7574b" title="rtabmap::Memory::addSignature\lToStm" alt="" coords="233,5,446,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_rtabmap.html#ad7f085b6ae0fd3c7077c500c028fd5c3" title="Main loop of rtabmap. " alt="" coords="510,76,696,101"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_rtabmap.html#ab4a451d9183305f4f457862340b245ed" title="rtabmap::Rtabmap::detect\lMoreLoopClosures" alt="" coords="252,120,427,159"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_rtabmap.html#a9ab69f23bdf1a4e19f4b7e27a404c3c8" title="rtabmap::Rtabmap::update\lGoalIndex" alt="" coords="250,183,429,221"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="516,12,690,37"/>
+<area shape="rect" id="node5" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="760,27,948,52"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_rtabmap.html#a35cf8fd93f77d1c148ae6d3107725750" title="rtabmap::Rtabmap::process" alt="" coords="761,76,947,101"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_rtabmap_thread.html#a921bb6c18683103d08270a7e665d89dc" title="rtabmap::RtabmapThread\l::process" alt="" coords="767,125,941,164"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="996,155,1170,193"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_rtabmap.html#ab797f7f5bb73a507ba4d4672cd5476df" title="rtabmap::Rtabmap::computePath" alt="" coords="494,189,712,215"/>
+</map>

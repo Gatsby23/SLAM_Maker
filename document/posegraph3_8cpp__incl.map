@@ -1,0 +1,9 @@
+<map id="corelib/src/toro3d/posegraph3.cpp" name="corelib/src/toro3d/posegraph3.cpp">
+<area shape="rect" id="node2" href="$posegraph3_8hh.html" title="Defines the graph of 3D poses, with specific functionalities such as loading, saving, merging constraints, and etc. " alt="" coords="564,92,675,117"/>
+<area shape="rect" id="node3" href="$posegraph_8hh.html" title="The template class for the node parameters. The graph of poses with support to tree construction func..." alt="" coords="761,165,864,191"/>
+<area shape="rect" id="node14" href="$transformation3_8hh.html" title="transformation3.hh" alt="" coords="360,165,492,191"/>
+<area shape="rect" id="node13" href="$posegraph_8hxx.html" title="The implementation of the template class for the node parameters. " alt="" coords="1042,239,1151,264"/>
+<area shape="rect" id="node16" href="$dmatrix_8hh.html" title="dmatrix.hh" alt="" coords="116,239,200,264"/>
+<area shape="rect" id="node19" href="$transformation3_8hxx.html" title="transformation3.hxx" alt="" coords="357,239,495,264"/>
+<area shape="rect" id="node18" href="$dmatrix_8hxx.html" title="dmatrix.hxx" alt="" coords="5,312,95,337"/>
+</map>

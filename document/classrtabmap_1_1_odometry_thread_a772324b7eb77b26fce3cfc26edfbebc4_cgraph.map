@@ -1,0 +1,7 @@
+<map id="rtabmap::OdometryThread::addData" name="rtabmap::OdometryThread::addData">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_sensor_data.html#afa6facb37c5a22315eaf9c2693622bc8" title="rtabmap::SensorData\l::imageRaw" alt="" coords="258,5,406,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_sensor_data.html#a4f4ad7d6c9d32c72dbd560119e1730b6" title="rtabmap::SensorData\l::depthOrRightRaw" alt="" coords="258,68,406,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_sensor_data.html#aea457bf4fa2488272ef374b8042b13e1" title="rtabmap::SensorData\l::cameraModels" alt="" coords="258,131,406,169"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_sensor_data.html#ac0cc52bd3f7ddf0ce75a05acfc19e0d5" title="rtabmap::SensorData\l::stereoCameraModel" alt="" coords="257,193,407,232"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_stereo_camera_model.html#a6c16870b83978d286003b166fd6949cf" title="rtabmap::StereoCameraModel\l::isValidForProjection" alt="" coords="232,256,432,295"/>
+</map>

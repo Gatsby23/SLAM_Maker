@@ -1,0 +1,8 @@
+<map id="rtabmap::GeodeticCoords::ENU_WGS84ToGeocentric_WGS84" name="rtabmap::GeodeticCoords::ENU_WGS84ToGeocentric_WGS84">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_geodetic_coords.html#ae92c7ff2c0b5c5a41902bdfd589d5c10" title="rtabmap::GeodeticCoords\l::toGeocentric_WGS84" alt="" coords="297,104,471,143"/>
+<area shape="rect" id="node3" href="$namespacertabmap.html#aca92341f782faf4dd631518e783c8bad" title="rtabmap::square" alt="" coords="547,5,665,31"/>
+<area shape="rect" id="node4" href="$namespacertabmap.html#add3b82abd9bde409904d4d971aa2113d" title="rtabmap::DEG2RAD" alt="" coords="535,55,677,80"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_geodetic_coords.html#a21b81740d4bba151db08c59f316d23bc" title="rtabmap::GeodeticCoords\l::longitude" alt="" coords="519,104,693,143"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_geodetic_coords.html#a846f3621367e25dc798b7238abc14442" title="rtabmap::GeodeticCoords\l::latitude" alt="" coords="519,167,693,205"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_geodetic_coords.html#a09301af2d6cfff85aeba5406b44526dd" title="rtabmap::GeodeticCoords\l::altitude" alt="" coords="519,229,693,268"/>
+</map>

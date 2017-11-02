@@ -1,0 +1,8 @@
+<map id="corelib/src/vertigo/g2o/vertex_switchLinear.h" name="corelib/src/vertigo/g2o/vertex_switchLinear.h">
+<area shape="rect" id="node2" href="$edge__se2_switchable_8cpp.html" title="corelib/src/vertigo\l/g2o/edge_se2Switchable.cpp" alt="" coords="5,92,205,131"/>
+<area shape="rect" id="node3" href="$edge__se3_switchable_8cpp.html" title="corelib/src/vertigo\l/g2o/edge_se3Switchable.cpp" alt="" coords="228,92,427,131"/>
+<area shape="rect" id="node4" href="$edge__switch_prior_8h.html" title="corelib/src/vertigo\l/g2o/edge_switchPrior.h" alt="" coords="451,92,615,131"/>
+<area shape="rect" id="node6" href="$types__g2o__robust_8cpp.html" title="corelib/src/vertigo\l/g2o/types_g2o_robust.cpp" alt="" coords="561,179,743,217"/>
+<area shape="rect" id="node7" href="$vertex__switch_linear_8cpp.html" title="corelib/src/vertigo\l/g2o/vertex_switchLinear.cpp" alt="" coords="688,92,882,131"/>
+<area shape="rect" id="node5" href="$edge__switch_prior_8cpp.html" title="corelib/src/vertigo\l/g2o/edge_switchPrior.cpp" alt="" coords="359,179,536,217"/>
+</map>

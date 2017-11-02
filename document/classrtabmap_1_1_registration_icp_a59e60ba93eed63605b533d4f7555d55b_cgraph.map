@@ -1,0 +1,8 @@
+<map id="rtabmap::RegistrationIcp::parseParameters" name="rtabmap::RegistrationIcp::parseParameters">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_registration.html#a2693886d5b7dbf4aef787720b85e4b3e" title="rtabmap::Registration\l::parseParameters" alt="" coords="220,29,369,68"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_parameters.html#a74719b1e59dc21efce4db008bfc366ec" title="rtabmap::Parameters\l::parse" alt="" coords="417,52,563,91"/>
+<area shape="rect" id="node4" href="$namespacertabmap_1_1util3d.html#ab73c725e63cf9e111edc7430883ece1e" title="rtabmap::util3d::icp" alt="" coords="227,144,361,169"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_registration.html#abb255bdab60a262f9cfc5d868e50cc9c" title="rtabmap::Registration\l::force3DoF" alt="" coords="220,193,369,232"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_transform.html#a469b0923be94d2dc2ca8b290f3bfac8c" title="rtabmap::Transform\l::fromEigen4f" alt="" coords="421,137,559,176"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_transform.html#ac3654d3f6802d4b0c17b6110d1eda71a" title="rtabmap::Transform\l::Transform" alt="" coords="611,137,749,176"/>
+</map>

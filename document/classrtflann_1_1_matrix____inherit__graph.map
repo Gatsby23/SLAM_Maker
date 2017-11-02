@@ -1,0 +1,5 @@
+<map id="rtflann::Matrix_" name="rtflann::Matrix_">
+<area shape="rect" id="node2" href="$classrtflann_1_1_matrix.html" title="{rtflann::Matrix\&lt; Element\lType \&gt;\n||+ Matrix()\l+ Matrix()\l+ operator[]()\l+ ptr()\l}" alt="" coords="5,409,168,536"/>
+<area shape="rect" id="node3" href="$classrtflann_1_1_matrix.html" title="{rtflann::Matrix\&lt; size_t \&gt;\n||+ Matrix()\l+ Matrix()\l+ operator[]()\l+ ptr()\l}" alt="" coords="219,416,379,529"/>
+<area shape="rect" id="node4" href="$classrtflann_1_1_matrix.html" title="{rtflann::Matrix\&lt; T \&gt;\n||+ Matrix()\l+ Matrix()\l+ operator[]()\l+ ptr()\l}" alt="" coords="128,235,261,348"/>
+</map>

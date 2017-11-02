@@ -1,0 +1,8 @@
+<map id="rtabmap::VWDictionary::findNN" name="rtabmap::VWDictionary::findNN">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_flann_index.html#a4a5c33446a515bd8f0c2f73a1adaeb23" title="rtabmap::FlannIndex\l::isBuilt" alt="" coords="222,5,365,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_flann_index.html#a8191e3ba9cc7a5361443430171691df3" title="rtabmap::FlannIndex\l::featuresDim" alt="" coords="222,68,365,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_flann_index.html#ace329768df8b54b935fbe7a8921efe69" title="rtabmap::FlannIndex\l::featuresType" alt="" coords="222,131,365,169"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_flann_index.html#accf263b21aaacf3d00e6e73ccef5cc75" title="rtabmap::FlannIndex\l::knnSearch" alt="" coords="222,193,365,232"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_visual_word.html#a0a1fff281a1ad9beabf827e35a9ec041" title="rtabmap::VisualWord\l::getDescriptor" alt="" coords="221,256,366,295"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_visual_word.html#a988fd37d739297c9b04c7dc156de3c66" title="rtabmap::VisualWord::id" alt="" coords="212,319,375,344"/>
+</map>

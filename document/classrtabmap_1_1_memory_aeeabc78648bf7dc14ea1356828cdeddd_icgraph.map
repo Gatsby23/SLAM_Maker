@@ -1,0 +1,9 @@
+<map id="rtabmap::Memory::init" name="rtabmap::Memory::init">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_odometry_mono.html#a70291ffff0cad044bf74dfdd0254d2d1" title="rtabmap::OdometryMono\l::OdometryMono" alt="" coords="227,5,397,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_odometry_mono.html#a94a2a76070fead26339132d207045ab7" title="rtabmap::OdometryMono\l::reset" alt="" coords="227,68,397,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_rtabmap.html#ae681073a3089c235b4b615c823af646e" title="rtabmap::Rtabmap::init" alt="" coords="234,131,390,156"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_rtabmap.html#af12ae46226f33adf8c4cafbe1bcf544c" title="rtabmap::Rtabmap::resetMemory" alt="" coords="204,181,421,207"/>
+<area shape="rect" id="node5" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="469,79,657,104"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_rtabmap.html#ace677b762b97392bd49ae4c535280541" title="rtabmap::Rtabmap::init" alt="" coords="485,128,641,153"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="476,177,650,216"/>
+</map>

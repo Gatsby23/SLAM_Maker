@@ -1,0 +1,12 @@
+<map id="rtabmap::BayesFilter::updatePrediction" name="rtabmap::BayesFilter::updatePrediction">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#aba3e691869a0d560217631da613728e2" title="rtabmap::Memory::getNeighborsId" alt="" coords="198,91,421,116"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_bayes_filter.html#a91e62e4c59942d76d187492a797f13d9" title="rtabmap::BayesFilter\l::addNeighborProb" alt="" coords="237,140,382,179"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_bayes_filter.html#aa905119886fec35d10df151f319a262d" title="rtabmap::BayesFilter\l::normalize" alt="" coords="237,203,382,241"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_memory.html#a19fe91598153249250ac4870db535e8e" title="rtabmap::Memory::isInSTM" alt="" coords="218,265,401,291"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_memory.html#a15ec109dd157745f69dcd4f80efaf561" title="rtabmap::Memory::getSignature" alt="" coords="469,5,678,31"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_signature.html#a701b32c562d789929a18a19c08bac4ca" title="rtabmap::Signature\l::getWeight" alt="" coords="506,55,641,93"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_signature.html#a2afa282617cff501b89998ec4d29b6e0" title="rtabmap::Signature\l::getLinks" alt="" coords="767,112,902,151"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_d_b_driver.html#a27e9e107b53a712b335c466d9b198f3e" title="rtabmap::DBDriver::\lloadLinks" alt="" coords="504,169,643,208"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_memory.html#aecb333268e0858678add037a5a59a719" title="rtabmap::Memory::_getSignature" alt="" coords="726,5,942,31"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_d_b_driver.html#aaa4f068bb457a0f5af751b39915858f5" title="rtabmap::DBDriver::\lloadLinksQuery" alt="" coords="765,175,904,213"/>
+</map>

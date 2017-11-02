@@ -1,0 +1,5 @@
+<map id="sqlite3PcacheTruncate" name="sqlite3PcacheTruncate">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac00d8abc5cdfaa4da090c03d2b24711c" title="sqlite3PcacheMakeClean" alt="" coords="210,31,382,56"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#abeed5ab58c7f6b9f9683e39a53a5a8f7" title="pcacheRemoveFromDirtyList" alt="" coords="430,5,623,31"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a76530dde0f26366c0614d713daf9859c" title="pcacheUnpin" alt="" coords="477,55,576,80"/>
+</map>

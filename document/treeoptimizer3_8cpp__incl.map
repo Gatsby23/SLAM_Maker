@@ -1,0 +1,10 @@
+<map id="corelib/src/toro3d/treeoptimizer3.cpp" name="corelib/src/toro3d/treeoptimizer3.cpp">
+<area shape="rect" id="node2" href="$treeoptimizer3_8hh.html" title="Defines the core optimizer class for 3D graphs which is a subclass of TreePoseGraph3. " alt="" coords="557,92,682,117"/>
+<area shape="rect" id="node3" href="$posegraph3_8hh.html" title="Defines the graph of 3D poses, with specific functionalities such as loading, saving, merging constraints, and etc. " alt="" coords="564,165,675,191"/>
+<area shape="rect" id="node4" href="$posegraph_8hh.html" title="The template class for the node parameters. The graph of poses with support to tree construction func..." alt="" coords="761,239,864,264"/>
+<area shape="rect" id="node15" href="$transformation3_8hh.html" title="transformation3.hh" alt="" coords="360,239,492,264"/>
+<area shape="rect" id="node14" href="$posegraph_8hxx.html" title="The implementation of the template class for the node parameters. " alt="" coords="1042,312,1151,337"/>
+<area shape="rect" id="node17" href="$dmatrix_8hh.html" title="dmatrix.hh" alt="" coords="116,312,200,337"/>
+<area shape="rect" id="node20" href="$transformation3_8hxx.html" title="transformation3.hxx" alt="" coords="357,312,495,337"/>
+<area shape="rect" id="node19" href="$dmatrix_8hxx.html" title="dmatrix.hxx" alt="" coords="5,385,95,411"/>
+</map>

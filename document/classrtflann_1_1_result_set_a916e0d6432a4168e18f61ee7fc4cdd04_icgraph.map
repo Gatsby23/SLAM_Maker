@@ -1,0 +1,6 @@
+<map id="rtflann::ResultSet::worstDist" name="rtflann::ResultSet::worstDist">
+<area shape="rect" id="node2" href="$classrtflann_1_1_k_d_tree_index.html#acd724083d03daf2cd63f4d2fda8ef808" title="rtflann::KDTreeIndex\l::searchLevel" alt="" coords="195,5,339,44"/>
+<area shape="rect" id="node3" href="$classrtflann_1_1_k_d_tree_single_index.html#ab195faae2f74cd03e3d25604f679e142" title="rtflann::KDTreeSingleIndex\l::searchLevel" alt="" coords="177,68,358,107"/>
+<area shape="rect" id="node4" href="$classrtflann_1_1_k_means_index.html#a2aa3b2c48a8b7765c8537c4c1db1e365" title="rtflann::KMeansIndex\l::findNN" alt="" coords="194,131,341,169"/>
+<area shape="rect" id="node5" href="$classrtflann_1_1_k_means_index.html#a99ad711c121e7b063b168627baa13c29" title="rtflann::KMeansIndex\l::findExactNN" alt="" coords="194,193,341,232"/>
+</map>

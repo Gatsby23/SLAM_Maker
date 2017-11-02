@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classrtflann_1_1_index_base.html" title="rtflann::IndexBase" alt="" coords="5,232,134,257"/>
+<area shape="rect" id="node2" href="$classrtflann_1_1_n_n_index.html" title="rtflann::NNIndex\&lt; Distance \&gt;" alt="" coords="182,232,375,257"/>
+<area shape="rect" id="node3" href="$classrtflann_1_1_autotuned_index.html" title="rtflann::AutotunedIndex\l\&lt; Distance \&gt;" alt="" coords="441,5,600,44"/>
+<area shape="rect" id="node4" href="$classrtflann_1_1_composite_index.html" title="rtflann::CompositeIndex\l\&lt; Distance \&gt;" alt="" coords="440,68,602,107"/>
+<area shape="rect" id="node5" href="$classrtflann_1_1_hierarchical_clustering_index.html" title="rtflann::HierarchicalClustering\lIndex\&lt; Distance \&gt;" alt="" coords="423,131,619,169"/>
+<area shape="rect" id="node6" href="$classrtflann_1_1_k_d_tree_index.html" title="rtflann::KDTreeIndex\l\&lt; Distance \&gt;" alt="" coords="449,193,593,232"/>
+<area shape="rect" id="node7" href="$classrtflann_1_1_k_d_tree_single_index.html" title="rtflann::KDTreeSingleIndex\l\&lt; Distance \&gt;" alt="" coords="430,256,611,295"/>
+<area shape="rect" id="node8" href="$classrtflann_1_1_k_means_index.html" title="rtflann::KMeansIndex\l\&lt; Distance \&gt;" alt="" coords="447,319,594,357"/>
+<area shape="rect" id="node9" href="$classrtflann_1_1_linear_index.html" title="rtflann::LinearIndex\l\&lt; Distance \&gt;" alt="" coords="453,381,589,420"/>
+<area shape="rect" id="node10" href="$classrtflann_1_1_lsh_index.html" title="rtflann::LshIndex\&lt;\l Distance \&gt;" alt="" coords="457,444,585,483"/>
+</map>

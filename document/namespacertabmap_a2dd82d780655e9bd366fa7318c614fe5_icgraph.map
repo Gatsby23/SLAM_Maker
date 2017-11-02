@@ -1,0 +1,4 @@
+<map id="rtabmap::RAD2DEG" name="rtabmap::RAD2DEG">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_geodetic_coords.html#ae37435ee904b9782fcddbf0f72f388bd" title="rtabmap::GeodeticCoords\l::fromGeocentric_WGS84" alt="" coords="195,5,369,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_geodetic_coords.html#abc69e5c7f8e473fe6788042237992d43" title="rtabmap::GeodeticCoords\l::fromENU_WGS84" alt="" coords="417,5,591,44"/>
+</map>

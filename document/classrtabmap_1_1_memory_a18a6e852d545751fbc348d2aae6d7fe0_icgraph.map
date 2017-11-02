@@ -1,0 +1,5 @@
+<map id="rtabmap::Memory::isBinDataKept" name="rtabmap::Memory::isBinDataKept">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#abc4c40056783163ec5abde9366060cb2" title="rtabmap::Memory::getImage\lCompressed" alt="" coords="290,5,479,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_memory.html#ae57c1e215b5449431b93588dd4217703" title="rtabmap::Memory::createSignature" alt="" coords="271,68,498,93"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="546,68,720,93"/>
+</map>

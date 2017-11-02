@@ -1,0 +1,6 @@
+<map id="rtabmap::VWDictionary::getNextId" name="rtabmap::VWDictionary::getNextId">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_v_w_dictionary.html#af6b3e3ac1da68e2a561659ce0787c124" title="rtabmap::VWDictionary\l::addNewWords" alt="" coords="212,27,370,65"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_memory.html#ae57c1e215b5449431b93588dd4217703" title="rtabmap::Memory::createSignature" alt="" coords="418,5,646,31"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_registration_vis.html#ad58a6cdcc37eb85639f50da6089f0e32" title="rtabmap::RegistrationVis\l::computeTransformationImpl" alt="" coords="435,55,629,93"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="694,5,867,31"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="rtabmap::Memory::getNodeData" name="rtabmap::Memory::getNodeData">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#aecb333268e0858678add037a5a59a719" title="rtabmap::Memory::_getSignature" alt="" coords="265,5,481,31"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_signature.html#a522971783852ef45e2de8e592d49a860" title="rtabmap::Signature\l::sensorData" alt="" coords="544,35,679,73"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_sensor_data.html#a8dd819b881b5f27839af2b0ba5145e37" title="rtabmap::SensorData\l::imageCompressed" alt="" coords="537,97,685,136"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_d_b_driver.html#a327d33aeacb2c59185f2c6df35f26693" title="rtabmap::DBDriver::\lgetNodeData" alt="" coords="304,160,443,199"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_sensor_data.html#aa356c9d5e9e7ea55ccdbe99c215bcb52" title="rtabmap::SensorData\l::uncompressData" alt="" coords="299,223,447,261"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_sensor_data.html#ada8e2c5b1223b5bc8ff163dfc9c1c00f" title="rtabmap::SensorData\l::laserScanCompressed" alt="" coords="529,223,693,261"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_sensor_data.html#ad7e9c02aef89764b508d020582248e72" title="rtabmap::SensorData\l::userDataCompressed" alt="" coords="532,285,690,324"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_sensor_data.html#a984ce55b6b75152a63441bd07288dc6c" title="rtabmap::SensorData\l::gridCellSize" alt="" coords="537,348,685,387"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_signature.html#a0d15326165e9d01f0b91b247f5da23ea" title="rtabmap::Signature\l::isSaved" alt="" coords="544,411,679,449"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_d_b_driver.html#a94ac9466a8ebccd38763d6bdabf44cb6" title="rtabmap::DBDriver::\lloadNodeDataQuery" alt="" coords="540,160,683,199"/>
+</map>

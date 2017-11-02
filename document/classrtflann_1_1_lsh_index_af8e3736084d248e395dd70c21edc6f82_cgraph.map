@@ -1,0 +1,8 @@
+<map id="rtflann::LshIndex::knnSearch" name="rtflann::LshIndex::knnSearch">
+<area shape="rect" id="node2" href="$classrtflann_1_1_k_n_n_unique_result_set.html#a266e1820ad85f6d8bf761021d1a318ad" title="rtflann::KNNUniqueResult\lSet::clear" alt="" coords="181,5,355,44"/>
+<area shape="rect" id="node3" href="$classrtflann_1_1_unique_result_set.html#ae1d6ffd5ffa4c07e2afe280845fed88a" title="rtflann::UniqueResultSet\l::size" alt="" coords="185,68,351,107"/>
+<area shape="rect" id="node4" href="$classrtflann_1_1_unique_result_set.html#a141d1c1fe6355bb4c0b55e9d27b267ae" title="rtflann::UniqueResultSet\l::copy" alt="" coords="185,131,351,169"/>
+<area shape="rect" id="node5" href="$classrtflann_1_1_k_n_n_result_set.html#afdce41b4cfaaa3dde735f683d4d74e1a" title="rtflann::KNNResultSet\l::clear" alt="" coords="192,193,344,232"/>
+<area shape="rect" id="node6" href="$classrtflann_1_1_k_n_n_result_set.html#a61bb1fb5c263f49f5fbd7e3f8bf3d09c" title="rtflann::KNNResultSet\l::size" alt="" coords="192,256,344,295"/>
+<area shape="rect" id="node7" href="$classrtflann_1_1_k_n_n_result_set.html#ac61b73219424db4b2fdf1f9bf7bd5bc2" title="rtflann::KNNResultSet\l::copy" alt="" coords="192,319,344,357"/>
+</map>

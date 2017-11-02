@@ -1,0 +1,6 @@
+<map id="rtflann::UniqueResultSet&lt; DistanceType &gt;" name="rtflann::UniqueResultSet&lt; DistanceType &gt;">
+<area shape="rect" id="node3" href="$classrtflann_1_1_k_n_n_unique_result_set.html" title="{rtflann::KNNUniqueResult\lSet\&lt; DistanceType \&gt;\n|# capacity_\l|+ KNNUniqueResultSet()\l+ addPoint()\l+ clear()\l}" alt="" coords="24,408,198,521"/>
+<area shape="rect" id="node5" href="$classrtflann_1_1_radius_unique_result_set.html" title="{rtflann::RadiusUniqueResult\lSet\&lt; DistanceType \&gt;\n|&#45; radius_\l|+ RadiusUniqueResultSet()\l+ addPoint()\l+ clear()\l+ full()\l+ worstDist()\l}" alt="" coords="223,395,410,535"/>
+<area shape="rect" id="node2" href="$classrtflann_1_1_result_set.html" title="{rtflann::ResultSet\l\&lt; DistanceType \&gt;\n||+ ~ResultSet()\l+ full()\l+ addPoint()\l+ worstDist()\l}" alt="" coords="151,5,276,132"/>
+<area shape="rect" id="node4" href="$classrtflann_1_1_k_n_n_radius_unique_result_set.html" title="{rtflann::KNNRadiusUnique\lResultSet\&lt; DistanceType \&gt;\n|&#45; radius_\l|+ KNNRadiusUniqueResultSet()\l+ clear()\l}" alt="" coords="5,583,217,683"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="rtabmap::CameraVideo::captureImage" name="rtabmap::CameraVideo::captureImage">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera_model.html#ae8a8e26a9aa0469fa8c5a7f3b7827df9" title="rtabmap::CameraModel\l::imageHeight" alt="" coords="221,5,382,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera_model.html#a6983cc1325c9e1c37d957470df7fbf9b" title="rtabmap::CameraModel\l::imageWidth" alt="" coords="221,68,382,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_camera_model.html#a43fd48b917ca145876024859f8565931" title="rtabmap::CameraModel\l::setImageSize" alt="" coords="221,131,382,169"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_camera_model.html#a46864eb8de680d45d79777e828dcbb6a" title="rtabmap::CameraModel\l::isValidForRectification" alt="" coords="221,193,382,232"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_camera_model.html#a17219cf5cf82d224f2a7ed5af01fa236" title="rtabmap::CameraModel\l::rectifyImage" alt="" coords="221,256,382,295"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_camera.html#a469b6e2ad49c1c8174395e98c84431ac" title="rtabmap::Camera::getNext\lSeqID" alt="" coords="212,319,391,357"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_camera_model.html#af81ee9572d32f69bf0a66cd1f4671c20" title="rtabmap::CameraModel::cx" alt="" coords="439,113,621,139"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_camera_model.html#aa3a18f811d3e9db290d01371e078add3" title="rtabmap::CameraModel::cy" alt="" coords="439,163,621,188"/>
+</map>

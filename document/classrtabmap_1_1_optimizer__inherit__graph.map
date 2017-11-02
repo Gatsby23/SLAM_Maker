@@ -1,0 +1,6 @@
+<map id="rtabmap::Optimizer" name="rtabmap::Optimizer">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_optimizer_c_v_s_b_a.html" title="{rtabmap::OptimizerCVSBA\n||+ OptimizerCVSBA()\l+ OptimizerCVSBA()\l+ ~OptimizerCVSBA()\l+ type()\l+ optimizeBA()\l+ available()\l}" alt="" coords="5,460,185,600"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_optimizer_g2_o.html" title="{rtabmap::OptimizerG2O\n|&#45; solver_\l&#45; optimizer_\l&#45; pixelVariance_\l&#45; robustKernelDelta_\l&#45; baseline_\l|+ OptimizerG2O()\l+ ~OptimizerG2O()\l+ type()\l+ parseParameters()\l+ optimize()\l+ optimizeBA()\l+ available()\l+ isCSparseAvailable()\l+ isCholmodAvailable()\l+ saveGraph()\l}" alt="" coords="210,407,373,653"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_optimizer_g_t_s_a_m.html" title="{rtabmap::OptimizerGTSAM\n|&#45; optimizer_\l|+ OptimizerGTSAM()\l+ ~OptimizerGTSAM()\l+ type()\l+ parseParameters()\l+ optimize()\l+ available()\l}" alt="" coords="396,460,578,600"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_optimizer_t_o_r_o.html" title="{rtabmap::OptimizerTORO\n||+ OptimizerTORO()\l+ OptimizerTORO()\l+ ~OptimizerTORO()\l+ type()\l+ optimize()\l+ available()\l+ saveGraph()\l+ loadGraph()\l}" alt="" coords="602,447,775,613"/>
+</map>

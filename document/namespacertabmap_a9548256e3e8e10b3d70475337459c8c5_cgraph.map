@@ -1,0 +1,17 @@
+<map id="rtabmap::computeDescriptors" name="rtabmap::computeDescriptors">
+<area shape="rect" id="node2" href="$namespacertabmap.html#a9898bc2b026d410836810c84f32a61e7" title="rtabmap::computeOrbDescriptor" alt="" coords="256,5,468,31"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_c_v___o_r_b.html#a8fc058bbfbfc175cb7aee579c97da16f" title="rtabmap::CV_ORB::operator()" alt="" coords="263,55,461,80"/>
+<area shape="rect" id="node4" href="$namespacertabmap.html#a911a975ed45bd1524a89af9c932e96d2" title="rtabmap::getScale" alt="" coords="554,100,684,125"/>
+<area shape="rect" id="node5" href="$namespacertabmap.html#a2791dc0c4e895cec1b02babd1f49d10f" title="rtabmap::computeKeyPoints" alt="" coords="267,156,456,181"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_c_v___o_r_b.html#af65f424319ecdb593f7393a0bd4486f9" title="rtabmap::CV_ORB::descriptorSize" alt="" coords="250,205,474,231"/>
+<area shape="rect" id="node15" href="$namespacertabmap.html#aa1406aeb8ce2d91fe33b8995f1e0d284" title="rtabmap::makeRandomPattern" alt="" coords="260,255,464,280"/>
+<area shape="rect" id="node16" href="$namespacertabmap.html#adae3b108d3ae4317d1d71de6d3405073" title="rtabmap::initializeOrbPattern" alt="" coords="267,304,457,329"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_feature2_d.html#ab8159a8c001d9b1d9bb09c2ed6be14da" title="rtabmap::Feature2D\l::generateKeypoints" alt="" coords="549,149,689,188"/>
+<area shape="rect" id="node11" href="$namespacertabmap.html#a77651d4855e0b9a8cc16a4c011020073" title="rtabmap::HarrisResponses" alt="" coords="529,212,709,237"/>
+<area shape="rect" id="node12" href="$namespacertabmap.html#a1d27af1e83c7008844fd0cf1c42b0ff1" title="rtabmap::computeOrientation" alt="" coords="522,264,716,289"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_feature2_d.html#a605c083502b22d267d2c144330d0a9f6" title="rtabmap::Feature2D\l::computeRoi" alt="" coords="776,83,917,121"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_feature2_d.html#a8d429ceceaee80524a1b0693998b99f3" title="rtabmap::Feature2D\l::generateKeypointsImpl" alt="" coords="764,145,929,184"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_feature2_d.html#a847ab84175cd27494c8b93af0704ff8e" title="rtabmap::Feature2D\l::limitKeypoints" alt="" coords="776,208,917,247"/>
+<area shape="rect" id="node8" href="$namespacertabmap_1_1util2d.html#a49f08c1efbac27c374971d0f22b301e7" title="rtabmap::util2d::computeRoi" alt="" coords="977,89,1165,115"/>
+<area shape="rect" id="node13" href="$namespacertabmap.html#ad5ce06a449f69d880e51338e93c7e38c" title="rtabmap::IC_Angle" alt="" coords="780,271,913,296"/>
+</map>

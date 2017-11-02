@@ -1,0 +1,5 @@
+<map id="rtabmap::CameraStereoDC1394::captureImage" name="rtabmap::CameraStereoDC1394::captureImage">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera.html#a393eadadd72de5c73c55ce2a4acc531e" title="rtabmap::Camera::getLocal\lTransform" alt="" coords="267,5,450,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_transform.html#a2cdd55b67e206a287e7bf4d248fb5256" title="rtabmap::Transform\l::size" alt="" coords="289,68,427,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_camera.html#a469b6e2ad49c1c8174395e98c84431ac" title="rtabmap::Camera::getNext\lSeqID" alt="" coords="269,131,447,169"/>
+</map>

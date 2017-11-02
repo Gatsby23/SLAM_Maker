@@ -1,0 +1,12 @@
+<map id="rtabmap::Memory::labelSignature" name="rtabmap::Memory::labelSignature">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#a4907501b27fdfd5b8053b9d932d8dec4" title="rtabmap::Memory::getSignature\lIdByLabel" alt="" coords="276,5,484,44"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_memory.html#aecb333268e0858678add037a5a59a719" title="rtabmap::Memory::_getSignature" alt="" coords="272,68,488,93"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_signature.html#aa6dc3ad065ae2fd29afbbe69429f3a7b" title="rtabmap::Signature\l::setLabel" alt="" coords="313,117,447,156"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_signature.html#a0d15326165e9d01f0b91b247f5da23ea" title="rtabmap::Signature\l::isSaved" alt="" coords="313,180,447,219"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_d_b_driver.html#af19b86147377032b25d78b6ef0b44f8e" title="rtabmap::DBDriver::\lloadSignatures" alt="" coords="310,243,449,281"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_d_b_driver.html#ad1510e157f3ab8df3284528369a6d88f" title="rtabmap::DBDriver::\lasyncSave" alt="" coords="310,305,449,344"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_d_b_driver.html#ac5e8f1fae336521636e7a4225ac9cd3e" title="rtabmap::DBDriver::\lgetNodeIdByLabel" alt="" coords="543,5,682,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_d_b_driver.html#a13305cb7202d0770472884ca848e74e3" title="rtabmap::DBDriver::\lgetNodeIdByLabelQuery" alt="" coords="737,5,904,44"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_d_b_driver.html#a55faa3135d17f0ab17eb9e3982e9d1fd" title="rtabmap::DBDriver::\lloadSignaturesQuery" alt="" coords="539,243,686,281"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_signature.html#a31c6e7b7e720eca20fb5935e0ee1d9f9" title="rtabmap::Signature::id" alt="" coords="536,312,689,337"/>
+</map>

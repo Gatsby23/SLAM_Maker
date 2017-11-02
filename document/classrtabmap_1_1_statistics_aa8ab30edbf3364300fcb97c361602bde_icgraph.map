@@ -1,0 +1,9 @@
+<map id="rtabmap::Statistics::data" name="rtabmap::Statistics::data">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#a980dee1336e62730ef3f302ac3b5b438" title="rtabmap::DBDriverSqlite3\l::addStatisticsQuery" alt="" coords="191,5,364,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_rtabmap.html#ad7f085b6ae0fd3c7077c500c028fd5c3" title="Main loop of rtabmap. " alt="" coords="184,68,370,93"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_rtabmap.html#aaec34d3d0e951fe0db3917ce419ffa75" title="rtabmap::Rtabmap::reject\lLoopClosure" alt="" coords="191,117,363,156"/>
+<area shape="rect" id="node4" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="418,19,607,44"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_rtabmap.html#a35cf8fd93f77d1c148ae6d3107725750" title="rtabmap::Rtabmap::process" alt="" coords="420,68,606,93"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_rtabmap_thread.html#a921bb6c18683103d08270a7e665d89dc" title="rtabmap::RtabmapThread\l::process" alt="" coords="426,117,600,156"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="655,117,829,156"/>
+</map>

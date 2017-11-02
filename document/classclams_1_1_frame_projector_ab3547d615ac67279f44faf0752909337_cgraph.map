@@ -1,0 +1,9 @@
+<map id="clams::FrameProjector::project" name="clams::FrameProjector::project">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera_model.html#a6983cc1325c9e1c37d957470df7fbf9b" title="rtabmap::CameraModel\l::imageWidth" alt="" coords="209,5,370,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera_model.html#ae8a8e26a9aa0469fa8c5a7f3b7827df9" title="rtabmap::CameraModel\l::imageHeight" alt="" coords="209,68,370,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_camera_model.html#a01de9a3cdc993275b2fbcf21d6e29833" title="rtabmap::CameraModel\l::project" alt="" coords="209,131,370,169"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_camera_model.html#af81ee9572d32f69bf0a66cd1f4671c20" title="rtabmap::CameraModel::cx" alt="" coords="418,63,600,88"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_camera_model.html#acea616d4e141804dbc5c6eda58bebf6b" title="rtabmap::CameraModel::fx" alt="" coords="420,112,599,137"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_camera_model.html#aa3a18f811d3e9db290d01371e078add3" title="rtabmap::CameraModel::cy" alt="" coords="418,161,600,187"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_camera_model.html#ac4089d34947b040205e281edae4151a1" title="rtabmap::CameraModel::fy" alt="" coords="420,211,599,236"/>
+</map>

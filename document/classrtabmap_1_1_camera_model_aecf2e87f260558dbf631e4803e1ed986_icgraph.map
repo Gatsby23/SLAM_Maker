@@ -1,0 +1,8 @@
+<map id="rtabmap::CameraModel::scaled" name="rtabmap::CameraModel::scaled">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_stereo_camera_model.html#a264d57ca1e0f6b41d03ffe1d89afc382" title="rtabmap::StereoCameraModel\l::scale" alt="" coords="215,61,415,100"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera_thread.html#aba9e3775217a8bd7e10fcd3e5710b655" title="rtabmap::CameraThread\l::postUpdate" alt="" coords="493,5,661,44"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_memory.html#ae57c1e215b5449431b93588dd4217703" title="rtabmap::Memory::createSignature" alt="" coords="463,68,691,93"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_odometry.html#a4fcbe67de2ec6f23829e3962ee586315" title="rtabmap::Odometry::\lprocess" alt="" coords="505,117,649,156"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_camera_thread.html#a4e4f475ed37c6696b303c3437d127682" title="rtabmap::CameraThread\l::mainLoop" alt="" coords="742,5,909,44"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="739,68,913,93"/>
+</map>

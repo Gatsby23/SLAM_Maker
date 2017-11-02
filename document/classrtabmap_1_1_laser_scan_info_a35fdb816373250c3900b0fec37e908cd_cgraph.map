@@ -1,0 +1,5 @@
+<map id="rtabmap::LaserScanInfo::LaserScanInfo" name="rtabmap::LaserScanInfo::LaserScanInfo">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_laser_scan_info.html#ab9588bb6a53184a9db08e4d7a57a7724" title="rtabmap::LaserScanInfo\l::localTransform" alt="" coords="217,5,381,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_transform.html#a0d6a1985391a45de4fe208e58c51b9d2" title="rtabmap::Transform\l::isNull" alt="" coords="230,68,368,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="429,68,567,107"/>
+</map>

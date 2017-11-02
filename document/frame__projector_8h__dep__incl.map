@@ -1,0 +1,5 @@
+<map id="corelib/include/rtabmap/core/clams/frame_projector.h" name="corelib/include/rtabmap/core/clams/frame_projector.h">
+<area shape="rect" id="node2" href="$discrete__depth__distortion__model_8cpp.html" title="corelib/src/clams/discrete\l_depth_distortion_model.cpp" alt="" coords="5,92,198,131"/>
+<area shape="rect" id="node3" href="$frame__projector_8cpp.html" title="corelib/src/clams/frame\l_projector.cpp" alt="" coords="222,92,381,131"/>
+<area shape="rect" id="node4" href="$slam__calibrator_8cpp.html" title="corelib/src/clams/slam\l_calibrator.cpp" alt="" coords="405,92,558,131"/>
+</map>

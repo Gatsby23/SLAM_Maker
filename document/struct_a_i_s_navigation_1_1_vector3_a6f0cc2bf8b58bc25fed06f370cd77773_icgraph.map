@@ -1,0 +1,11 @@
+<map id="AISNavigation::Vector3::x" name="AISNavigation::Vector3::x">
+<area shape="rect" id="node2" href="$struct_a_i_s_navigation_1_1_vector3.html#a92bac57f29c511b1b48ee58a2755cc31" title="AISNavigation::Vector3\l::Vector3" alt="" coords="252,5,410,44"/>
+<area shape="rect" id="node3" href="$struct_a_i_s_navigation_1_1_transformation3.html#afbd3aded02f18cf738f56e01a5d20898" title="AISNavigation::Transformation3\l::Transformation3" alt="" coords="226,68,436,107"/>
+<area shape="rect" id="node4" href="$struct_a_i_s_navigation_1_1_pose3.html#aba36f587d9e3aa0f291cd8850965147c" title="AISNavigation::Pose3\l::Pose3" alt="" coords="255,131,406,169"/>
+<area shape="rect" id="node5" href="$struct_a_i_s_navigation_1_1_quaternion.html#ad56a3b97085f777eaa28494ae0f7339a" title="AISNavigation::Quaternion\l::Quaternion" alt="" coords="241,193,420,232"/>
+<area shape="rect" id="node6" href="$struct_a_i_s_navigation_1_1_transformation3.html#a2c722e884d4ac9e8df5ec92cb1aa0ec7" title="AISNavigation::Transformation3\l::toPoseType" alt="" coords="226,256,436,295"/>
+<area shape="rect" id="node10" href="$struct_a_i_s_navigation_1_1_tree_optimizer3.html#af2557b3bb55179d1907a0ed70edf241a" title="AISNavigation::TreeOptimizer3\l::propagateErrors" alt="" coords="228,319,433,357"/>
+<area shape="rect" id="node7" href="$struct_a_i_s_navigation_1_1_tree_pose_graph3.html#abf81aac8beaa434799afde5311e15551" title="AISNavigation::TreePoseGraph3\l::initializeFromParentEdge" alt="" coords="484,193,699,232"/>
+<area shape="rect" id="node8" href="$struct_a_i_s_navigation_1_1_tree_pose_graph3.html#abfc006b781543061b1a41e48f93d607d" title="AISNavigation::TreePoseGraph3\l::collapseEdge" alt="" coords="484,256,699,295"/>
+<area shape="rect" id="node9" href="$struct_a_i_s_navigation_1_1_tree_optimizer3.html#aad29fc85b9bd54c61ede2bf774db70cf" title="AISNavigation::TreeOptimizer3\l::error" alt="" coords="489,319,694,357"/>
+</map>

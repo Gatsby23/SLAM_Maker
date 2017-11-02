@@ -1,0 +1,32 @@
+<map id="rtabmap::Memory::getMetricConstraints" name="rtabmap::Memory::getMetricConstraints">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#a4bb01d27d1ec7776103635b11228626c" title="rtabmap::Memory::getOdomPose" alt="" coords="241,321,460,347"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_memory.html#a15ec109dd157745f69dcd4f80efaf561" title="rtabmap::Memory::getSignature" alt="" coords="762,5,971,31"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_signature.html#a701b32c562d789929a18a19c08bac4ca" title="rtabmap::Signature\l::getWeight" alt="" coords="799,55,933,93"/>
+<area shape="rect" id="node17" href="$classrtabmap_1_1_transform.html#a0d6a1985391a45de4fe208e58c51b9d2" title="rtabmap::Transform\l::isNull" alt="" coords="542,371,680,409"/>
+<area shape="rect" id="node19" href="$classrtabmap_1_1_memory.html#aa1638e46ef9e7285858688a1661ffc95" title="rtabmap::Memory::getLinks" alt="" coords="259,667,442,692"/>
+<area shape="rect" id="node23" href="$namespacertabmap_1_1graph.html#a7469cae5cb6e97f261c8b8f44ecc2f72" title="rtabmap::graph::findLink" alt="" coords="268,716,433,741"/>
+<area shape="rect" id="node24" href="$classrtabmap_1_1_memory.html#ad014d8426933014a21b90e7b2aee851f" title="rtabmap::Memory::getNeighbor\lLinks" alt="" coords="248,604,454,643"/>
+<area shape="rect" id="node25" href="$classrtabmap_1_1_signature.html#a31c6e7b7e720eca20fb5935e0ee1d9f9" title="rtabmap::Signature::id" alt="" coords="274,765,427,791"/>
+<area shape="rect" id="node26" href="$classrtabmap_1_1_link.html#a953a029f601d7ca3efbb12ca22da4542" title="rtabmap::Link::merge" alt="" coords="277,508,424,533"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_memory.html#aeaebab2f4e642fcac038601c4d35354b" title="rtabmap::Memory::getNodeInfo" alt="" coords="508,317,714,343"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_signature.html#a9b46d839d47224f13238a5e165a1adfe" title="rtabmap::Signature\l::getPose" alt="" coords="799,480,933,519"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_signature.html#ac6a75872fb4cb64bd088794df6e897bb" title="rtabmap::Signature\l::mapId" alt="" coords="799,543,933,581"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_signature.html#ab4815d741ae9e540471ef6a6b42b5c36" title="rtabmap::Signature\l::getLabel" alt="" coords="799,605,933,644"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_signature.html#aa9c4ed8d3617b039181cf44a0e30eca2" title="rtabmap::Signature\l::getStamp" alt="" coords="799,117,933,156"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_signature.html#ae7aaa7a7f07821420f77a3566f007d68" title="rtabmap::Signature\l::getGroundTruthPose" alt="" coords="790,180,942,219"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_signature.html#af9a1ebf05fca24641658afc2e4cdf1f6" title="rtabmap::Signature\l::getVelocity" alt="" coords="799,243,933,281"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_signature.html#a522971783852ef45e2de8e592d49a860" title="rtabmap::Signature\l::sensorData" alt="" coords="799,305,933,344"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_sensor_data.html#a81e4d2c0fadfe7e76c0c35d06226b4d3" title="rtabmap::SensorData::gps" alt="" coords="778,368,955,393"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_d_b_driver.html#a685dc9f0e72ae27b64759473e51df330" title="rtabmap::DBDriver::\lgetNodeInfo" alt="" coords="797,417,936,456"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_memory.html#aecb333268e0858678add037a5a59a719" title="rtabmap::Memory::_getSignature" alt="" coords="1019,5,1235,31"/>
+<area shape="rect" id="node16" href="$classrtabmap_1_1_d_b_driver.html#a5bafbd9e9e4fc282cd7c16e2b0e87ca7" title="rtabmap::DBDriver::\lgetNodeInfoQuery" alt="" coords="1057,417,1196,456"/>
+<area shape="rect" id="node18" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="797,668,935,707"/>
+<area shape="rect" id="node20" href="$classrtabmap_1_1_signature.html#a2afa282617cff501b89998ec4d29b6e0" title="rtabmap::Signature\l::getLinks" alt="" coords="799,793,933,832"/>
+<area shape="rect" id="node21" href="$classrtabmap_1_1_d_b_driver.html#a27e9e107b53a712b335c466d9b198f3e" title="rtabmap::DBDriver::\lloadLinks" alt="" coords="541,732,680,771"/>
+<area shape="rect" id="node22" href="$classrtabmap_1_1_d_b_driver.html#aaa4f068bb457a0f5af751b39915858f5" title="rtabmap::DBDriver::\lloadLinksQuery" alt="" coords="797,731,936,769"/>
+<area shape="rect" id="node27" href="$classrtabmap_1_1_link.html#a185194e8e766ca979e4de7e179f0e534" title="rtabmap::Link::from" alt="" coords="543,483,679,508"/>
+<area shape="rect" id="node28" href="$classrtabmap_1_1_link.html#a5d5d54b7f3363d13c3ad44acf7e470db" title="rtabmap::Link::transform" alt="" coords="528,532,694,557"/>
+<area shape="rect" id="node29" href="$classrtabmap_1_1_link.html#adc3a81918165c29d7b474df4285e98e0" title="rtabmap::Link::infMatrix" alt="" coords="531,581,691,607"/>
+<area shape="rect" id="node30" href="$classrtabmap_1_1_link.html#a2dce9c7a3ef04085d51f702002107c7b" title="rtabmap::Link::Link" alt="" coords="544,631,678,656"/>
+<area shape="rect" id="node31" href="$classrtabmap_1_1_link.html#a8d534b311c37d789276dd58bd7dc89e4" title="rtabmap::Link::to" alt="" coords="550,433,671,459"/>
+</map>

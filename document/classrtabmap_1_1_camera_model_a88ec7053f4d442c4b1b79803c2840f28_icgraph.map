@@ -1,0 +1,4 @@
+<map id="rtabmap::CameraModel::D_raw" name="rtabmap::CameraModel::D_raw">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera_freenect2.html#a4eadc42db8a7d38555df61577d621dae" title="rtabmap::CameraFreenect2\l::init" alt="" coords="223,5,408,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_stereo_camera_model.html#ae91c2717319f3cd7b6f40768e5adbb9f" title="rtabmap::StereoCameraModel\l::StereoCameraModel" alt="" coords="215,68,415,107"/>
+</map>

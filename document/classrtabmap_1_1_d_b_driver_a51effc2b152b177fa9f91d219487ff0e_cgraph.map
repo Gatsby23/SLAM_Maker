@@ -1,0 +1,5 @@
+<map id="rtabmap::DBDriver::getLastNodeId" name="rtabmap::DBDriver::getLastNodeId">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_d_b_driver.html#a12fe902034503ce9a95568272a06ecc4" title="rtabmap::DBDriver::\lgetLastIdQuery" alt="" coords="194,5,333,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_d_b_driver.html#a9adb7be1463016917f24a3db5f1e8264" title="rtabmap::DBDriver::\lgetDatabaseVersion" alt="" coords="192,68,334,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_d_b_driver.html#abad694886dbc5beef1acf659616a0c25" title="rtabmap::DBDriver::\lgetDatabaseVersionQuery" alt="" coords="382,68,560,107"/>
+</map>

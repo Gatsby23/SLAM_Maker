@@ -1,0 +1,12 @@
+<map id="AISNavigation::Pose2::y" name="AISNavigation::Pose2::y">
+<area shape="rect" id="node2" href="$struct_a_i_s_navigation_1_1_tree_pose_graph2.html#adab49b3098f7d8a555d938488785b01c" title="AISNavigation::TreePoseGraph2\l::load" alt="" coords="218,5,433,44"/>
+<area shape="rect" id="node3" href="$struct_a_i_s_navigation_1_1_tree_pose_graph2.html#a7bac32072bf76a97b91791c96029d400" title="AISNavigation::TreePoseGraph2\l::save" alt="" coords="218,68,433,107"/>
+<area shape="rect" id="node4" href="$struct_a_i_s_navigation_1_1_tree_pose_graph2.html#a092578c9be60e1ae904900c4bf8cf64c" title="AISNavigation::TreePoseGraph2\l::printEdgesStat" alt="" coords="218,131,433,169"/>
+<area shape="rect" id="node5" href="$struct_a_i_s_navigation_1_1_tree_pose_graph2.html#a299d343efb58da01170de4c7ef6d2e70" title="AISNavigation::TreePoseGraph2\l::collapseEdge" alt="" coords="218,193,433,232"/>
+<area shape="rect" id="node6" href="$struct_a_i_s_navigation_1_1_transformation2.html#abbf9c72bd304d7cb38522e691705c4ae" title="AISNavigation::Transformation2\l::Transformation2" alt="" coords="221,256,431,295"/>
+<area shape="rect" id="node7" href="$struct_a_i_s_navigation_1_1_tree_optimizer2.html#ad03e4183a5e76d34659ceee01016fc44" title="AISNavigation::TreeOptimizer2\l::propagateErrors" alt="" coords="481,343,686,381"/>
+<area shape="rect" id="node10" href="$struct_a_i_s_navigation_1_1_tree_optimizer2.html#ae127331e0a5ae9bd0b9dea74fc517bb4" title="AISNavigation::TreeOptimizer2\l::getPose" alt="" coords="224,371,428,409"/>
+<area shape="rect" id="node11" href="$struct_a_i_s_navigation_1_1_tree_optimizer2.html#a774e0528bbafba2efe90b91a17c257aa" title="AISNavigation::TreeOptimizer2\l::error" alt="" coords="224,433,428,472"/>
+<area shape="rect" id="node8" href="$struct_a_i_s_navigation_1_1_tree_optimizer2.html#a9d66e0481e72374946df9c596d857f40" title="AISNavigation::TreeOptimizer2\l::iterate" alt="" coords="734,343,939,381"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_optimizer_t_o_r_o.html#a1f5a5cf0dc2935b41a79bf32fe01e745" title="rtabmap::OptimizerTORO\l::optimize" alt="" coords="987,343,1160,381"/>
+</map>

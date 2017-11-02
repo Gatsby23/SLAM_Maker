@@ -1,0 +1,8 @@
+<map id="DMatrix::operator[]" name="DMatrix::operator[]">
+<area shape="rect" id="node2" href="$dmatrix_8hh.html#a699ad292fc81933c3fc14d094b0c769f" title="operator*" alt="" coords="232,55,309,80"/>
+<area shape="rect" id="node6" href="$namespace_a_i_s_navigation.html#a42c4ba8fba40ee37664f55a9ac8e9511" title="AISNavigation::operator+" alt="" coords="185,104,356,129"/>
+<area shape="rect" id="node7" href="$namespace_a_i_s_navigation.html#a9f9fc85dea3f26058b95ad39eafe2dbc" title="AISNavigation::operator&#45;" alt="" coords="187,153,354,179"/>
+<area shape="rect" id="node3" href="$struct_d_vector.html#a6cf334eb6771902e755ebbf2135fbd0a" title="DVector::dim" alt="" coords="417,5,515,31"/>
+<area shape="rect" id="node4" href="$class_d_matrix.html#acd1798657ea0ead97997accaaa3f9f39" title="DMatrix::columns" alt="" coords="404,55,528,80"/>
+<area shape="rect" id="node5" href="$class_d_matrix.html#a413215781111e4a0482fb33c9bbe13e0" title="DMatrix::rows" alt="" coords="415,104,517,129"/>
+</map>

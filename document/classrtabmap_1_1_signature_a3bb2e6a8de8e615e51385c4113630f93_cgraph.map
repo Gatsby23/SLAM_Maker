@@ -1,0 +1,8 @@
+<map id="rtabmap::Signature::addLink" name="rtabmap::Signature::addLink">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_link.html#a8d534b311c37d789276dd58bd7dc89e4" title="rtabmap::Link::to" alt="" coords="223,5,344,31"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_signature.html#a31c6e7b7e720eca20fb5935e0ee1d9f9" title="rtabmap::Signature::id" alt="" coords="207,55,360,80"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_link.html#a17ea666cb54c4f7cce1c80bc2e1950c3" title="rtabmap::Link::type" alt="" coords="216,104,351,129"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_link.html#a09165478f29f72d299a037d851160f66" title="rtabmap::Link::transVariance" alt="" coords="188,153,379,179"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_link.html#a7c5e4701599524cac8c277809666d031" title="rtabmap::Link::rotVariance" alt="" coords="195,203,372,228"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_link.html#a185194e8e766ca979e4de7e179f0e534" title="rtabmap::Link::from" alt="" coords="215,252,352,277"/>
+</map>

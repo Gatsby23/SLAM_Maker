@@ -1,0 +1,7 @@
+<map id="rtabmap::CompressionThread::mainLoop" name="rtabmap::CompressionThread::mainLoop">
+<area shape="rect" id="node2" href="$namespacertabmap.html#ae3c8d0d3a557060936f01411458ea4d7" title="rtabmap::compressImage2" alt="" coords="255,5,435,31"/>
+<area shape="rect" id="node4" href="$namespacertabmap.html#a21f00cdd5f42e4a3fda3ef52cd51e67f" title="rtabmap::compressData2" alt="" coords="260,55,431,80"/>
+<area shape="rect" id="node5" href="$namespacertabmap.html#ad6cebc83950e19960d573a7824c875bc" title="rtabmap::uncompressImage" alt="" coords="252,104,439,129"/>
+<area shape="rect" id="node6" href="$namespacertabmap.html#a52c9962294b2d150d6540a1e82bf1999" title="rtabmap::uncompressData" alt="" coords="256,153,435,179"/>
+<area shape="rect" id="node3" href="$namespacertabmap.html#a1af8a9964583e140c5ecd21ce932ae7b" title="rtabmap::compressImage" alt="" coords="487,5,660,31"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="rtflann::countCorrectMatches" name="rtflann::countCorrectMatches">
+<area shape="rect" id="node2" href="$namespacertflann.html#a6d2c6ce5ea73c7647d65a87f09f30e03" title="rtflann::search_with\l_ground_truth" alt="" coords="246,68,383,107"/>
+<area shape="rect" id="node3" href="$namespacertflann.html#acfafd4d04f074a0e7949364430023cee" title="rtflann::test_index\l_checks" alt="" coords="431,5,557,44"/>
+<area shape="rect" id="node4" href="$namespacertflann.html#a3d75b5046be2c30beea9e089bcf845ee" title="rtflann::test_index\l_precision" alt="" coords="431,68,557,107"/>
+<area shape="rect" id="node8" href="$namespacertflann.html#a9a8af20de4c917762f3d105f7817b2bd" title="rtflann::test_index\l_precisions" alt="" coords="431,131,557,169"/>
+<area shape="rect" id="node5" href="$classrtflann_1_1_autotuned_index.html#a1379c8a6aa2b478bdcd3323e88a61e21" title="rtflann::AutotunedIndex\l::evaluate_kmeans" alt="" coords="609,5,769,44"/>
+<area shape="rect" id="node6" href="$classrtflann_1_1_autotuned_index.html#a59aebe74419027c611fbd3220f27d8e6" title="rtflann::AutotunedIndex\l::evaluate_kdtree" alt="" coords="609,68,769,107"/>
+<area shape="rect" id="node7" href="$classrtflann_1_1_autotuned_index.html#ad6c65ae41ba4579f2024536c347b3114" title="rtflann::AutotunedIndex\l::estimateSearchParams" alt="" coords="605,131,773,169"/>
+</map>

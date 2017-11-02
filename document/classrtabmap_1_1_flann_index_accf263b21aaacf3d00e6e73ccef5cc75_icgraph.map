@@ -1,0 +1,7 @@
+<map id="rtabmap::FlannIndex::knnSearch" name="rtabmap::FlannIndex::knnSearch">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_v_w_dictionary.html#af6b3e3ac1da68e2a561659ce0787c124" title="rtabmap::VWDictionary\l::addNewWords" alt="" coords="197,27,355,65"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_v_w_dictionary.html#aada11cf01b586ac8205f8bff0b1ab295" title="rtabmap::VWDictionary\l::findNN" alt="" coords="197,89,355,128"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_memory.html#ae57c1e215b5449431b93588dd4217703" title="rtabmap::Memory::createSignature" alt="" coords="403,5,631,31"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_registration_vis.html#ad58a6cdcc37eb85639f50da6089f0e32" title="rtabmap::RegistrationVis\l::computeTransformationImpl" alt="" coords="420,55,614,93"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="679,5,853,31"/>
+</map>

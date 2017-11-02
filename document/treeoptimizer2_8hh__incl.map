@@ -1,0 +1,6 @@
+<map id="corelib/src/toro3d/treeoptimizer2.hh" name="corelib/src/toro3d/treeoptimizer2.hh">
+<area shape="rect" id="node2" href="$posegraph2_8hh.html" title="Defines the graph of 2D poses, with specific functionalities such as loading, saving, merging constraints, and etc. " alt="" coords="409,92,519,117"/>
+<area shape="rect" id="node3" href="$posegraph_8hh.html" title="The template class for the node parameters. The graph of poses with support to tree construction func..." alt="" coords="369,165,472,191"/>
+<area shape="rect" id="node14" href="$transformation2_8hh.html" title="Definition of the 2d transformations. " alt="" coords="755,165,888,191"/>
+<area shape="rect" id="node13" href="$posegraph_8hxx.html" title="The implementation of the template class for the node parameters. " alt="" coords="648,239,757,264"/>
+</map>

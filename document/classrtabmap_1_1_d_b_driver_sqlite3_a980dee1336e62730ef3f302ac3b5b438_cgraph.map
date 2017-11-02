@@ -1,0 +1,8 @@
+<map id="rtabmap::DBDriverSqlite3::addStatisticsQuery" name="rtabmap::DBDriverSqlite3::addStatisticsQuery">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_statistics.html#a4ba41e262e2af21bfb2c9d1b6e493d6d" title="rtabmap::Statistics\l::refImageId" alt="" coords="231,5,362,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_d_b_driver.html#a9adb7be1463016917f24a3db5f1e8264" title="rtabmap::DBDriver::\lgetDatabaseVersion" alt="" coords="226,68,367,107"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_statistics.html#aea848a7a8181311ad40e3e509c4f7b18" title="rtabmap::Statistics\l::serializeData" alt="" coords="231,131,362,169"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_statistics.html#aa8ab30edbf3364300fcb97c361602bde" title="rtabmap::Statistics\l::data" alt="" coords="231,193,362,232"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_statistics.html#a24a86b496c06f7d027ebb803b0ce70dd" title="rtabmap::Statistics\l::stamp" alt="" coords="231,256,362,295"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_d_b_driver.html#abad694886dbc5beef1acf659616a0c25" title="rtabmap::DBDriver::\lgetDatabaseVersionQuery" alt="" coords="415,68,593,107"/>
+</map>

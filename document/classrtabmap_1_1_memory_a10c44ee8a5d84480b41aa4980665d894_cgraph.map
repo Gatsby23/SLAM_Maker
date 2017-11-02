@@ -1,0 +1,11 @@
+<map id="rtabmap::Memory::getNeighborsIdRadius" name="rtabmap::Memory::getNeighborsIdRadius">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_transform.html#a0d6a1985391a45de4fe208e58c51b9d2" title="rtabmap::Transform\l::isNull" alt="" coords="301,5,439,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_memory.html#a15ec109dd157745f69dcd4f80efaf561" title="rtabmap::Memory::getSignature" alt="" coords="266,68,475,93"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_transform.html#ae311741cc884ca8f5343bc2710b96a0b" title="rtabmap::Transform\l::getDistanceSquared" alt="" coords="295,117,445,156"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_signature.html#a2afa282617cff501b89998ec4d29b6e0" title="rtabmap::Signature\l::getLinks" alt="" coords="303,180,438,219"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="562,5,700,44"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_memory.html#aecb333268e0858678add037a5a59a719" title="rtabmap::Memory::_getSignature" alt="" coords="523,68,739,93"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_transform.html#a1d69c9ae9129ccffe30b971ed8747adc" title="rtabmap::Transform::x" alt="" coords="555,117,707,143"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_transform.html#af7d90ee7b9ace464ea80dad90e3df9a3" title="rtabmap::Transform::y" alt="" coords="555,167,707,192"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_transform.html#af3c3671ae31945e689ee9a84deca5d6b" title="rtabmap::Transform::z" alt="" coords="555,216,707,241"/>
+</map>

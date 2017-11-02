@@ -1,0 +1,8 @@
+<map id="AISNavigation::TreePoseGraph3::save" name="AISNavigation::TreePoseGraph3::save">
+<area shape="rect" id="node2" href="$struct_a_i_s_navigation_1_1_pose3.html#ad18bafa1d06292cbdcdefc29344fcdc3" title="AISNavigation::Pose3::x" alt="" coords="277,5,442,31"/>
+<area shape="rect" id="node3" href="$struct_a_i_s_navigation_1_1_pose3.html#a7a793e69497bb1d524e7b6dc674f97e2" title="AISNavigation::Pose3::y" alt="" coords="277,55,442,80"/>
+<area shape="rect" id="node4" href="$struct_a_i_s_navigation_1_1_pose3.html#a5cf15d75157e470e3be8def1fb680d53" title="AISNavigation::Pose3::z" alt="" coords="277,104,442,129"/>
+<area shape="rect" id="node5" href="$struct_a_i_s_navigation_1_1_pose3.html#ad2a4ddd269acf1c901e48a0e3dd8c398" title="AISNavigation::Pose3\l::roll" alt="" coords="284,153,435,192"/>
+<area shape="rect" id="node6" href="$struct_a_i_s_navigation_1_1_pose3.html#a9a7586de9215098110b3ea1421130769" title="AISNavigation::Pose3\l::pitch" alt="" coords="284,216,435,255"/>
+<area shape="rect" id="node7" href="$struct_a_i_s_navigation_1_1_pose3.html#a2eb662b190f6a226dc082eed94f38521" title="AISNavigation::Pose3::yaw" alt="" coords="268,279,451,304"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="AISNavigation::TreeOptimizer3::propagateErrors" name="AISNavigation::TreeOptimizer3::propagateErrors">
+<area shape="rect" id="node2" href="$struct_a_i_s_navigation_1_1_quaternion.html#a688c31f8cdf7c20d194add1eb8d7d038" title="AISNavigation::Quaternion\l::inverse" alt="" coords="273,5,452,44"/>
+<area shape="rect" id="node3" href="$namespace_a_i_s_navigation.html#ae402fe8d9579060904c33bb49e56b570" title="AISNavigation::min3" alt="" coords="292,68,434,93"/>
+<area shape="rect" id="node4" href="$struct_a_i_s_navigation_1_1_quaternion.html#a0614ccc87e964f55e2393c73132daae0" title="AISNavigation::Quaternion\l::axis" alt="" coords="273,117,452,156"/>
+<area shape="rect" id="node8" href="$struct_a_i_s_navigation_1_1_quaternion.html#abfcac66c91cb779a3b4066b686f42465" title="AISNavigation::Quaternion\l::angle" alt="" coords="273,180,452,219"/>
+<area shape="rect" id="node9" href="$struct_a_i_s_navigation_1_1_transformation3.html#a7b54fb88f4fb5280252e06b8a16c2aa2" title="AISNavigation::Transformation3\l::translation" alt="" coords="258,243,468,281"/>
+<area shape="rect" id="node10" href="$struct_a_i_s_navigation_1_1_vector3.html#a6f0cc2bf8b58bc25fed06f370cd77773" title="AISNavigation::Vector3::x" alt="" coords="277,305,449,331"/>
+<area shape="rect" id="node11" href="$struct_a_i_s_navigation_1_1_vector3.html#a8ce9615d199f756d4eff49dd3c9eabee" title="AISNavigation::Vector3::y" alt="" coords="277,355,449,380"/>
+<area shape="rect" id="node12" href="$struct_a_i_s_navigation_1_1_vector3.html#aa678da5ce00472f9a68037eed3dc31ed" title="AISNavigation::Vector3::z" alt="" coords="277,404,449,429"/>
+<area shape="rect" id="node5" href="$struct_a_i_s_navigation_1_1_pose3.html#ad18bafa1d06292cbdcdefc29344fcdc3" title="AISNavigation::Pose3::x" alt="" coords="516,75,681,100"/>
+<area shape="rect" id="node6" href="$struct_a_i_s_navigation_1_1_pose3.html#a7a793e69497bb1d524e7b6dc674f97e2" title="AISNavigation::Pose3::y" alt="" coords="516,124,681,149"/>
+<area shape="rect" id="node7" href="$struct_a_i_s_navigation_1_1_pose3.html#a5cf15d75157e470e3be8def1fb680d53" title="AISNavigation::Pose3::z" alt="" coords="516,173,681,199"/>
+</map>

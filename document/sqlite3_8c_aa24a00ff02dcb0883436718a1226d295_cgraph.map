@@ -1,0 +1,23 @@
+<map id="sqlite3FindDb" name="sqlite3FindDb">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a6ba4248ee912d7f5a7a898c5ae46e808" title="sqlite3NameFromToken" alt="" coords="156,450,318,476"/>
+<area shape="rect" id="node17" href="$sqlite3_8c.html#a87029035bea562c6a5d1b9ba6475b567" title="sqlite3FindDbName" alt="" coords="168,552,306,577"/>
+<area shape="rect" id="node19" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="887,501,992,526"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ad68ab1bd16b9220b68734b069c6c8093" title="sqlite3DbStrNDup" alt="" coords="366,401,494,426"/>
+<area shape="rect" id="node16" href="$sqlite3_8c.html#a7b0ccb71d60de662cbb09755454dee5d" title="sqlite3Dequote" alt="" coords="375,450,485,476"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a205de2c51c313b43acb81d72e3373032" title="sqlite3DbMallocRaw" alt="" coords="542,401,684,426"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="1438,425,1574,450"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#afeb0b42dca534c9607d5138c79e3fd7e" title="sqlite3Malloc" alt="" coords="732,97,831,122"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="1238,121,1380,146"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ab070d5cf8e48ec8a6a43cf025d48598b" title="mallocWithAlarm" alt="" coords="879,172,1000,197"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="1238,72,1381,97"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#afec7586c01fcb5ea17dc9d7725a589d9" title="sqlite3StatusSet" alt="" coords="1060,121,1178,146"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a30b8ac296c6e200c1fa57708d52c6ef6" title="sqlite3StatusValue" alt="" coords="1244,172,1374,197"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#ada66988e8471d1198f3219c062377508" title="sqlite3MallocAlarm" alt="" coords="1052,72,1186,97"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="1247,298,1371,324"/>
+<area shape="rect" id="node15" href="$sqlite3_8c.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="1248,249,1370,274"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#a83967c837c1c000d3b5adcfaa688f5dc" title="sqlite3_mutex_notheld" alt="" coords="1429,72,1583,97"/>
+<area shape="rect" id="node18" href="$sqlite3_8c.html#a3dcd80ba41f1a308193dee74857b62a7" title="sqlite3Strlen30" alt="" coords="376,552,485,577"/>
+<area shape="rect" id="node20" href="$sqlite3_8c.html#aa397e5a8a03495203a0767abf0a71f86" title="sqlite3DbMallocSize" alt="" coords="1048,526,1190,552"/>
+<area shape="rect" id="node21" href="$sqlite3_8c.html#a770fa05ff9717b75e16f4d968a77b897" title="isLookaside" alt="" coords="1263,577,1355,602"/>
+<area shape="rect" id="node22" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="1074,273,1164,298"/>
+</map>

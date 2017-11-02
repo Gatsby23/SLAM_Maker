@@ -1,0 +1,4 @@
+<map id="rtabmap::util3d::laserScanToPointCloudRGB" name="rtabmap::util3d::laserScanToPointCloudRGB">
+<area shape="rect" id="node2" href="$namespacertabmap_1_1util3d.html#aa56f49ff1e813502c773ef0ed06b3fa0" title="rtabmap::util3d::laserScan\lToPointRGB" alt="" coords="230,5,406,44"/>
+<area shape="rect" id="node3" href="$namespacertabmap_1_1util3d.html#a5ebb2177b724f36e1393f3b2a24df319" title="rtabmap::util3d::transform\lPoint" alt="" coords="231,68,404,107"/>
+</map>

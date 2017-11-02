@@ -1,0 +1,7 @@
+<map id="rtabmap::util2d::decimate" name="rtabmap::util2d::decimate">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera_thread.html#aba9e3775217a8bd7e10fcd3e5710b655" title="rtabmap::CameraThread\l::postUpdate" alt="" coords="254,5,422,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_memory.html#ae57c1e215b5449431b93588dd4217703" title="rtabmap::Memory::createSignature" alt="" coords="224,68,452,93"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_odometry.html#a4fcbe67de2ec6f23829e3962ee586315" title="rtabmap::Odometry::\lprocess" alt="" coords="266,117,410,156"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera_thread.html#a4e4f475ed37c6696b303c3437d127682" title="rtabmap::CameraThread\l::mainLoop" alt="" coords="503,5,670,44"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="500,68,674,93"/>
+</map>

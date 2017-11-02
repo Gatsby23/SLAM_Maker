@@ -1,0 +1,15 @@
+<map id="rtabmap::StereoCameraModel::StereoCameraModel" name="rtabmap::StereoCameraModel::StereoCameraModel">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera_model.html#a402a407fa2bca721087a6deda24cc10d" title="rtabmap::CameraModel\l::setName" alt="" coords="274,5,435,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_stereo_camera_model.html#ad57b132e94599effdc45cbbf0de8ef06" title="rtabmap::StereoCameraModel\l::getLeftSuffix" alt="" coords="254,68,455,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_stereo_camera_model.html#a3a5002a8605ca224612f2f16463dda6f" title="rtabmap::StereoCameraModel\l::getRightSuffix" alt="" coords="254,131,455,169"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_transform.html#a0d6a1985391a45de4fe208e58c51b9d2" title="rtabmap::Transform\l::isNull" alt="" coords="285,193,423,232"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_camera_model.html#a46864eb8de680d45d79777e828dcbb6a" title="rtabmap::CameraModel\l::isValidForRectification" alt="" coords="274,256,435,295"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_transform.html#a23dfabecb7b2ad9c6a7fdcde08d900ab" title="rtabmap::Transform\l::rotationMatrix" alt="" coords="285,319,423,357"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_transform.html#a6a7bb81847554509d1128238860c047e" title="rtabmap::Transform\l::translationMatrix" alt="" coords="285,381,423,420"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_camera_model.html#ada626650b01d35b494016a5490efb31a" title="rtabmap::CameraModel\l::K_raw" alt="" coords="274,444,435,483"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_camera_model.html#a88ec7053f4d442c4b1b79803c2840f28" title="rtabmap::CameraModel\l::D_raw" alt="" coords="274,507,435,545"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_camera_model.html#a2606758bb7ad6388102342b705d2b876" title="rtabmap::CameraModel\l::imageSize" alt="" coords="274,569,435,608"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_camera_model.html#a19691c7a9f7fd325e98da01a4481bed9" title="rtabmap::CameraModel\l::name" alt="" coords="274,632,435,671"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_camera_model.html#a362fd9fc3f8de2d3fab6ed516217fc45" title="rtabmap::CameraModel\l::localTransform" alt="" coords="274,695,435,733"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="503,193,641,232"/>
+</map>

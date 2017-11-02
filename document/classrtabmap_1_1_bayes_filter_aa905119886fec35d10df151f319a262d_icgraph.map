@@ -1,0 +1,11 @@
+<map id="rtabmap::BayesFilter::normalize" name="rtabmap::BayesFilter::normalize">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_bayes_filter.html#a6e2b4c1629d21a72417a952a97c336e8" title="rtabmap::BayesFilter\l::generatePrediction" alt="" coords="390,105,534,144"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_bayes_filter.html#a1c23f12fe89d288bacdfeb16b7736353" title="rtabmap::BayesFilter\l::updatePrediction" alt="" coords="198,133,342,172"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_bayes_filter.html#a7ab8bc28ec172a18a80001585161b238" title="rtabmap::BayesFilter\l::computePosterior" alt="" coords="582,76,727,115"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_rtabmap.html#ad0c040e54bbca27dffc46346d96c57cb" title="rtabmap::Rtabmap::dumpPrediction" alt="" coords="775,168,1007,193"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_rtabmap.html#ad7f085b6ae0fd3c7077c500c028fd5c3" title="Main loop of rtabmap. " alt="" coords="798,83,984,108"/>
+<area shape="rect" id="node5" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="1055,5,1243,31"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_rtabmap.html#a35cf8fd93f77d1c148ae6d3107725750" title="rtabmap::Rtabmap::process" alt="" coords="1056,55,1242,80"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_rtabmap_thread.html#a921bb6c18683103d08270a7e665d89dc" title="rtabmap::RtabmapThread\l::process" alt="" coords="1062,104,1236,143"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="1291,133,1465,172"/>
+</map>

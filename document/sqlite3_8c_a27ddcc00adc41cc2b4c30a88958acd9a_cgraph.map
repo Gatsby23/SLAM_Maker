@@ -1,0 +1,7 @@
+<map id="sqlite3_value_numeric_type" name="sqlite3_value_numeric_type">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a746d87f60796d3903aa4b8e7ce123ada" title="applyNumericAffinity" alt="" coords="259,31,402,56"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ae006c07e1555d9a7ad637261c13fb5e5" title="sqlite3VdbeMemStoreType" alt="" coords="240,80,421,105"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ad2a961fc08942417d977510a1384b6d2" title="sqlite3AtoF" alt="" coords="469,5,557,31"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5b13083911b3dc0a0b54f43acc686a39" title="sqlite3Atoi64" alt="" coords="605,31,703,56"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#adcbebdd3f570175519922276b83132e0" title="compare2pow63" alt="" coords="751,31,871,56"/>
+</map>

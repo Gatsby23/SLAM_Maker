@@ -1,0 +1,5 @@
+<map id="rtabmap::IC_Angle" name="rtabmap::IC_Angle">
+<area shape="rect" id="node2" href="$namespacertabmap.html#a1d27af1e83c7008844fd0cf1c42b0ff1" title="rtabmap::computeOrientation" alt="" coords="186,5,380,31"/>
+<area shape="rect" id="node3" href="$namespacertabmap.html#a2791dc0c4e895cec1b02babd1f49d10f" title="rtabmap::computeKeyPoints" alt="" coords="428,5,617,31"/>
+<area shape="rect" id="node4" href="$namespacertabmap.html#a9548256e3e8e10b3d70475337459c8c5" title="rtabmap::computeDescriptors" alt="" coords="665,5,861,31"/>
+</map>

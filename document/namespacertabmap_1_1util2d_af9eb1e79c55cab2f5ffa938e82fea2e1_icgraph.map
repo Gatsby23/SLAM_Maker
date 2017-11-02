@@ -1,0 +1,9 @@
+<map id="rtabmap::util2d::getDepth" name="rtabmap::util2d::getDepth">
+<area shape="rect" id="node2" href="$namespacertabmap_1_1util3d.html#a1829bd55d06d7dd2a2ef1fbfa6ac78e9" title="rtabmap::util3d::project\lDepthTo3D" alt="" coords="224,131,381,169"/>
+<area shape="rect" id="node3" href="$namespacertabmap_1_1util3d.html#aeb7ae4830a89152b32e3f837b9055e6c" title="rtabmap::util3d::cloudFrom\lDepth" alt="" coords="429,5,609,44"/>
+<area shape="rect" id="node4" href="$namespacertabmap_1_1util3d.html#ae2914878f38827e384fa8a8ec7e305e7" title="rtabmap::util3d::cloudFrom\lDepthRGB" alt="" coords="429,68,609,107"/>
+<area shape="rect" id="node5" href="$namespacertabmap_1_1util3d.html#a844c3d9902384774535d175d07c2eb6e" title="rtabmap::util3d::laserScan\lFromDepthImage" alt="" coords="431,131,607,169"/>
+<area shape="rect" id="node7" href="$namespacertabmap_1_1util3d.html#ae932b10d9aecd414555595cba1b65157" title="rtabmap::util3d::extract\lXYZCorrespondences" alt="" coords="441,193,598,232"/>
+<area shape="rect" id="node8" href="$namespacertabmap_1_1util3d.html#a09e077bc0ae2fb6c4ac46f88e4a9b37f" title="rtabmap::util3d::generate\lKeypoints3DDepth" alt="" coords="435,256,604,295"/>
+<area shape="rect" id="node6" href="$namespacertabmap_1_1util3d.html#a3921bef5e3c9481dffa097a1e36df2df" title="rtabmap::util3d::laserScan\lFromDepthImages" alt="" coords="657,131,833,169"/>
+</map>

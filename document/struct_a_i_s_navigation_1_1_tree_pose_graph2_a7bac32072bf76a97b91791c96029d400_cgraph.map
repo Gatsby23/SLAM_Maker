@@ -1,0 +1,5 @@
+<map id="AISNavigation::TreePoseGraph2::save" name="AISNavigation::TreePoseGraph2::save">
+<area shape="rect" id="node2" href="$struct_a_i_s_navigation_1_1_pose2.html#a08f557c156d458097082156518552400" title="AISNavigation::Pose2::x" alt="" coords="268,5,433,31"/>
+<area shape="rect" id="node3" href="$struct_a_i_s_navigation_1_1_pose2.html#a1cfb4f376ef2ddb02205408ddcb9b021" title="AISNavigation::Pose2::y" alt="" coords="268,55,433,80"/>
+<area shape="rect" id="node4" href="$struct_a_i_s_navigation_1_1_pose2.html#af8a448334800f442648cb1983f41195e" title="AISNavigation::Pose2\l::theta" alt="" coords="275,104,426,143"/>
+</map>

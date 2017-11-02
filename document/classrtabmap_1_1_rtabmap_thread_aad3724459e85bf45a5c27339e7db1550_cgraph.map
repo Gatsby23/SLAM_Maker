@@ -1,0 +1,32 @@
+<map id="rtabmap::RtabmapThread::handleEvent" name="rtabmap::RtabmapThread::handleEvent">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_rtabmap.html#a691de75b6964ab48d7f1ea53ea40f4c1" title="rtabmap::Rtabmap::isRGBDMode" alt="" coords="227,36,448,61"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera_event.html#a6ae80a24ee7309304154eed59b1fbf37" title="rtabmap::CameraEvent\l::info" alt="" coords="258,85,417,124"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_transform.html#a0d6a1985391a45de4fe208e58c51b9d2" title="rtabmap::Transform\l::isNull" alt="" coords="514,5,652,44"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_rtabmap.html#a430178ffa0f17f01e6b9d744b01c50fb" title="rtabmap::Rtabmap::getMemory" alt="" coords="235,200,441,225"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_memory.html#a420ddb38a3ffefafc84d22b0dd3b3814" title="rtabmap::Memory::isIncremental" alt="" coords="231,249,444,275"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_rtabmap_thread.html#a2e20eea87e525a49ab532127bf65337d" title="rtabmap::RtabmapThread\l::addData" alt="" coords="251,351,425,389"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_odometry_event.html#a9620b6f9a03e0edd2291f890788dcb18" title="rtabmap::OdometryEvent\l::pose" alt="" coords="498,68,668,107"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_rtabmap_thread.html#ac939cf285e7a4e3e193c468828b64f39" title="rtabmap::RtabmapThread\l::pushNewState" alt="" coords="496,619,670,657"/>
+<area shape="rect" id="node23" href="$classrtabmap_1_1_camera_event.html#afea343d215918cd42cf805bda37efc4b" title="rtabmap::CameraEvent\l::data" alt="" coords="258,465,417,504"/>
+<area shape="rect" id="node24" href="$classrtabmap_1_1_transform.html#af0020cf4093b8b1a3d1f68ee657b3662" title="rtabmap::Transform\l::setNull" alt="" coords="269,528,407,567"/>
+<area shape="rect" id="node26" href="$classrtabmap_1_1_user_data_event.html#a1b280a86f859a5fff688f4f0e29373ce" title="rtabmap::UserDataEvent\l::data" alt="" coords="254,591,422,629"/>
+<area shape="rect" id="node27" href="$classrtabmap_1_1_rtabmap_event_cmd.html#a4246a93ba17dc597c963c9e43dfd6ca9" title="rtabmap::RtabmapEventCmd\l::getCmd" alt="" coords="241,653,435,692"/>
+<area shape="rect" id="node28" href="$classrtabmap_1_1_rtabmap_event_cmd.html#a617fee9962cfec4f4ea4e0616cf247fe" title="rtabmap::RtabmapEventCmd\l::value1" alt="" coords="241,716,435,755"/>
+<area shape="rect" id="node29" href="$classrtabmap_1_1_rtabmap_event_cmd.html#a01d0b795f93b5dd2404f41c8e1193a1f" title="rtabmap::RtabmapEventCmd\l::value2" alt="" coords="241,779,435,817"/>
+<area shape="rect" id="node30" href="$classrtabmap_1_1_rtabmap_event_cmd.html#a35cf6d3a7cccbca4bd33ce1146f7f8c2" title="rtabmap::RtabmapEventCmd\l::value3" alt="" coords="241,841,435,880"/>
+<area shape="rect" id="node31" href="$classrtabmap_1_1_rtabmap_event_cmd.html#aa7e1a64ada73c0e45c0c9d80146bcbda" title="rtabmap::RtabmapEventCmd\l::value4" alt="" coords="241,904,435,943"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="735,131,872,169"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_odometry_event.html#aae365d0e58c6c8c3429c4a266ffc3fa2" title="rtabmap::OdometryEvent\l::data" alt="" coords="498,131,668,169"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_sensor_data.html#a566e5600bc0369f2f88ff0c597cefcfb" title="rtabmap::SensorData\l::stamp" alt="" coords="509,193,657,232"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_transform.html#ae0636052ce31698d4d45afe4492ffab9" title="rtabmap::Transform\l::isIdentity" alt="" coords="514,256,652,295"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_odometry_event.html#afcda8e14a5a1aab35abb068887806bbd" title="rtabmap::OdometryEvent\l::info" alt="" coords="498,319,668,357"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_odometry_info.html#abce081943ea566e0dcc1532ce749e276" title="rtabmap::OdometryInfo\l::copyWithoutData" alt="" coords="504,381,662,420"/>
+<area shape="rect" id="node17" href="$classrtabmap_1_1_sensor_data.html#a4d0f4615a747eaef142b51a1ab1e5527" title="rtabmap::SensorData\l::setId" alt="" coords="509,444,657,483"/>
+<area shape="rect" id="node18" href="$classrtabmap_1_1_sensor_data.html#ad083f0a1e7769ff62183a0fa47279ae3" title="rtabmap::SensorData\l::setFeatures" alt="" coords="509,507,657,545"/>
+<area shape="rect" id="node22" href="$classrtabmap_1_1_sensor_data.html#a84fbcb16e51018d96065d3ce240650c6" title="rtabmap::SensorData::id" alt="" coords="500,569,666,595"/>
+<area shape="rect" id="node16" href="$classrtabmap_1_1_registration_info.html#ae7abf7e34019a0c27b2de8ac5647f277" title="rtabmap::RegistrationInfo\l::copyWithoutData" alt="" coords="718,381,889,420"/>
+<area shape="rect" id="node19" href="$classrtabmap_1_1_sensor_data.html#ad4945b19593503ee3e4d2da943ba976e" title="rtabmap::SensorData\l::keypoints" alt="" coords="729,444,878,483"/>
+<area shape="rect" id="node20" href="$classrtabmap_1_1_sensor_data.html#a4379bf96acb881984d532d7019ae5728" title="rtabmap::SensorData\l::keypoints3D" alt="" coords="729,507,878,545"/>
+<area shape="rect" id="node21" href="$classrtabmap_1_1_sensor_data.html#a9ab254c48aa6507ae02a544f075f11f6" title="rtabmap::SensorData\l::descriptors" alt="" coords="729,569,878,608"/>
+<area shape="rect" id="node25" href="$classrtabmap_1_1_transform.html#ac3654d3f6802d4b0c17b6110d1eda71a" title="rtabmap::Transform\l::Transform" alt="" coords="514,681,652,720"/>
+</map>

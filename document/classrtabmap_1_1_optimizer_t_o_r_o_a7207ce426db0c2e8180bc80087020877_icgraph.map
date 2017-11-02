@@ -1,0 +1,5 @@
+<map id="rtabmap::OptimizerTORO::available" name="rtabmap::OptimizerTORO::available">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_optimizer.html#a17cbadee10ca03a54494966894db5126" title="rtabmap::Optimizer\l::isAvailable" alt="" coords="226,5,361,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_optimizer.html#af63040980a021af1b786570e72c958a6" title="rtabmap::Optimizer\l::create" alt="" coords="226,68,361,107"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_odometry_f2_m.html#aed2cdb3c520517be31f22fae50e5059d" title="rtabmap::OdometryF2M\l::OdometryF2M" alt="" coords="409,5,572,44"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="rtabmap::Camera::takeImage" name="rtabmap::Camera::takeImage">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera_r_g_b_d_images.html#aee8dd9e887c5342a9eef225d45f8ac0c" title="rtabmap::CameraRGBDImages\l::captureImage" alt="" coords="248,5,456,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera_stereo_images.html#a3fc92d104807f923c70e9e820e25a473" title="rtabmap::CameraStereoImages\l::captureImage" alt="" coords="248,68,456,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_camera_thread.html#a4e4f475ed37c6696b303c3437d127682" title="rtabmap::CameraThread\l::mainLoop" alt="" coords="268,131,436,169"/>
+<area shape="rect" id="node5" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="258,193,447,219"/>
+</map>

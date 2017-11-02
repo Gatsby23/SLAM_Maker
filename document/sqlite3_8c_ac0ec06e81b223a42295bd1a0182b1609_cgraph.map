@@ -1,0 +1,12 @@
+<map id="releaseAllSavepoints" name="releaseAllSavepoints">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab732400d8022b48df1b7b3ee41be045d" title="sqlite3BitvecDestroy" alt="" coords="200,55,342,80"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="391,80,481,105"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a237bb8682b84ed24be164d4c57465182" title="sqlite3IsMemJournal" alt="" coords="199,156,343,181"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#aa5f0aeb27273a57c0523deaf48997533" title="sqlite3OsClose" alt="" coords="215,205,326,231"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="530,5,671,31"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="540,55,661,80"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="538,104,663,129"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="529,153,672,179"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="729,128,865,153"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a83967c837c1c000d3b5adcfaa688f5dc" title="sqlite3_mutex_notheld" alt="" coords="720,177,875,203"/>
+</map>

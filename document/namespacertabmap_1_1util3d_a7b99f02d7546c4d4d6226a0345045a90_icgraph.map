@@ -1,0 +1,21 @@
+<map id="rtabmap::util3d::laserScanToPointCloud" name="rtabmap::util3d::laserScanToPointCloud">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#a34aa7efd5f6ce0fd3136459542ad8ebb" title="rtabmap::Memory::compute\lIcpTransformMulti" alt="" coords="230,83,414,121"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_memory.html#ae57c1e215b5449431b93588dd4217703" title="rtabmap::Memory::createSignature" alt="" coords="462,159,689,184"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_registration_icp.html#a08cb2eda291112236ddf17053a04f782" title="rtabmap::RegistrationIcp\l::computeTransformationImpl" alt="" coords="478,208,673,247"/>
+<area shape="rect" id="node11" href="$namespacertabmap_1_1util3d.html#a2a8d178144e90cfbbebaea24e4fee5e6" title="rtabmap::util3d::assemble\lTextureMesh" alt="" coords="235,328,409,367"/>
+<area shape="rect" id="node12" href="$namespacertabmap_1_1util3d.html#ac00c794a655fb4d5b36626b6cbe15a63" title="rtabmap::util3d::assemble\lPolygonMesh" alt="" coords="235,391,409,429"/>
+<area shape="rect" id="node13" href="$namespacertabmap_1_1util3d.html#af8689602bc6b63be6888927924947786" title="rtabmap::util3d::compute\lNormals" alt="" coords="238,265,406,304"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_rtabmap.html#ad7f085b6ae0fd3c7077c500c028fd5c3" title="Main loop of rtabmap. " alt="" coords="483,83,669,108"/>
+<area shape="rect" id="node4" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="747,5,936,31"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_rtabmap.html#a35cf8fd93f77d1c148ae6d3107725750" title="rtabmap::Rtabmap::process" alt="" coords="748,55,934,80"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_rtabmap_thread.html#a921bb6c18683103d08270a7e665d89dc" title="rtabmap::RtabmapThread\l::process" alt="" coords="754,104,928,143"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="993,104,1167,143"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="754,167,928,192"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_camera_images.html#a00a3e412173771537411a1683c18c0f7" title="rtabmap::CameraImages\l::captureImage" alt="" coords="491,333,660,372"/>
+<area shape="rect" id="node17" href="$classrtabmap_1_1_camera_thread.html#aba9e3775217a8bd7e10fcd3e5710b655" title="rtabmap::CameraThread\l::postUpdate" alt="" coords="492,396,659,435"/>
+<area shape="rect" id="node19" href="$namespacertabmap_1_1util3d.html#a0120b85a5ad81dadb9154b3ed3b2b834" title="rtabmap::util3d::loadScan" alt="" coords="489,459,662,484"/>
+<area shape="rect" id="node20" href="$namespacertabmap_1_1util3d.html#a3c60f7ed24f0e4142a52cf2ff9df5728" title="rtabmap::util3d::compute\lNormals" alt="" coords="492,271,660,309"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_camera_r_g_b_d_images.html#aee8dd9e887c5342a9eef225d45f8ac0c" title="rtabmap::CameraRGBDImages\l::captureImage" alt="" coords="738,271,945,309"/>
+<area shape="rect" id="node16" href="$classrtabmap_1_1_camera_stereo_images.html#a3fc92d104807f923c70e9e820e25a473" title="rtabmap::CameraStereoImages\l::captureImage" alt="" coords="737,333,945,372"/>
+<area shape="rect" id="node18" href="$classrtabmap_1_1_camera_thread.html#a4e4f475ed37c6696b303c3437d127682" title="rtabmap::CameraThread\l::mainLoop" alt="" coords="758,396,925,435"/>
+</map>

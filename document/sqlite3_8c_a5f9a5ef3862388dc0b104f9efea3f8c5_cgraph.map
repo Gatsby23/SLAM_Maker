@@ -1,0 +1,12 @@
+<map id="pcache1Unpin" name="pcache1Unpin">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a1b58eae8a9fe64c0c817a74a2ac7ad41" title="pcache1RemoveFromHash" alt="" coords="338,5,522,31"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aa3f573a706805bb81ef72ff65ffcdb79" title="pcache1FreePage" alt="" coords="160,113,290,139"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="908,56,1044,81"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a283e764f60afec3ed4995402b6604ceb" title="pcache1Free" alt="" coords="380,189,480,215"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="570,259,660,284"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="709,235,850,260"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="719,284,840,309"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="708,157,851,183"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="717,107,842,132"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a83967c837c1c000d3b5adcfaa688f5dc" title="sqlite3_mutex_notheld" alt="" coords="899,157,1054,183"/>
+</map>

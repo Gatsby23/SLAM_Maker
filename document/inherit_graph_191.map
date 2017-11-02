@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$structrtflann_1_1_autotuned_index_params.html" title="rtflann::AutotunedIndexParams" alt="" coords="155,5,360,31"/>
+<area shape="rect" id="node3" href="$structrtflann_1_1_composite_index_params.html" title="rtflann::CompositeIndexParams" alt="" coords="153,55,361,80"/>
+<area shape="rect" id="node4" href="$structrtflann_1_1_hierarchical_clustering_index_params.html" title="rtflann::HierarchicalClustering\lIndexParams" alt="" coords="159,104,355,143"/>
+<area shape="rect" id="node5" href="$structrtflann_1_1_k_d_tree_index_params.html" title="rtflann::KDTreeIndexParams" alt="" coords="162,167,352,192"/>
+<area shape="rect" id="node6" href="$structrtflann_1_1_k_d_tree_single_index_params.html" title="rtflann::KDTreeSingleIndex\lParams" alt="" coords="167,216,348,255"/>
+<area shape="rect" id="node7" href="$structrtflann_1_1_k_means_index_params.html" title="rtflann::KMeansIndexParams" alt="" coords="161,279,354,304"/>
+<area shape="rect" id="node8" href="$structrtflann_1_1_linear_index_params.html" title="rtflann::LinearIndexParams" alt="" coords="167,328,348,353"/>
+<area shape="rect" id="node9" href="$structrtflann_1_1_lsh_index_params.html" title="rtflann::LshIndexParams" alt="" coords="174,377,340,403"/>
+<area shape="rect" id="node10" href="$structrtflann_1_1_saved_index_params.html" title="rtflann::SavedIndexParams" alt="" coords="166,427,348,452"/>
+</map>

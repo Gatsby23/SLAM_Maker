@@ -1,0 +1,6 @@
+<map id="rtabmap::Signature::compareTo" name="rtabmap::Signature::compareTo">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_signature.html#a88157e5e6d88adab6823bb99067c96c7" title="rtabmap::Signature\l::getWords" alt="" coords="213,5,348,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_signature.html#a693874de0d6ede4fe5c5d43d6f4d8b55" title="rtabmap::Signature\l::isBadSignature" alt="" coords="213,68,348,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_signature.html#ac2d1526d87df9ff5d4885b16c460ebcf" title="rtabmap::Signature\l::getInvalidWordsCount" alt="" coords="201,131,360,169"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_epipolar_geometry.html#a73e2a423262b339d61ff820fd87da3c7" title="rtabmap::EpipolarGeometry\l::findPairs" alt="" coords="188,193,373,232"/>
+</map>

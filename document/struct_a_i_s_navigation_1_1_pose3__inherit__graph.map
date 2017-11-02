@@ -1,0 +1,4 @@
+<map id="AISNavigation::Pose3&lt; T &gt;" name="AISNavigation::Pose3&lt; T &gt;">
+<area shape="rect" id="node2" href="$struct_d_vector.html" title="{DVector\&lt; T \&gt;\n|# elems\l# size\l# shares\l|+ DVector()\l+ DVector()\l+ ~DVector()\l+ operator=()\l+ operator[]()\l+ operator[]()\l+ operator*()\l+ operator*()\l+ operator+()\l+ operator&#45;()\l+ dim()\l+ detach()\l+ I()\l}" alt="" coords="49,327,148,587"/>
+<area shape="rect" id="node3" href="$struct_d_vector.html" title="{DVector\&lt; X \&gt;\n|# elems\l# size\l# shares\l|+ DVector()\l+ ~DVector()\l+ DVector()\l+ operator=()\l+ operator[]()\l+ operator[]()\l+ operator*()\l+ operator+()\l+ operator&#45;()\l+ operator*()\l+ dim()\l+ detach()\l+ I()\l}" alt="" coords="48,5,149,265"/>
+</map>

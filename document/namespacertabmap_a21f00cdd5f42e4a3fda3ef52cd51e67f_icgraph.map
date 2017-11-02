@@ -1,0 +1,17 @@
+<map id="rtabmap::compressData2" name="rtabmap::compressData2">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_compression_thread.html#aa175acf55d1635bf5840de37e37fef2f" title="rtabmap::CompressionThread\l::mainLoop" alt="" coords="239,5,437,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#ac297ed97d83b520f8ab05cd519c4ac23" title="rtabmap::DBDriverSqlite3\l::loadNodeDataQuery" alt="" coords="252,68,424,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#ad315f8d4ca53cc7214774c568e9c1a9e" title="rtabmap::DBDriverSqlite3\l::saveOptimizedMeshQuery" alt="" coords="245,131,431,169"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_memory.html#ae57c1e215b5449431b93588dd4217703" title="rtabmap::Memory::createSignature" alt="" coords="224,193,452,219"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_rtabmap.html#ad7f085b6ae0fd3c7077c500c028fd5c3" title="Main loop of rtabmap. " alt="" coords="245,243,431,268"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_sensor_data.html#a1bfe55357c1faddf33cbf4f4190d4e5e" title="rtabmap::SensorData\l::setUserData" alt="" coords="264,344,412,383"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="516,144,690,169"/>
+<area shape="rect" id="node8" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="509,193,698,219"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_rtabmap.html#a35cf8fd93f77d1c148ae6d3107725750" title="rtabmap::Rtabmap::process" alt="" coords="510,243,696,268"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_rtabmap_thread.html#a921bb6c18683103d08270a7e665d89dc" title="rtabmap::RtabmapThread\l::process" alt="" coords="775,289,949,328"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="1282,344,1456,383"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_d_b_reader.html#a5a5d740647fb80267ce94c99a9bdd68b" title="rtabmap::DBReader::\lcaptureImage" alt="" coords="530,344,677,383"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_memory.html#aff18f08be0a7951f508276e341759f5c" title="rtabmap::Memory::setUserData" alt="" coords="500,407,707,432"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_rtabmap.html#a037ddb5d737e0466d7610b88d8429bd6" title="rtabmap::Rtabmap::setUserData" alt="" coords="755,401,968,427"/>
+<area shape="rect" id="node16" href="$classrtabmap_1_1_rtabmap.html#ab797f7f5bb73a507ba4d4672cd5476df" title="rtabmap::Rtabmap::computePath" alt="" coords="1016,401,1234,427"/>
+</map>

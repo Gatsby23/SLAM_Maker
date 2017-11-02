@@ -1,0 +1,29 @@
+<map id="sqlite3SrcListDup" name="sqlite3SrcListDup">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a205de2c51c313b43acb81d72e3373032" title="sqlite3DbMallocRaw" alt="" coords="1002,483,1144,508"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#a0ec4772ee6de7316ecd1e6cabb1beeef" title="sqlite3DbStrDup" alt="" coords="820,356,939,382"/>
+<area shape="rect" id="node16" href="$sqlite3_8c.html#af8a7f75590dced000c27784d90b57b87" title="sqlite3SelectDup" alt="" coords="178,306,300,331"/>
+<area shape="rect" id="node22" href="$sqlite3_8c.html#a509095508224c9f99698d86205234209" title="sqlite3ExprDup" alt="" coords="348,255,460,280"/>
+<area shape="rect" id="node28" href="$sqlite3_8c.html#ac93854367d6e355c60ac6f40f3fe69a1" title="sqlite3IdListDup" alt="" coords="635,407,752,432"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="1917,230,2053,255"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#afeb0b42dca534c9607d5138c79e3fd7e" title="sqlite3Malloc" alt="" coords="1197,556,1295,582"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="1718,530,1859,555"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ab070d5cf8e48ec8a6a43cf025d48598b" title="mallocWithAlarm" alt="" coords="1356,380,1478,406"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="1717,604,1860,630"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#afec7586c01fcb5ea17dc9d7725a589d9" title="sqlite3StatusSet" alt="" coords="1544,331,1661,356"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a30b8ac296c6e200c1fa57708d52c6ef6" title="sqlite3StatusValue" alt="" coords="1723,331,1854,356"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ada66988e8471d1198f3219c062377508" title="sqlite3MallocAlarm" alt="" coords="1536,380,1669,406"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="1540,479,1665,504"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="1542,430,1663,455"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a83967c837c1c000d3b5adcfaa688f5dc" title="sqlite3_mutex_notheld" alt="" coords="1908,604,2063,630"/>
+<area shape="rect" id="node15" href="$sqlite3_8c.html#a3dcd80ba41f1a308193dee74857b62a7" title="sqlite3Strlen30" alt="" coords="1018,103,1127,128"/>
+<area shape="rect" id="node17" href="$sqlite3_8c.html#abfb0903f2fc516fcceec37b3489d528c" title="sqlite3ExprListDup" alt="" coords="627,306,760,331"/>
+<area shape="rect" id="node18" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="1194,192,1298,218"/>
+<area shape="rect" id="node19" href="$sqlite3_8c.html#aa397e5a8a03495203a0767abf0a71f86" title="sqlite3DbMallocSize" alt="" coords="1346,78,1488,103"/>
+<area shape="rect" id="node20" href="$sqlite3_8c.html#a770fa05ff9717b75e16f4d968a77b897" title="isLookaside" alt="" coords="1556,128,1648,154"/>
+<area shape="rect" id="node21" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="1372,479,1462,504"/>
+<area shape="rect" id="node23" href="$sqlite3_8c.html#a89f473c64253ae0a76749f543466a05a" title="exprDup" alt="" coords="508,204,579,230"/>
+<area shape="rect" id="node24" href="$sqlite3_8c.html#a9c79c04ad08e45cf19c143c6de3b634c" title="dupedExprSize" alt="" coords="638,52,749,78"/>
+<area shape="rect" id="node25" href="$sqlite3_8c.html#ad2b8ec81910e74d2a6a73250a7d82801" title="dupedExprNodeSize" alt="" coords="808,103,951,128"/>
+<area shape="rect" id="node26" href="$sqlite3_8c.html#ac6b4cf7bb7f9249aa2e5d311fe2e4998" title="dupedExprStructSize" alt="" coords="999,152,1146,178"/>
+<area shape="rect" id="node27" href="$sqlite3_8c.html#a8fe8a668c35e1c51cb67ab0e991f484e" title="exprStructSize" alt="" coords="640,204,748,230"/>
+</map>

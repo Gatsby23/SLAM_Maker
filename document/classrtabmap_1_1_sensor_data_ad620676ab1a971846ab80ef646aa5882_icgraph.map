@@ -1,0 +1,7 @@
+<map id="rtabmap::SensorData::isValid" name="rtabmap::SensorData::isValid">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_odometry_f2_f.html#a6d49a1960e7e0d9a4459cfaad2e8fdc6" title="rtabmap::OdometryF2F\l::computeTransform" alt="" coords="219,5,378,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_odometry_f2_m.html#a1203f3e1f595154b758a225a2e4d8d91" title="rtabmap::OdometryF2M\l::computeTransform" alt="" coords="217,68,380,107"/>
+<area shape="rect" id="node4" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="204,131,393,156"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_registration_icp.html#a08cb2eda291112236ddf17053a04f782" title="rtabmap::RegistrationIcp\l::computeTransformationImpl" alt="" coords="201,180,396,219"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_registration_vis.html#ad58a6cdcc37eb85639f50da6089f0e32" title="rtabmap::RegistrationVis\l::computeTransformationImpl" alt="" coords="201,243,396,281"/>
+</map>

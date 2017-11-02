@@ -1,0 +1,4 @@
+<map id="rtabmap::util3d::occupancy2DFromGroundObstacles" name="rtabmap::util3d::occupancy2DFromGroundObstacles">
+<area shape="rect" id="node2" href="$namespacertabmap_1_1util3d.html#a3bdae076cc5054f35393b744f478b980" title="rtabmap::util3d::project\lCloudOnXYPlane" alt="" coords="246,5,402,44"/>
+<area shape="rect" id="node3" href="$namespacertabmap_1_1util3d.html#ab38b385224260f7d29e7cca5da02bf5f" title="rtabmap::util3d::voxelize" alt="" coords="241,68,407,93"/>
+</map>

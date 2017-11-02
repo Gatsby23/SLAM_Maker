@@ -1,0 +1,5 @@
+<map id="AISNavigation::Transformation3::toPoseType" name="AISNavigation::Transformation3::toPoseType">
+<area shape="rect" id="node2" href="$struct_a_i_s_navigation_1_1_tree_pose_graph3.html#abf81aac8beaa434799afde5311e15551" title="AISNavigation::TreePoseGraph3\l::initializeFromParentEdge" alt="" coords="263,5,478,44"/>
+<area shape="rect" id="node3" href="$struct_a_i_s_navigation_1_1_tree_pose_graph3.html#abfc006b781543061b1a41e48f93d607d" title="AISNavigation::TreePoseGraph3\l::collapseEdge" alt="" coords="263,68,478,107"/>
+<area shape="rect" id="node4" href="$struct_a_i_s_navigation_1_1_tree_optimizer3.html#aad29fc85b9bd54c61ede2bf774db70cf" title="AISNavigation::TreeOptimizer3\l::error" alt="" coords="268,131,473,169"/>
+</map>

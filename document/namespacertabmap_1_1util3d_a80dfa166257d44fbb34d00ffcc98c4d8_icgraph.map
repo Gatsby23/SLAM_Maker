@@ -1,0 +1,4 @@
+<map id="rtabmap::util3d::concatenate" name="rtabmap::util3d::concatenate">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_occupancy_grid.html#ab4d219667665870613e09ad52ae239f5" title="rtabmap::OccupancyGrid\l::segmentCloud" alt="" coords="243,5,412,44"/>
+<area shape="rect" id="node3" href="$namespacertabmap_1_1util3d.html#aed38eb3e280cd8b44372bf1ebc1beb28" title="rtabmap::util3d::segment\lObstaclesFromGround" alt="" coords="244,68,412,107"/>
+</map>

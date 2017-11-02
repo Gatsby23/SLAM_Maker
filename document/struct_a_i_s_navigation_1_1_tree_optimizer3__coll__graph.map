@@ -1,0 +1,9 @@
+<map id="AISNavigation::TreeOptimizer3" name="AISNavigation::TreeOptimizer3">
+<area shape="rect" id="node2" href="$struct_a_i_s_navigation_1_1_tree_pose_graph3.html" title="The class (struct) that contains 2D graph related functions such as loading, saving, merging, etc. " alt="" coords="278,1079,493,1299"/>
+<area shape="rect" id="node3" href="$struct_a_i_s_navigation_1_1_tree_pose_graph.html" title="{AISNavigation::TreePoseGraph\l\&lt; Operations3D\&lt; double \&gt; \&gt;\n|+ vertices\l+ edges\l+ sortedEdges\l|+ vertex()\l+ vertex()\l+ edge()\l+ edge()\l+ addVertex()\l+ removeVertex()\l+ addEdge()\l+ removeEdge()\l+ addIncrementalEdge()\l+ affectedEdges()\land 19 more...\l# fillEdgeInfo()\l# fillEdgesInfo()\l}" alt="" coords="282,756,489,1029"/>
+<area shape="rect" id="node4" href="$struct_a_i_s_navigation_1_1_tree_pose_graph_1_1_vertex.html" title="Definition of a vertex in the graph based on the template input from Ops. " alt="" coords="73,153,280,333"/>
+<area shape="rect" id="node5" href="$struct_a_i_s_navigation_1_1_tree_pose_graph_1_1_edge.html" title="Definition of an edge in the graph based on the template input from Ops. " alt="" coords="90,488,297,628"/>
+<area shape="rect" id="node8" href="$struct_a_i_s_navigation_1_1_tree_pose_graph.html" title="The template class for representing an abstract tree without specifing the dimensionality of the exac..." alt="" coords="322,421,529,695"/>
+<area shape="rect" id="node6" href="$struct_a_i_s_navigation_1_1_e_v_comparator.html" title="{AISNavigation::EVComparator\l\&lt; Edge * \&gt;\n|+ mode\l|+ EVComparator()\l+ operator()()\l}" alt="" coords="433,193,634,293"/>
+<area shape="rect" id="node7" href="$struct_a_i_s_navigation_1_1_e_v_comparator.html" title="A comparator class (struct) that compares the level of two vertices if edges. " alt="" coords="417,5,650,92"/>
+</map>

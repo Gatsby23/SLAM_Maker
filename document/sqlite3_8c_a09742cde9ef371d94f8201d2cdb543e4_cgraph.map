@@ -1,0 +1,30 @@
+<map id="sqlite3NoopMutex" name="sqlite3NoopMutex">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a5b7e628d764b9fa21cf60efa4f007b9c" title="noopMutexInit" alt="" coords="198,5,303,31"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a0f0c029ce49c2f6c8a10487686cd4c44" title="noopMutexEnd" alt="" coords="195,55,306,80"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a19cab979a9c93ac871637110a1a0346a" title="noopMutexAlloc" alt="" coords="193,104,309,129"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ac9f0fbd482a75bc7508626f508f7a222" title="noopMutexFree" alt="" coords="193,153,308,179"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#afd4250b184c2dc7f7ffddc073dc62415" title="noopMutexEnter" alt="" coords="191,203,310,228"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a6cc5bf7bc4f4c4890d11321332080ce6" title="noopMutexTry" alt="" coords="198,252,304,277"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#abbb054fbbcb2239be190b65ee35bcc5a" title="noopMutexLeave" alt="" coords="189,301,312,327"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#afeb0b42dca534c9607d5138c79e3fd7e" title="sqlite3Malloc" alt="" coords="733,731,832,756"/>
+<area shape="rect" id="node20" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="895,504,986,529"/>
+<area shape="rect" id="node21" href="$sqlite3_8c.html#ac895a71e325f9b2f9b862f737c17aca8" title="sqlite3DefaultMutex" alt="" coords="181,580,320,605"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="1231,579,1372,604"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#ab070d5cf8e48ec8a6a43cf025d48598b" title="mallocWithAlarm" alt="" coords="880,429,1001,455"/>
+<area shape="rect" id="node16" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="1230,653,1373,679"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="1430,455,1567,480"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#afec7586c01fcb5ea17dc9d7725a589d9" title="sqlite3StatusSet" alt="" coords="1057,429,1174,455"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#a30b8ac296c6e200c1fa57708d52c6ef6" title="sqlite3StatusValue" alt="" coords="1236,355,1367,380"/>
+<area shape="rect" id="node15" href="$sqlite3_8c.html#ada66988e8471d1198f3219c062377508" title="sqlite3MallocAlarm" alt="" coords="1049,380,1182,405"/>
+<area shape="rect" id="node18" href="$sqlite3_8c.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="1053,528,1178,553"/>
+<area shape="rect" id="node19" href="$sqlite3_8c.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="1055,479,1176,504"/>
+<area shape="rect" id="node17" href="$sqlite3_8c.html#a83967c837c1c000d3b5adcfaa688f5dc" title="sqlite3_mutex_notheld" alt="" coords="1421,653,1576,679"/>
+<area shape="rect" id="node22" href="$sqlite3_8c.html#a9b56fdbde7f0727defee410d73c40016" title="pthreadMutexInit" alt="" coords="377,653,498,679"/>
+<area shape="rect" id="node23" href="$sqlite3_8c.html#afcfa342e4b8a9b4debd150577fa7dd8d" title="pthreadMutexEnd" alt="" coords="374,703,501,728"/>
+<area shape="rect" id="node24" href="$sqlite3_8c.html#a42290854458de8191cc8762a838e3092" title="pthreadMutexAlloc" alt="" coords="372,804,503,829"/>
+<area shape="rect" id="node25" href="$sqlite3_8c.html#a78c0d5d5dbb919de1617dff7f7fa4c44" title="sqlite3MallocZero" alt="" coords="557,753,683,779"/>
+<area shape="rect" id="node26" href="$sqlite3_8c.html#ac2abf0acf925b9e3feecb4c0f3e10003" title="pthreadMutexFree" alt="" coords="555,504,685,529"/>
+<area shape="rect" id="node27" href="$sqlite3_8c.html#a16e99241f37f67ad7659d347dedc6eba" title="pthreadMutexEnter" alt="" coords="370,453,505,479"/>
+<area shape="rect" id="node28" href="$sqlite3_8c.html#a3179009778d803b8bbdfbcdcb8b9e0c5" title="pthreadMutexTry" alt="" coords="377,555,498,580"/>
+<area shape="rect" id="node29" href="$sqlite3_8c.html#aff5e74cc87a074eb386c1049425b7595" title="pthreadMutexLeave" alt="" coords="368,604,507,629"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="rtabmap::DBDriverSqlite3::saveOptimizedMeshQuery" name="rtabmap::DBDriverSqlite3::saveOptimizedMeshQuery">
+<area shape="rect" id="node2" href="$namespacertabmap.html#a21f00cdd5f42e4a3fda3ef52cd51e67f" title="rtabmap::compressData2" alt="" coords="244,5,415,31"/>
+<area shape="rect" id="node3" href="$namespacertabmap.html#ae3c8d0d3a557060936f01411458ea4d7" title="rtabmap::compressImage2" alt="" coords="239,55,419,80"/>
+<area shape="rect" id="node4" href="$namespacertabmap.html#a1af8a9964583e140c5ecd21ce932ae7b" title="rtabmap::compressImage" alt="" coords="467,55,640,80"/>
+</map>

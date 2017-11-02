@@ -1,0 +1,35 @@
+<map id="eigen_extensions::deserialize" name="eigen_extensions::deserialize">
+<area shape="rect" id="node2" href="$classclams_1_1_discrete_depth_distortion_model.html#aa1a9f4c01f0031aa0acc5498f20f565d" title="clams::DiscreteDepthDistortion\lModel::DiscreteDepthDistortionModel" alt="" coords="250,272,492,311"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_parameters.html#adfa3b09df85c4e6383bb2d99d0073e88" title="rtabmap::Parameters\l::getDefaultParameters" alt="" coords="291,335,450,373"/>
+<area shape="rect" id="node31" href="$classclams_1_1_discrete_frustum.html#aa2510cdd44a30f832dc187983f9ae907" title="clams::DiscreteFrustum\l::deserialize" alt="" coords="290,397,451,436"/>
+<area shape="rect" id="node32" href="$namespaceeigen__extensions.html#a525f42b00950d4d26b3f6deac8ed61b0" title="eigen_extensions::stdev" alt="" coords="288,548,453,573"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_memory.html#a0ca2455a6afa82dfecfdcfdc02299b52" title="rtabmap::Memory::loadData\lFromDb" alt="" coords="555,228,742,267"/>
+<area shape="rect" id="node16" href="$classrtabmap_1_1_rtabmap.html#a5e0b2eada8ae885e45df23165bb91d2f" title="rtabmap::Rtabmap::close" alt="" coords="1401,288,1571,313"/>
+<area shape="rect" id="node20" href="$classrtabmap_1_1_memory.html#a79ab905482abdba2bf0f88fafe9f219b" title="rtabmap::Memory::clear" alt="" coords="567,291,729,316"/>
+<area shape="rect" id="node23" href="$classrtabmap_1_1_odometry_fovis.html#a68bef2dd5b9e29de8fc6b4df67e6556a" title="rtabmap::OdometryFovis\l::computeTransform" alt="" coords="564,443,732,481"/>
+<area shape="rect" id="node24" href="$classrtabmap_1_1_parameters.html#a19fb27cb7c9311cf479ae54c65253e2a" title="rtabmap::Parameters\l::deserialize" alt="" coords="575,505,722,544"/>
+<area shape="rect" id="node26" href="$classrtabmap_1_1_parameters.html#a53c0f650f40caee677a6c544d998f3e0" title="rtabmap::Parameters\l::getDefaultOdometryParameters" alt="" coords="540,568,757,607"/>
+<area shape="rect" id="node27" href="$classrtabmap_1_1_parameters.html#ab5bb39fd4a74b211217c2354ee6136ab" title="rtabmap::Parameters\l::getDefaultParameters" alt="" coords="569,40,727,79"/>
+<area shape="rect" id="node28" href="$classrtabmap_1_1_parameters.html#a4a5099e290f68fcfc53d17426cd05e91" title="rtabmap::Parameters\l::parseArguments" alt="" coords="575,103,722,141"/>
+<area shape="rect" id="node29" href="$classrtabmap_1_1_parameters.html#a077bc1c996d96799b5735b22f70925a9" title="rtabmap::Parameters\l::readINI" alt="" coords="849,397,996,436"/>
+<area shape="rect" id="node30" href="$classrtabmap_1_1_registration_vis.html#aa845f7fbbfc8fc340dba96a2a6550d03" title="rtabmap::RegistrationVis\l::RegistrationVis" alt="" coords="565,165,732,204"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_memory.html#aeeabc78648bf7dc14ea1356828cdeddd" title="rtabmap::Memory::init" alt="" coords="1134,92,1284,117"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_memory.html#a72f6c18390f9cae3bc605912ce56a7cb" title="rtabmap::Memory::parseParameters" alt="" coords="805,193,1040,219"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_odometry_mono.html#a70291ffff0cad044bf74dfdd0254d2d1" title="rtabmap::OdometryMono\l::OdometryMono" alt="" coords="1401,5,1571,44"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_odometry_mono.html#a94a2a76070fead26339132d207045ab7" title="rtabmap::OdometryMono\l::reset" alt="" coords="1401,68,1571,107"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_rtabmap.html#ae681073a3089c235b4b615c823af646e" title="rtabmap::Rtabmap::init" alt="" coords="1408,232,1564,257"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_rtabmap.html#af12ae46226f33adf8c4cafbe1bcf544c" title="rtabmap::Rtabmap::resetMemory" alt="" coords="1378,131,1595,156"/>
+<area shape="rect" id="node9" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="1643,232,1831,257"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_rtabmap.html#ace677b762b97392bd49ae4c535280541" title="rtabmap::Rtabmap::init" alt="" coords="1659,407,1815,432"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="1650,169,1824,208"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_memory.html#a24d451cdf46a9cc04cce995142a101d4" title="rtabmap::Memory::Memory" alt="" coords="1118,141,1300,167"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_rtabmap.html#a5a461ed88e83d2dbebee819ab6690e7a" title="rtabmap::Rtabmap::parseParameters" alt="" coords="1088,191,1330,216"/>
+<area shape="rect" id="node17" href="$classrtabmap_1_1_rtabmap.html#a0a1857e1aaa78ef772140c42b8749f56" title="rtabmap::Rtabmap::\l~Rtabmap" alt="" coords="1667,344,1807,383"/>
+<area shape="rect" id="node18" href="$classrtabmap_1_1_rtabmap_thread.html#aabea5cf86e55d6669d41b0b569dac574" title="rtabmap::RtabmapThread\l::close" alt="" coords="1650,281,1824,320"/>
+<area shape="rect" id="node19" href="$classrtabmap_1_1_rtabmap_thread.html#acf08fe27f94f6bf512abc35080063b8a" title="rtabmap::RtabmapThread\l::~RtabmapThread" alt="" coords="1879,281,2053,320"/>
+<area shape="rect" id="node21" href="$classrtabmap_1_1_memory.html#a44023158524dee3471a8dff43ea132db" title="rtabmap::Memory::close" alt="" coords="840,291,1005,316"/>
+<area shape="rect" id="node22" href="$classrtabmap_1_1_memory.html#a5fc24069a0ac8befc35b8bf4a4b6a638" title="rtabmap::Memory::~Memory" alt="" coords="1114,240,1304,265"/>
+<area shape="rect" id="node25" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#a3f8e313fcd6e6bb443297505beccf9d3" title="rtabmap::DBDriverSqlite3\l::getLastParametersQuery" alt="" coords="834,505,1011,544"/>
+<area shape="rect" id="node33" href="$classclams_1_1_frame_projector.html#a26c74a7a7f6f6e9c2e18d6a38693699c" title="clams::FrameProjector\l::estimateMapDepth" alt="" coords="571,631,726,669"/>
+<area shape="rect" id="node34" href="$namespaceclams.html#adb312d785289d27adebfb7ae047ae5fa" title="clams::calibrate" alt="" coords="865,637,979,663"/>
+</map>

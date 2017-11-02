@@ -1,0 +1,6 @@
+<map id="corelib/include/rtabmap/core/Stereo.h" name="corelib/include/rtabmap/core/Stereo.h">
+<area shape="rect" id="node2" href="$_features2d_8cpp.html" title="corelib/src/Features2d.cpp" alt="" coords="5,92,184,117"/>
+<area shape="rect" id="node3" href="$_memory_8cpp.html" title="corelib/src/Memory.cpp" alt="" coords="207,92,366,117"/>
+<area shape="rect" id="node4" href="$_odometry_mono_8cpp.html" title="corelib/src/OdometryMono.cpp" alt="" coords="389,92,592,117"/>
+<area shape="rect" id="node5" href="$_stereo_8cpp.html" title="corelib/src/Stereo.cpp" alt="" coords="615,92,766,117"/>
+</map>

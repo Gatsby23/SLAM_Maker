@@ -1,0 +1,16 @@
+<map id="rtabmap::SensorData::depthOrRightRaw" name="rtabmap::SensorData::depthOrRightRaw">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera_thread.html#aba9e3775217a8bd7e10fcd3e5710b655" title="rtabmap::CameraThread\l::postUpdate" alt="" coords="222,5,389,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_d_b_reader.html#a9a6ac02201ae0881dff8992d9f31beff" title="rtabmap::DBReader::\lgetNextData" alt="" coords="232,68,379,107"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_feature2_d.html#ae01a548fe993a7aa309cce96645693ce" title="rtabmap::Feature2D\l::generateKeypoints3D" alt="" coords="227,131,384,169"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_memory.html#ae57c1e215b5449431b93588dd4217703" title="rtabmap::Memory::createSignature" alt="" coords="458,167,686,192"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_odometry.html#a4fcbe67de2ec6f23829e3962ee586315" title="rtabmap::Odometry::\lprocess" alt="" coords="234,245,378,284"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_odometry_d_v_o.html#ab84990bb90e148fca21920d6b54e0c67" title="rtabmap::OdometryDVO\l::computeTransform" alt="" coords="223,308,388,347"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_odometry_fovis.html#a68bef2dd5b9e29de8fc6b4df67e6556a" title="rtabmap::OdometryFovis\l::computeTransform" alt="" coords="222,371,390,409"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_odometry_mono.html#af59c2d45e7a683f8cd3dfc22def75733" title="rtabmap::OdometryMono\l::computeTransform" alt="" coords="221,433,391,472"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_odometry_o_r_b_s_l_a_m2.html#a1a1eca1abba86deb42eb35835d539ea1" title="rtabmap::OdometryORBSLAM2\l::computeTransform" alt="" coords="201,496,410,535"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_odometry_thread.html#a772324b7eb77b26fce3cfc26edfbebc4" title="rtabmap::OdometryThread\l::addData" alt="" coords="217,559,395,597"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera_thread.html#a4e4f475ed37c6696b303c3437d127682" title="rtabmap::CameraThread\l::mainLoop" alt="" coords="488,5,656,44"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_d_b_reader.html#a5a5d740647fb80267ce94c99a9bdd68b" title="rtabmap::DBReader::\lcaptureImage" alt="" coords="498,68,646,107"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="734,167,908,192"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_odometry_thread.html#a27c256ad489ef650279d444336765463" title="rtabmap::OdometryThread\l::handleEvent" alt="" coords="483,559,661,597"/>
+</map>

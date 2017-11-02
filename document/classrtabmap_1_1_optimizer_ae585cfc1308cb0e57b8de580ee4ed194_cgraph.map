@@ -1,0 +1,9 @@
+<map id="rtabmap::Optimizer::optimizeBA" name="rtabmap::Optimizer::optimizeBA">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_link.html#a185194e8e766ca979e4de7e179f0e534" title="rtabmap::Link::from" alt="" coords="203,5,339,31"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_transform.html#aefc8f052315cb4ba1116ff8fc8297306" title="rtabmap::Transform\l::getIdentity" alt="" coords="202,55,340,93"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_link.html#a8d534b311c37d789276dd58bd7dc89e4" title="rtabmap::Link::to" alt="" coords="211,117,331,143"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_link.html#a5d5d54b7f3363d13c3ad44acf7e470db" title="rtabmap::Link::transform" alt="" coords="188,167,354,192"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_optimizer.html#a930e3b35ed23be2ac58723d21ca710ce" title="rtabmap::Optimizer\l::optimizeBA" alt="" coords="204,216,338,255"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_transform.html#ac3654d3f6802d4b0c17b6110d1eda71a" title="rtabmap::Transform\l::Transform" alt="" coords="402,55,540,93"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_optimizer.html#aa2be82e1f986b1beae103148be7cd520" title="rtabmap::Optimizer\l::type" alt="" coords="403,216,538,255"/>
+</map>

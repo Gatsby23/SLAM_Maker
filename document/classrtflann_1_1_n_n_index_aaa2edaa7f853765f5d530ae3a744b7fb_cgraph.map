@@ -1,0 +1,5 @@
+<map id="rtflann::NNIndex::serialize" name="rtflann::NNIndex::serialize">
+<area shape="rect" id="node2" href="$classrtflann_1_1_index_base.html#aa9bf8c025fe5996b0bbc7931738ddb2d" title="rtflann::IndexBase\l::getType" alt="" coords="237,5,366,44"/>
+<area shape="rect" id="node3" href="$namespacertflann.html#a4f5df2bae39cf8ffbae878d0423208d3" title="rtflann::get_param" alt="" coords="237,68,366,93"/>
+<area shape="rect" id="node4" href="$namespacertflann_1_1serialization.html#a66a1d5d3c21c05318b0fb650ba68a396" title="rtflann::serialization\l::make_binary_object" alt="" coords="227,117,375,156"/>
+</map>

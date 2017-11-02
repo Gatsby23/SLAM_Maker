@@ -1,0 +1,4 @@
+<map id="rtabmap::Optimizer::isRobust" name="rtabmap::Optimizer::isRobust">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_optimizer_g2_o.html#af68e8c20e465e38c1d65d0989b022674" title="rtabmap::OptimizerG2O\l::optimize" alt="" coords="198,5,361,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_optimizer_g_t_s_a_m.html#af701c155931927adc305d80cc761f541" title="rtabmap::OptimizerGTSAM\l::optimize" alt="" coords="188,68,370,107"/>
+</map>

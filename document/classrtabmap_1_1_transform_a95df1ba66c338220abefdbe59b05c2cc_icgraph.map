@@ -1,0 +1,7 @@
+<map id="rtabmap::Transform::fromEigen3d" name="rtabmap::Transform::fromEigen3d">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_odometry_d_v_o.html#ab84990bb90e148fca21920d6b54e0c67" title="rtabmap::OdometryDVO\l::computeTransform" alt="" coords="206,5,371,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_odometry_fovis.html#a68bef2dd5b9e29de8fc6b4df67e6556a" title="rtabmap::OdometryFovis\l::computeTransform" alt="" coords="204,68,372,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_optimizer_g2_o.html#af68e8c20e465e38c1d65d0989b022674" title="rtabmap::OptimizerG2O\l::optimize" alt="" coords="207,131,370,169"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_optimizer_g2_o.html#a8d4fee036e22a8b02a6e71bb09a57d9a" title="rtabmap::OptimizerG2O\l::optimizeBA" alt="" coords="207,193,370,232"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_registration_icp.html#a08cb2eda291112236ddf17053a04f782" title="rtabmap::RegistrationIcp\l::computeTransformationImpl" alt="" coords="191,256,385,295"/>
+</map>

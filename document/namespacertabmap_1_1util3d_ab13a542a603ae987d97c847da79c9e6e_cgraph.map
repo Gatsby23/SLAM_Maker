@@ -1,0 +1,8 @@
+<map id="rtabmap::util3d::organizedFastMesh" name="rtabmap::util3d::organizedFastMesh">
+<area shape="rect" id="node2" href="$classpcl_1_1_organized_fast_mesh.html#a745e7170a11c9860dd8920e8d212db07" title="Set the edge length (in pixels) used for constructing the fixed mesh. " alt="" coords="229,36,395,75"/>
+<area shape="rect" id="node5" href="$classpcl_1_1_organized_fast_mesh.html#a6ed920ebda18de0896470da943bc7cc5" title="Set the triangulation type (see TriangulationType) " alt="" coords="229,99,395,137"/>
+<area shape="rect" id="node6" href="$classpcl_1_1_organized_fast_mesh.html#ac2420fca246de67861071dadf39d7e63" title="Set the angle tolerance used for checking whether or not an edge is occluded. Standard values are 5de..." alt="" coords="229,161,395,200"/>
+<area shape="rect" id="node7" href="$classpcl_1_1_organized_fast_mesh.html#a574d4db8bcd96173c6b48eb7bc49ad4f" title="Set the viewpoint from where the input point cloud has been acquired. " alt="" coords="229,224,395,263"/>
+<area shape="rect" id="node3" href="$classpcl_1_1_organized_fast_mesh.html#a8c9540f2e18be8d72d6fb11d912bd22c" title="Set the edge length (in pixels) used for iterating over rows when constructing the fixed mesh..." alt="" coords="452,5,635,44"/>
+<area shape="rect" id="node4" href="$classpcl_1_1_organized_fast_mesh.html#ab8fa19a842373ed2732360c02344d584" title="Set the edge length (in pixels) used for iterating over columns when constructing the fixed mesh..." alt="" coords="443,68,644,107"/>
+</map>

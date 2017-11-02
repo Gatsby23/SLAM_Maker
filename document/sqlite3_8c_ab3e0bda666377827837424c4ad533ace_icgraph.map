@@ -1,0 +1,9 @@
+<map id="whereOrName" name="whereOrName">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a37258f841843e967585d277711322659" title="whereForeignKeys" alt="" coords="351,5,484,31"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a40e4a7245d888167b53b1de07fa6d217" title="whereTempTriggers" alt="" coords="161,56,300,81"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aa5cfdb507ff74e559f2efb0318c96d2c" title="sqlite3AlterRenameTable" alt="" coords="547,57,716,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a7c419a9b25711c666a9a2449ef377f14" title="yy_reduce" alt="" coords="776,83,859,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a0327d71a5fabe0b6a343d78a2602e72a" title="sqlite3Parser" alt="" coords="907,83,1006,108"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#aec12bc2a95741e915fbe82b98fb1f8c6" title="reloadTableSchema" alt="" coords="348,107,487,132"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a392e1e5be904b01216faae16a77c2c31" title="sqlite3AlterFinishAddColumn" alt="" coords="535,107,728,132"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="rtabmap::OptimizerTORO" name="rtabmap::OptimizerTORO">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_optimizer.html" title="{rtabmap::Optimizer\n|&#45; iterations_\l&#45; slam2d_\l&#45; covarianceIgnored_\l&#45; epsilon_\l&#45; robust_\l&#45; priorsIgnored_\l|+ ~Optimizer()\l+ type()\l+ iterations()\l+ isSlam2d()\l+ isCovarianceIgnored()\l+ epsilon()\l+ isRobust()\l+ priorsIgnored()\l+ setIterations()\l+ setSlam2d()\land 10 more...\l+ isAvailable()\l+ create()\l+ create()\l+ getConnectedGraph()\l# Optimizer()\l# Optimizer()\l}" alt="" coords="10,5,174,359"/>
+</map>

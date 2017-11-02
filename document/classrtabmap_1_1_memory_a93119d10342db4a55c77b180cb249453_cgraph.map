@@ -1,0 +1,10 @@
+<map id="rtabmap::Memory::saveLocationData" name="rtabmap::Memory::saveLocationData">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#aecb333268e0858678add037a5a59a719" title="rtabmap::Memory::_getSignature" alt="" coords="293,5,510,31"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_d_b_driver.html#a0ecd6182f404d8e6822b66a54f1d248a" title="rtabmap::DBDriver::\lisInMemory" alt="" coords="332,55,471,93"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_signature.html#a31c6e7b7e720eca20fb5935e0ee1d9f9" title="rtabmap::Signature::id" alt="" coords="558,179,710,204"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_signature.html#a0d15326165e9d01f0b91b247f5da23ea" title="rtabmap::Signature\l::isSaved" alt="" coords="334,169,469,208"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_d_b_driver.html#ad1510e157f3ab8df3284528369a6d88f" title="rtabmap::DBDriver::\lasyncSave" alt="" coords="332,232,471,271"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_signature.html#a02c5d305492e3534e3799b8b7c78d912" title="rtabmap::Signature\l::setSaved" alt="" coords="334,295,469,333"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_signature.html#a522971783852ef45e2de8e592d49a860" title="rtabmap::Signature\l::sensorData" alt="" coords="334,357,469,396"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_sensor_data.html#ae7cf5ae9264f67c7352f7c2f81e6b5e3" title="rtabmap::SensorData\l::clearCompressedData" alt="" coords="321,420,482,459"/>
+</map>

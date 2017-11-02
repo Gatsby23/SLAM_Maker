@@ -1,0 +1,13 @@
+<map id="rtabmap::util3d::createTextureMesh" name="rtabmap::util3d::createTextureMesh">
+<area shape="rect" id="node2" href="$namespacertabmap_1_1util3d.html#a403f5a5c4753a126fbd4bcf51774766b" title="rtabmap::util3d::createTexture\lCameras" alt="" coords="301,5,499,44"/>
+<area shape="rect" id="node3" href="$classpcl_1_1_texture_mapping.html#a333ab76a723b25c74ba70d6cb574cfe7" title="pcl::TextureMapping\l::setMaxDistance" alt="" coords="330,68,471,107"/>
+<area shape="rect" id="node4" href="$classpcl_1_1_texture_mapping.html#aeec6e84a915e70c5545717bda0543ee6" title="pcl::TextureMapping\l::setMaxAngle" alt="" coords="330,131,471,169"/>
+<area shape="rect" id="node5" href="$classpcl_1_1_texture_mapping.html#a20dfeaff745e17e5dbfd99e96a460de0" title="pcl::TextureMapping\l::setMaxDepthError" alt="" coords="330,193,471,232"/>
+<area shape="rect" id="node6" href="$classpcl_1_1_texture_mapping.html#ac4599191cd0d1db03ed5ee7efab4b9af" title="pcl::TextureMapping\l::setMinClusterSize" alt="" coords="330,256,471,295"/>
+<area shape="rect" id="node7" href="$classpcl_1_1_texture_mapping.html#a63887267392df3cc0737d571488f4c55" title="pcl::TextureMapping\l::textureMeshwithMultipleCameras2" alt="" coords="284,319,517,357"/>
+<area shape="rect" id="node8" href="$namespacertabmap_1_1util3d.html#a02a0b1fa0ec856f8a6b8a4c268b45d2d" title="rtabmap::util3d::transform\lPointCloud" alt="" coords="579,235,753,273"/>
+<area shape="rect" id="node10" href="$class_face_info.html#a08e4b65a9477b0a200e2871337efc41b" title="FaceInfo::FaceInfo" alt="" coords="600,297,732,323"/>
+<area shape="rect" id="node11" href="$namespacertabmap_1_1util3d.html#a101686f99bbdbe6289d7675fd6d08995" title="rtabmap::util3d::createPolygon\lIndexes" alt="" coords="565,347,767,385"/>
+<area shape="rect" id="node12" href="$namespacertabmap_1_1util3d.html#a745d42fb144d704eeff336d75cad49cf" title="rtabmap::util3d::cluster\lPolygons" alt="" coords="588,409,744,448"/>
+<area shape="rect" id="node9" href="$namespacertabmap_1_1util3d.html#aa7529a1840dd31f1ef767919bfe98e34" title="rtabmap::util3d::transform\lPointCloud" alt="" coords="815,235,988,273"/>
+</map>

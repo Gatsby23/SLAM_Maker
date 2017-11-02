@@ -1,0 +1,6 @@
+<map id="rtabmap::DBDriverSqlite3::getLaserScanInfoQuery" name="rtabmap::DBDriverSqlite3::getLaserScanInfoQuery">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_transform.html#aefc8f052315cb4ba1116ff8fc8297306" title="rtabmap::Transform\l::getIdentity" alt="" coords="226,5,364,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="226,68,364,107"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_transform.html#a2cdd55b67e206a287e7bf4d248fb5256" title="rtabmap::Transform\l::size" alt="" coords="226,131,364,169"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_transform.html#ac3654d3f6802d4b0c17b6110d1eda71a" title="rtabmap::Transform\l::Transform" alt="" coords="412,5,550,44"/>
+</map>

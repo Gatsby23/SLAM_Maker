@@ -1,0 +1,4 @@
+<map id="rtabmap::Memory::getDatabaseMemoryUsed" name="rtabmap::Memory::getDatabaseMemoryUsed">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_d_b_driver.html#adc33641cc48da5e8157d7ac786599735" title="rtabmap::DBDriver::\lgetMemoryUsed" alt="" coords="262,5,401,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_d_b_driver.html#a283f8c9e8f3bfa3902d913e100f2084c" title="rtabmap::DBDriver::\lgetMemoryUsedQuery" alt="" coords="449,5,605,44"/>
+</map>

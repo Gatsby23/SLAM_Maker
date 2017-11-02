@@ -1,0 +1,3 @@
+<map id="rtabmap::StereoDense" name="rtabmap::StereoDense">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_stereo_b_m.html" title="{rtabmap::StereoBM\n|&#45; blockSize_\l&#45; minDisparity_\l&#45; numDisparities_\l&#45; preFilterSize_\l&#45; preFilterCap_\l&#45; uniquenessRatio_\l&#45; textureThreshold_\l&#45; speckleWindowSize_\l&#45; speckleRange_\l|+ StereoBM()\l+ StereoBM()\l+ ~StereoBM()\l+ parseParameters()\l+ computeDisparity()\l}" alt="" coords="5,167,161,400"/>
+</map>

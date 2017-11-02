@@ -1,0 +1,8 @@
+<map id="rtabmap::Parameters::getRemovedParameters" name="rtabmap::Parameters::getRemovedParameters">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_parameters.html#a19fb27cb7c9311cf479ae54c65253e2a" title="rtabmap::Parameters\l::deserialize" alt="" coords="257,5,404,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_parameters.html#adbd2250c8e60c3405a06de696172de03" title="rtabmap::Parameters\l::getBackwardCompatibilityMap" alt="" coords="227,68,435,107"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_parameters.html#a4a5099e290f68fcfc53d17426cd05e91" title="rtabmap::Parameters\l::parseArguments" alt="" coords="257,131,404,169"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_parameters.html#a077bc1c996d96799b5735b22f70925a9" title="rtabmap::Parameters\l::readINI" alt="" coords="257,193,404,232"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_d_b_driver_sqlite3.html#a3f8e313fcd6e6bb443297505beccf9d3" title="rtabmap::DBDriverSqlite3\l::getLastParametersQuery" alt="" coords="483,5,660,44"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_rtabmap.html#ace677b762b97392bd49ae4c535280541" title="rtabmap::Rtabmap::init" alt="" coords="493,200,650,225"/>
+</map>

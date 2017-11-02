@@ -1,0 +1,5 @@
+<map id="rtabmap::Camera::takeImage" name="rtabmap::Camera::takeImage">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera.html#ab17d15293037fb019d7ed3a444e4e5e4" title="rtabmap::Camera::capture\lImage" alt="" coords="248,5,425,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_sensor_data.html#a84fbcb16e51018d96065d3ce240650c6" title="rtabmap::SensorData::id" alt="" coords="254,68,419,93"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_sensor_data.html#a566e5600bc0369f2f88ff0c597cefcfb" title="rtabmap::SensorData\l::stamp" alt="" coords="263,117,411,156"/>
+</map>

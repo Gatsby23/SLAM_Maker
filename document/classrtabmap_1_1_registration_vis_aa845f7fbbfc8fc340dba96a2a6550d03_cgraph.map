@@ -1,0 +1,12 @@
+<map id="rtabmap::RegistrationVis::RegistrationVis" name="rtabmap::RegistrationVis::RegistrationVis">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_parameters.html#adfa3b09df85c4e6383bb2d99d0073e88" title="rtabmap::Parameters\l::getDefaultParameters" alt="" coords="225,73,383,112"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_registration_vis.html#ace88eb54afc9a8910ae3acdd75b8893d" title="rtabmap::RegistrationVis\l::parseParameters" alt="" coords="220,205,388,244"/>
+<area shape="rect" id="node3" href="$namespaceeigen__extensions.html#affb184635bf060a7aafdfb8e90e1d5f0" title="eigen_extensions::serialize" alt="" coords="443,5,624,31"/>
+<area shape="rect" id="node4" href="$namespaceeigen__extensions.html#ab747a8345f3fbd7bb1b574bf62e689b9" title="eigen_extensions::deserialize" alt="" coords="436,55,632,80"/>
+<area shape="rect" id="node5" href="$namespacertabmap_1_1util3d.html#ab73c725e63cf9e111edc7430883ece1e" title="rtabmap::util3d::icp" alt="" coords="467,104,601,129"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_transform.html#a469b0923be94d2dc2ca8b290f3bfac8c" title="rtabmap::Transform\l::fromEigen4f" alt="" coords="684,97,822,136"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_transform.html#ac3654d3f6802d4b0c17b6110d1eda71a" title="rtabmap::Transform\l::Transform" alt="" coords="874,97,1012,136"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_registration.html#a2693886d5b7dbf4aef787720b85e4b3e" title="rtabmap::Registration\l::parseParameters" alt="" coords="459,177,608,216"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_parameters.html#a74719b1e59dc21efce4db008bfc366ec" title="rtabmap::Parameters\l::parse" alt="" coords="680,205,826,244"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_parameters.html#a4b3d525a14d5d1eb726768cb4bd9906d" title="rtabmap::Parameters\l::isFeatureParameter" alt="" coords="460,292,607,331"/>
+</map>

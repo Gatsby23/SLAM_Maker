@@ -1,0 +1,4 @@
+<map id="rtabmap::util3d::laserScanToPointCloudRGBNormal" name="rtabmap::util3d::laserScanToPointCloudRGBNormal">
+<area shape="rect" id="node2" href="$namespacertabmap_1_1util3d.html#a2a8d178144e90cfbbebaea24e4fee5e6" title="rtabmap::util3d::assemble\lTextureMesh" alt="" coords="230,5,404,44"/>
+<area shape="rect" id="node3" href="$namespacertabmap_1_1util3d.html#ac00c794a655fb4d5b36626b6cbe15a63" title="rtabmap::util3d::assemble\lPolygonMesh" alt="" coords="230,68,404,107"/>
+</map>

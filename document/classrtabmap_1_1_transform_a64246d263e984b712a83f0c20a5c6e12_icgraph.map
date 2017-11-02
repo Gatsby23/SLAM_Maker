@@ -1,0 +1,12 @@
+<map id="rtabmap::Transform::getQuaternionf" name="rtabmap::Transform::getQuaternionf">
+<area shape="rect" id="node2" href="$namespacertabmap_1_1graph.html#aa4b5595ca5c8ce6c48edafdb165e173b" title="rtabmap::graph::exportPoses" alt="" coords="191,75,385,100"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_transform.html#af42b1c945a7fee57a26207fb96b7143d" title="rtabmap::Transform\l::interpolate" alt="" coords="219,131,357,169"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_rtabmap.html#af7fa0cbd1ef027f8bb2af11364487df8" title="rtabmap::Rtabmap::getTime\lThreshold" alt="" coords="436,5,623,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_rtabmap.html#aeffdfc811a178ba2e55205b746a6ea71" title="rtabmap::Rtabmap::export\lPoses" alt="" coords="442,68,618,107"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="675,68,849,107"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_camera_images.html#a8a704e1942921fe4a50abe64fe2ddf82" title="rtabmap::CameraImages\l::readPoses" alt="" coords="445,131,614,169"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_registration_vis.html#ad58a6cdcc37eb85639f50da6089f0e32" title="rtabmap::RegistrationVis\l::computeTransformationImpl" alt="" coords="433,193,627,232"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_camera_images.html#aa3021d2708c753eb566cf7f4797fb04e" title="rtabmap::CameraImages\l::init" alt="" coords="677,131,846,169"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_camera_r_g_b_d_images.html#a47615a1c24d40037215446af5f304f9f" title="rtabmap::CameraRGBDImages\l::init" alt="" coords="897,99,1104,137"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_camera_stereo_images.html#a3fa0d69119fb04d1756c20004973caf4" title="rtabmap::CameraStereoImages\l::init" alt="" coords="897,161,1105,200"/>
+</map>

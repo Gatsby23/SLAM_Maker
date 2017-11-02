@@ -1,0 +1,20 @@
+<map id="LZ4HC_init" name="LZ4HC_init">
+<area shape="rect" id="node2" href="$lz4hc_8h.html#aa039efbd1ed14879bdf8bd04a7d0c7cf" title="LZ4_compress_HC_extStateHC" alt="" coords="141,212,353,237"/>
+<area shape="rect" id="node12" href="$lz4hc_8h.html#a6ec9bbd2a0ac66b868d9fa6bf5fcdfdb" title="LZ4_loadDictHC" alt="" coords="188,308,307,333"/>
+<area shape="rect" id="node13" href="$lz4hc_8c.html#aa73bec011d09aedafa0a664a6ad3a4c6" title="LZ4_compressHC_continue\l_generic" alt="" coords="419,352,606,391"/>
+<area shape="rect" id="node18" href="$lz4hc_8c.html#a2a5e62fdbd34a44c3619f285047b6c09" title="LZ4_resetStreamStateHC" alt="" coords="160,409,335,435"/>
+<area shape="rect" id="node19" href="$lz4hc_8c.html#aff3da555aabc9892bf095182edce5ed8" title="LZ4_createHC" alt="" coords="193,459,301,484"/>
+<area shape="rect" id="node3" href="$lz4hc_8h.html#a4d9462c4fde8074e031681d61987163f" title="LZ4_compress_HC" alt="" coords="444,79,580,104"/>
+<area shape="rect" id="node8" href="$lz4hc_8h.html#ad699db852cd24bfa2d4c27a34c2fe6cd" title="LZ4_compressHC_withStateHC" alt="" coords="407,128,617,153"/>
+<area shape="rect" id="node9" href="$lz4hc_8h.html#a634b9dcda31746df572b63620d558f63" title="LZ4_compressHC_limitedOutput\l_withStateHC" alt="" coords="405,177,620,216"/>
+<area shape="rect" id="node10" href="$lz4hc_8h.html#a53d96bbdebccdcca4cfead7cf3d29373" title="LZ4_compressHC2_withStateHC" alt="" coords="403,240,621,265"/>
+<area shape="rect" id="node11" href="$lz4hc_8h.html#a6b8169dcb142b1239619105267d12b3e" title="LZ4_compressHC2_limitedOutput\l_withStateHC" alt="" coords="401,289,623,328"/>
+<area shape="rect" id="node4" href="$lz4hc_8h.html#aa600e4b8c78b7596f06d8f5279f2eed3" title="LZ4_compressHC" alt="" coords="718,5,847,31"/>
+<area shape="rect" id="node5" href="$lz4hc_8h.html#ae84cd04c8b6dcadfa358a62995b336b5" title="LZ4_compressHC_limitedOutput" alt="" coords="675,55,890,80"/>
+<area shape="rect" id="node6" href="$lz4hc_8h.html#a349e2ce0e1d23b4e9e9e14f306e6d366" title="LZ4_compressHC2" alt="" coords="714,104,850,129"/>
+<area shape="rect" id="node7" href="$lz4hc_8h.html#abe89478a99c969066b3c40c04407575e" title="LZ4_compressHC2_limitedOutput" alt="" coords="671,153,893,179"/>
+<area shape="rect" id="node14" href="$lz4hc_8h.html#acec65ca1e147d00a28f5bbeb1502dbf8" title="LZ4_compress_HC_continue" alt="" coords="685,359,879,384"/>
+<area shape="rect" id="node15" href="$lz4hc_8h.html#ae975055516988362ca66d2c78c2c1d80" title="LZ4_compressHC_continue" alt="" coords="956,303,1142,328"/>
+<area shape="rect" id="node16" href="$lz4hc_8h.html#ab17dee4c715320531df4ede4eeef4b20" title="LZ4_compressHC_limitedOutput\l_continue" alt="" coords="941,352,1156,391"/>
+<area shape="rect" id="node17" href="$classrtflann_1_1serialization_1_1_save_archive.html#a7f5775cab819d0a0cf194fa6fee6c033" title="rtflann::serialization\l::SaveArchive::flushBlock" alt="" coords="963,415,1135,453"/>
+</map>

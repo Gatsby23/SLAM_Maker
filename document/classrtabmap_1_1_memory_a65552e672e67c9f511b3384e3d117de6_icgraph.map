@@ -1,0 +1,9 @@
+<map id="rtabmap::Memory::getLastSignatureId" name="rtabmap::Memory::getLastSignatureId">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_odometry_mono.html#af59c2d45e7a683f8cd3dfc22def75733" title="rtabmap::OdometryMono\l::computeTransform" alt="" coords="238,5,408,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_rtabmap.html#a9406c710b7af988dda1868a3efa8f1dd" title="rtabmap::Rtabmap::getLast\lLocationId" alt="" coords="232,68,415,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_rtabmap.html#ad7f085b6ae0fd3c7077c500c028fd5c3" title="Main loop of rtabmap. " alt="" coords="230,131,416,156"/>
+<area shape="rect" id="node5" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="464,81,653,107"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_rtabmap.html#a35cf8fd93f77d1c148ae6d3107725750" title="rtabmap::Rtabmap::process" alt="" coords="466,131,651,156"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_rtabmap_thread.html#a921bb6c18683103d08270a7e665d89dc" title="rtabmap::RtabmapThread\l::process" alt="" coords="472,180,646,219"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="701,180,875,219"/>
+</map>

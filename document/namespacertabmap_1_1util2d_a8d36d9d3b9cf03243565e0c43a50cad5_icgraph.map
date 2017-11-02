@@ -1,0 +1,4 @@
+<map id="rtabmap::util2d::fillRegisteredDepthHoles" name="rtabmap::util2d::fillRegisteredDepthHoles">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera_freenect2.html#a51ab636c2534da7ac1a71ff383bcc508" title="rtabmap::CameraFreenect2\l::captureImage" alt="" coords="250,5,435,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera_real_sense.html#ae1a2b8b938674b9e8773faf18a873837" title="rtabmap::CameraRealSense\l::captureImage" alt="" coords="247,68,438,107"/>
+</map>

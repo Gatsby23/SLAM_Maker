@@ -1,0 +1,6 @@
+<map id="rtabmap::Feature2D::generateKeypoints" name="rtabmap::Feature2D::generateKeypoints">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_feature2_d.html#a605c083502b22d267d2c144330d0a9f6" title="rtabmap::Feature2D\l::computeRoi" alt="" coords="206,5,347,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_feature2_d.html#a8d429ceceaee80524a1b0693998b99f3" title="rtabmap::Feature2D\l::generateKeypointsImpl" alt="" coords="194,68,359,107"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_feature2_d.html#a847ab84175cd27494c8b93af0704ff8e" title="rtabmap::Feature2D\l::limitKeypoints" alt="" coords="206,131,347,169"/>
+<area shape="rect" id="node3" href="$namespacertabmap_1_1util2d.html#a49f08c1efbac27c374971d0f22b301e7" title="rtabmap::util2d::computeRoi" alt="" coords="407,12,595,37"/>
+</map>

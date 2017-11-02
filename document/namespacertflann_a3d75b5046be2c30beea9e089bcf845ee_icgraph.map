@@ -1,0 +1,5 @@
+<map id="rtflann::test_index_precision" name="rtflann::test_index_precision">
+<area shape="rect" id="node2" href="$classrtflann_1_1_autotuned_index.html#a1379c8a6aa2b478bdcd3323e88a61e21" title="rtflann::AutotunedIndex\l::evaluate_kmeans" alt="" coords="184,5,343,44"/>
+<area shape="rect" id="node3" href="$classrtflann_1_1_autotuned_index.html#a59aebe74419027c611fbd3220f27d8e6" title="rtflann::AutotunedIndex\l::evaluate_kdtree" alt="" coords="184,68,343,107"/>
+<area shape="rect" id="node4" href="$classrtflann_1_1_autotuned_index.html#ad6c65ae41ba4579f2024536c347b3114" title="rtflann::AutotunedIndex\l::estimateSearchParams" alt="" coords="180,131,347,169"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="rtabmap::DBDriverSqlite3::stepSensorData" name="rtabmap::DBDriverSqlite3::stepSensorData">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_sensor_data.html#a84fbcb16e51018d96065d3ce240650c6" title="rtabmap::SensorData::id" alt="" coords="247,5,413,31"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_sensor_data.html#a8dd819b881b5f27839af2b0ba5145e37" title="rtabmap::SensorData\l::imageCompressed" alt="" coords="256,55,404,93"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_sensor_data.html#ae7854442e2f72c1a4e32e0d43b5612cd" title="rtabmap::SensorData\l::depthOrRightCompressed" alt="" coords="238,117,422,156"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_sensor_data.html#ada8e2c5b1223b5bc8ff163dfc9c1c00f" title="rtabmap::SensorData\l::laserScanCompressed" alt="" coords="248,180,412,219"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_sensor_data.html#aea457bf4fa2488272ef374b8042b13e1" title="rtabmap::SensorData\l::cameraModels" alt="" coords="256,243,404,281"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_transform.html#a2cdd55b67e206a287e7bf4d248fb5256" title="rtabmap::Transform\l::size" alt="" coords="261,305,399,344"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_sensor_data.html#ac0cc52bd3f7ddf0ce75a05acfc19e0d5" title="rtabmap::SensorData\l::stereoCameraModel" alt="" coords="255,368,405,407"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_stereo_camera_model.html#a6c16870b83978d286003b166fd6949cf" title="rtabmap::StereoCameraModel\l::isValidForProjection" alt="" coords="230,431,431,469"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_stereo_camera_model.html#a4485bbbe4e3e4a59defc2d87b450a357" title="rtabmap::StereoCameraModel\l::left" alt="" coords="230,493,431,532"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_camera_model.html#a362fd9fc3f8de2d3fab6ed516217fc45" title="rtabmap::CameraModel\l::localTransform" alt="" coords="250,556,411,595"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_camera_model.html#acea616d4e141804dbc5c6eda58bebf6b" title="rtabmap::CameraModel::fx" alt="" coords="241,619,420,644"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_camera_model.html#ac4089d34947b040205e281edae4151a1" title="rtabmap::CameraModel::fy" alt="" coords="241,668,420,693"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_camera_model.html#af81ee9572d32f69bf0a66cd1f4671c20" title="rtabmap::CameraModel::cx" alt="" coords="239,717,421,743"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_camera_model.html#aa3a18f811d3e9db290d01371e078add3" title="rtabmap::CameraModel::cy" alt="" coords="239,767,421,792"/>
+<area shape="rect" id="node16" href="$classrtabmap_1_1_stereo_camera_model.html#a8dc48f95fcf68eb81da96941f778535f" title="rtabmap::StereoCameraModel\l::baseline" alt="" coords="230,816,431,855"/>
+<area shape="rect" id="node17" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="483,1181,621,1220"/>
+<area shape="rect" id="node18" href="$classrtabmap_1_1_sensor_data.html#a888fd7613ddde324993188392c6bfb04" title="rtabmap::SensorData\l::laserScanInfo" alt="" coords="256,931,404,969"/>
+<area shape="rect" id="node19" href="$classrtabmap_1_1_laser_scan_info.html#a1627c60afed681a018e7065d8dbc1897" title="rtabmap::LaserScanInfo\l::maxPoints" alt="" coords="248,993,412,1032"/>
+<area shape="rect" id="node20" href="$classrtabmap_1_1_laser_scan_info.html#a26ae4a7411b596627ce637e896669fd1" title="rtabmap::LaserScanInfo\l::maxRange" alt="" coords="248,1056,412,1095"/>
+<area shape="rect" id="node21" href="$classrtabmap_1_1_laser_scan_info.html#ab9588bb6a53184a9db08e4d7a57a7724" title="rtabmap::LaserScanInfo\l::localTransform" alt="" coords="248,1119,412,1157"/>
+<area shape="rect" id="node22" href="$classrtabmap_1_1_transform.html#a0d6a1985391a45de4fe208e58c51b9d2" title="rtabmap::Transform\l::isNull" alt="" coords="261,1181,399,1220"/>
+<area shape="rect" id="node23" href="$classrtabmap_1_1_transform.html#ae0636052ce31698d4d45afe4492ffab9" title="rtabmap::Transform\l::isIdentity" alt="" coords="261,1244,399,1283"/>
+<area shape="rect" id="node24" href="$classrtabmap_1_1_sensor_data.html#ad7e9c02aef89764b508d020582248e72" title="rtabmap::SensorData\l::userDataCompressed" alt="" coords="251,1307,409,1345"/>
+<area shape="rect" id="node25" href="$classrtabmap_1_1_sensor_data.html#a9806feeb2acf8841b73ac06ed125246f" title="rtabmap::SensorData\l::gridGroundCellsCompressed" alt="" coords="230,1369,431,1408"/>
+<area shape="rect" id="node26" href="$classrtabmap_1_1_sensor_data.html#aeebb06f15921b6ae504136c59e480f64" title="rtabmap::SensorData\l::gridObstacleCellsCompressed" alt="" coords="226,1432,435,1471"/>
+<area shape="rect" id="node27" href="$classrtabmap_1_1_sensor_data.html#a984ce55b6b75152a63441bd07288dc6c" title="rtabmap::SensorData\l::gridCellSize" alt="" coords="256,1495,404,1533"/>
+<area shape="rect" id="node28" href="$classrtabmap_1_1_sensor_data.html#a95cc94e964965396f909a4aca9a25a0a" title="rtabmap::SensorData\l::gridViewPoint" alt="" coords="256,1557,404,1596"/>
+</map>

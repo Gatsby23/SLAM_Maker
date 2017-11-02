@@ -1,0 +1,11 @@
+<map id="cv3::createRANSACPointSetRegistrator" name="cv3::createRANSACPointSetRegistrator">
+<area shape="rect" id="node2" href="$namespacecv3.html#a57ecc5f07521001609d3a1136cfcb263" title="cv3::solvePnPRansac" alt="" coords="253,68,404,93"/>
+<area shape="rect" id="node10" href="$classcv3_1_1_point_set_registrator_1_1_callback.html#a06fb23ed7ff105a11d8c49a6ec8469c0" title="cv3::PointSetRegistrator\l::Callback::checkSubset" alt="" coords="246,117,411,156"/>
+<area shape="rect" id="node3" href="$namespacertabmap_1_1util3d.html#aa967d8329a3534a23fc8b5a85a917570" title="rtabmap::util3d::solvePn\lPRansac" alt="" coords="459,61,623,100"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_odometry_mono.html#af59c2d45e7a683f8cd3dfc22def75733" title="rtabmap::OdometryMono\l::computeTransform" alt="" coords="918,5,1087,44"/>
+<area shape="rect" id="node5" href="$namespacertabmap_1_1util3d.html#a3f480e53cb9aa1bc1e36eb55ecf47944" title="rtabmap::util3d::generate\lWords3DMono" alt="" coords="671,61,841,100"/>
+<area shape="rect" id="node9" href="$namespacertabmap_1_1util3d.html#aadb798804da10102551cf5d6d83420f7" title="rtabmap::util3d::estimate\lMotion3DTo2D" alt="" coords="672,124,840,163"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_memory.html#ae57c1e215b5449431b93588dd4217703" title="rtabmap::Memory::createSignature" alt="" coords="889,68,1116,93"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_registration_vis.html#ad58a6cdcc37eb85639f50da6089f0e32" title="rtabmap::RegistrationVis\l::computeTransformationImpl" alt="" coords="905,120,1100,159"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="1164,68,1338,93"/>
+</map>

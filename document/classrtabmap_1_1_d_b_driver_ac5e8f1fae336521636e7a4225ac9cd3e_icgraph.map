@@ -1,0 +1,8 @@
+<map id="rtabmap::DBDriver::getNodeIdByLabel" name="rtabmap::DBDriver::getNodeIdByLabel">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#a4907501b27fdfd5b8053b9d932d8dec4" title="rtabmap::Memory::getSignature\lIdByLabel" alt="" coords="192,61,401,100"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_memory.html#aabc5046566746d01e590ccdd6ac7574b" title="rtabmap::Memory::addSignature\lToStm" alt="" coords="452,5,665,44"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_memory.html#abba1fbec2be0cfced6e14d723fc45794" title="rtabmap::Memory::labelSignature" alt="" coords="449,68,668,93"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="982,87,1156,125"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="738,12,912,37"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_rtabmap.html#af1fe8ed393237bc9ffa1ea93adf0ec9b" title="rtabmap::Rtabmap::labelLocation" alt="" coords="716,68,934,93"/>
+</map>

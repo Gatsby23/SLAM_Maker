@@ -1,0 +1,8 @@
+<map id="rtabmap::Transform::getIdentity" name="rtabmap::Transform::getIdentity">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera.html#a870c2ecac068efde32429e022b614d26" title="rtabmap::Camera::setLocal\lTransform" alt="" coords="201,5,383,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_occupancy_grid.html#ab4d219667665870613e09ad52ae239f5" title="rtabmap::OccupancyGrid\l::segmentCloud" alt="" coords="207,68,376,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_odometry.html#a7476b9fffee225ef396804ef59084659" title="rtabmap::Odometry::\lframesProcessed" alt="" coords="220,131,363,169"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_registration.html#a6c4364f6e261a3f954dc91b6dbb8816a" title="rtabmap::Registration\l::covarianceNormalized" alt="" coords="211,193,372,232"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_stereo_camera_model.html#a179ffcbc49ff3a281ef33cb4381e061c" title="rtabmap::StereoCameraModel\l::StereoCameraModel" alt="" coords="191,256,392,295"/>
+<area shape="rect" id="node7" href="$namespacertabmap_1_1util3d.html#ae79b2ed027e598251fdb23594d2c302b" title="rtabmap::util3d::uniform\lSampling" alt="" coords="211,319,372,357"/>
+</map>

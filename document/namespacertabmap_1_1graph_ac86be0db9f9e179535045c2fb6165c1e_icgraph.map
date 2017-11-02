@@ -1,0 +1,9 @@
+<map id="rtabmap::graph::findNearestNode" name="rtabmap::graph::findNearestNode">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_rtabmap.html#ad7f085b6ae0fd3c7077c500c028fd5c3" title="Main loop of rtabmap. " alt="" coords="528,57,714,83"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_rtabmap.html#afdf3948f0bdb94f11f399a45e53be92a" title="rtabmap::Rtabmap::getPaths" alt="" coords="273,108,464,133"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_rtabmap.html#ab797f7f5bb73a507ba4d4672cd5476df" title="rtabmap::Rtabmap::computePath" alt="" coords="512,167,730,192"/>
+<area shape="rect" id="node3" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="778,5,967,31"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_rtabmap.html#a35cf8fd93f77d1c148ae6d3107725750" title="rtabmap::Rtabmap::process" alt="" coords="780,55,965,80"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_rtabmap_thread.html#a921bb6c18683103d08270a7e665d89dc" title="rtabmap::RtabmapThread\l::process" alt="" coords="786,104,960,143"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="1015,133,1189,172"/>
+</map>

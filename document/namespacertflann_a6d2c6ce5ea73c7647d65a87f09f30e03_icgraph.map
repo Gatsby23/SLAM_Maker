@@ -1,0 +1,8 @@
+<map id="rtflann::search_with_ground_truth" name="rtflann::search_with_ground_truth">
+<area shape="rect" id="node2" href="$namespacertflann.html#acfafd4d04f074a0e7949364430023cee" title="rtflann::test_index\l_checks" alt="" coords="190,5,317,44"/>
+<area shape="rect" id="node3" href="$namespacertflann.html#a3d75b5046be2c30beea9e089bcf845ee" title="rtflann::test_index\l_precision" alt="" coords="190,68,317,107"/>
+<area shape="rect" id="node7" href="$namespacertflann.html#a9a8af20de4c917762f3d105f7817b2bd" title="rtflann::test_index\l_precisions" alt="" coords="190,131,317,169"/>
+<area shape="rect" id="node4" href="$classrtflann_1_1_autotuned_index.html#a1379c8a6aa2b478bdcd3323e88a61e21" title="rtflann::AutotunedIndex\l::evaluate_kmeans" alt="" coords="369,5,528,44"/>
+<area shape="rect" id="node5" href="$classrtflann_1_1_autotuned_index.html#a59aebe74419027c611fbd3220f27d8e6" title="rtflann::AutotunedIndex\l::evaluate_kdtree" alt="" coords="369,68,528,107"/>
+<area shape="rect" id="node6" href="$classrtflann_1_1_autotuned_index.html#ad6c65ae41ba4579f2024536c347b3114" title="rtflann::AutotunedIndex\l::estimateSearchParams" alt="" coords="365,131,532,169"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="corelib/include/rtabmap/core/CameraEvent.h" name="corelib/include/rtabmap/core/CameraEvent.h">
+<area shape="rect" id="node2" href="$_camera_thread_8cpp.html" title="corelib/src/CameraThread.cpp" alt="" coords="5,92,206,117"/>
+<area shape="rect" id="node3" href="$_d_b_reader_8cpp.html" title="corelib/src/DBReader.cpp" alt="" coords="230,92,403,117"/>
+<area shape="rect" id="node4" href="$_odometry_thread_8cpp.html" title="corelib/src/OdometryThread.cpp" alt="" coords="426,92,638,117"/>
+<area shape="rect" id="node5" href="$_rtabmap_thread_8cpp.html" title="corelib/src/RtabmapThread.cpp" alt="" coords="662,92,869,117"/>
+</map>

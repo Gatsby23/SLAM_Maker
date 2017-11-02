@@ -1,0 +1,6 @@
+<map id="sqlite3VdbeRealValue" name="sqlite3VdbeRealValue">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="205,5,341,31"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ad2a961fc08942417d977510a1384b6d2" title="sqlite3AtoF" alt="" coords="229,55,317,80"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5b13083911b3dc0a0b54f43acc686a39" title="sqlite3Atoi64" alt="" coords="389,55,487,80"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#adcbebdd3f570175519922276b83132e0" title="compare2pow63" alt="" coords="535,55,655,80"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="rtabmap::Memory::removeRawData" name="rtabmap::Memory::removeRawData">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#aecb333268e0858678add037a5a59a719" title="rtabmap::Memory::_getSignature" alt="" coords="286,5,502,31"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_registration.html#ae10ae7b6dbf4d5396db66600ebe18228" title="rtabmap::Registration\l::isImageRequired" alt="" coords="320,79,468,117"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_signature.html#a522971783852ef45e2de8e592d49a860" title="rtabmap::Signature\l::sensorData" alt="" coords="327,141,461,180"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_sensor_data.html#a103ab257d03633eb76d9a85e960f8f8f" title="rtabmap::SensorData\l::setImageRaw" alt="" coords="320,204,468,243"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_sensor_data.html#ad33f0b535e1a8e193aa6b0888e222454" title="rtabmap::SensorData\l::setDepthOrRightRaw" alt="" coords="317,267,471,305"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_registration.html#aa0748ad5a576d0919ef0d360137e5ea7" title="rtabmap::Registration\l::isScanRequired" alt="" coords="320,353,468,392"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_sensor_data.html#a7f9d1e35c81edd98a275c775a6de3056" title="rtabmap::SensorData\l::setLaserScanRaw" alt="" coords="320,416,468,455"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_sensor_data.html#a888fd7613ddde324993188392c6bfb04" title="rtabmap::SensorData\l::laserScanInfo" alt="" coords="320,479,468,517"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_registration.html#a3cd064c74588fd13cce178596e188b5d" title="rtabmap::Registration\l::isUserDataRequired" alt="" coords="320,565,468,604"/>
+<area shape="rect" id="node14" href="$classrtabmap_1_1_sensor_data.html#a2a41ec94fead77d1b773471d9452b22e" title="rtabmap::SensorData\l::setUserDataRaw" alt="" coords="320,628,468,667"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_registration.html#a8b3d47766e19c82f87e538205853f434" title="rtabmap::Registration\l::isImageRequiredImpl" alt="" coords="560,79,714,117"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_registration.html#a0a352c12a797bd500bf535a4e1495def" title="rtabmap::Registration\l::isScanRequiredImpl" alt="" coords="563,353,711,392"/>
+<area shape="rect" id="node13" href="$classrtabmap_1_1_registration.html#a11eb0c058646fcea6f053a50a0b9883c" title="rtabmap::Registration\l::isUserDataRequiredImpl" alt="" coords="550,565,724,604"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_sensor_data.html#aca542ae17234ef5db9a84068b8ef0947" title="rtabmap::SensorData\l::userDataRaw" alt="" coords="563,628,711,667"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="rtabmap::CameraStereoVideo::captureImage" name="rtabmap::CameraStereoVideo::captureImage">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_stereo_camera_model.html#a4485bbbe4e3e4a59defc2d87b450a357" title="rtabmap::StereoCameraModel\l::left" alt="" coords="252,5,452,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera_model.html#a46864eb8de680d45d79777e828dcbb6a" title="rtabmap::CameraModel\l::isValidForRectification" alt="" coords="271,68,433,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_stereo_camera_model.html#a01184c25c8ea4152a8b4950e0cabc59e" title="rtabmap::StereoCameraModel\l::right" alt="" coords="252,131,452,169"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_camera_model.html#a17219cf5cf82d224f2a7ed5af01fa236" title="rtabmap::CameraModel\l::rectifyImage" alt="" coords="271,193,433,232"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_camera_model.html#ae8a8e26a9aa0469fa8c5a7f3b7827df9" title="rtabmap::CameraModel\l::imageHeight" alt="" coords="271,256,433,295"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_camera_model.html#a6983cc1325c9e1c37d957470df7fbf9b" title="rtabmap::CameraModel\l::imageWidth" alt="" coords="271,319,433,357"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_stereo_camera_model.html#a898c2eff7bfc4977703f8edb86ca1187" title="rtabmap::StereoCameraModel\l::setImageSize" alt="" coords="252,381,452,420"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_camera.html#a469b6e2ad49c1c8174395e98c84431ac" title="rtabmap::Camera::getNext\lSeqID" alt="" coords="263,444,441,483"/>
+</map>

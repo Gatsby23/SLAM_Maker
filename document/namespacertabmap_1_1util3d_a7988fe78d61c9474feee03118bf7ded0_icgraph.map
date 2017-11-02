@@ -1,0 +1,7 @@
+<map id="rtabmap::util3d::cloudRGBFromSensorData" name="rtabmap::util3d::cloudRGBFromSensorData">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera_thread.html#aba9e3775217a8bd7e10fcd3e5710b655" title="rtabmap::CameraThread\l::postUpdate" alt="" coords="263,5,431,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_occupancy_grid.html#a3a26dfc3108d6562ee920082446ce82b" title="rtabmap::OccupancyGrid\l::createLocalMap" alt="" coords="262,68,432,107"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera_thread.html#a4e4f475ed37c6696b303c3437d127682" title="rtabmap::CameraThread\l::mainLoop" alt="" coords="510,5,677,44"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_memory.html#ae57c1e215b5449431b93588dd4217703" title="rtabmap::Memory::createSignature" alt="" coords="480,75,707,100"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="755,75,929,100"/>
+</map>

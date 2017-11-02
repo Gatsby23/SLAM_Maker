@@ -1,0 +1,7 @@
+<map id="unixShmLock" name="unixShmLock">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="157,5,298,31"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a01b83082580fe542416b9250be3b5591" title="unixShmSystemLock" alt="" coords="155,55,301,80"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="156,104,299,129"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="358,55,494,80"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a83967c837c1c000d3b5adcfaa688f5dc" title="sqlite3_mutex_notheld" alt="" coords="349,104,503,129"/>
+</map>

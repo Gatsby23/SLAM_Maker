@@ -1,0 +1,5 @@
+<map id="rtabmap::Registration::getMinVisualCorrespondencesImpl" name="rtabmap::Registration::getMinVisualCorrespondencesImpl">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_registration.html#abc02df4842af900fbb5da75b8e5318e0" title="rtabmap::Registration\l::getMinVisualCorrespondences" alt="" coords="289,37,499,76"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_odometry_f2_f.html#a6d49a1960e7e0d9a4459cfaad2e8fdc6" title="rtabmap::OdometryF2F\l::computeTransform" alt="" coords="548,5,708,44"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_odometry_f2_m.html#a1203f3e1f595154b758a225a2e4d8d91" title="rtabmap::OdometryF2M\l::computeTransform" alt="" coords="547,68,710,107"/>
+</map>

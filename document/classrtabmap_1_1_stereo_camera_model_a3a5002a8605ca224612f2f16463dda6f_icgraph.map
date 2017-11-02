@@ -1,0 +1,7 @@
+<map id="rtabmap::StereoCameraModel::getRightSuffix" name="rtabmap::StereoCameraModel::getRightSuffix">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_stereo_camera_model.html#ae91c2717319f3cd7b6f40768e5adbb9f" title="rtabmap::StereoCameraModel\l::StereoCameraModel" alt="" coords="254,5,455,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_stereo_camera_model.html#adc404f0be63eedd0e0a9d6d5b5b36a94" title="rtabmap::StereoCameraModel\l::setName" alt="" coords="254,68,455,107"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_stereo_camera_model.html#a431b426cf55163b3b95c3ab24b3ccab4" title="rtabmap::StereoCameraModel\l::load" alt="" coords="254,131,455,169"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_camera_stereo_images.html#a3fa0d69119fb04d1756c20004973caf4" title="rtabmap::CameraStereoImages\l::init" alt="" coords="503,68,711,107"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_camera_stereo_video.html#a65e7c0146db0604ce795d8e6f82464da" title="rtabmap::CameraStereoVideo\l::init" alt="" coords="508,131,706,169"/>
+</map>

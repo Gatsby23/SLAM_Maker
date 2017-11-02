@@ -1,0 +1,6 @@
+<map id="rtflann::search_with_ground_truth" name="rtflann::search_with_ground_truth">
+<area shape="rect" id="node2" href="$classrtflann_1_1_start_stop_timer.html#ae7d39365456cb0c554853c63bd93b5a0" title="rtflann::StartStopTimer\l::start" alt="" coords="209,5,364,44"/>
+<area shape="rect" id="node3" href="$classrtflann_1_1_index.html#acf999c81c70c961c3bd510aaa882293f" title="Perform k&#45;nearest neighbor search. " alt="" coords="202,68,371,93"/>
+<area shape="rect" id="node4" href="$namespacertflann.html#a1ca8fca8a85c4e71aeefac6d28a77df8" title="rtflann::countCorrectMatches" alt="" coords="190,117,383,143"/>
+<area shape="rect" id="node5" href="$classrtflann_1_1_start_stop_timer.html#a79319c153db95a55ec8d2dca33c746d7" title="rtflann::StartStopTimer\l::stop" alt="" coords="209,167,364,205"/>
+</map>

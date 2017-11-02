@@ -1,0 +1,8 @@
+<map id="rtabmap::StereoOpticalFlow::computeCorrespondences" name="rtabmap::StereoOpticalFlow::computeCorrespondences">
+<area shape="rect" id="node2" href="$namespacertabmap_1_1util2d.html#a20ff4e7a12f2f199a47f3950559f213c" title="rtabmap::util2d::calcOptical\lFlowPyrLKStereo" alt="" coords="250,5,432,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_stereo.html#a5474ebbc178bcc29ebaff3d9d4e22e54" title="rtabmap::Stereo::winSize" alt="" coords="255,68,426,93"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_stereo.html#a3834923d75c9453e885bea01cb5ecfa5" title="rtabmap::Stereo::maxLevel" alt="" coords="250,117,431,143"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_stereo.html#abde66966de114cd5649fd22602d27816" title="rtabmap::Stereo::iterations" alt="" coords="251,167,430,192"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_stereo.html#a7e4a84133cceeee71613d46ddd58c679" title="rtabmap::Stereo::minDisparity" alt="" coords="242,216,439,241"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_stereo.html#a87746f48948889a7efd678df53919fdb" title="rtabmap::Stereo::maxDisparity" alt="" coords="240,265,441,291"/>
+</map>

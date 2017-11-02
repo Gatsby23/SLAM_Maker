@@ -1,0 +1,14 @@
+<map id="corelib/src/clams/frame_projector.cpp" name="corelib/src/clams/frame_projector.cpp">
+<area shape="rect" id="node2" href="$frame__projector_8h.html" title="rtabmap/core/clams\l/frame_projector.h" alt="" coords="87,92,225,131"/>
+<area shape="rect" id="node15" href="$util3d__transforms_8h.html" title="rtabmap/core/util3d\l_transforms.h" alt="" coords="427,92,562,131"/>
+<area shape="rect" id="node17" href="$util3d_8h.html" title="rtabmap/core/util3d.h" alt="" coords="939,99,1085,124"/>
+<area shape="rect" id="node6" href="$_camera_model_8h.html" title="rtabmap/core/CameraModel.h" alt="" coords="471,339,670,364"/>
+<area shape="rect" id="node8" href="$_rtabmap_exp_8h.html" title="rtabmap/core/RtabmapExp.h" alt="" coords="784,485,976,511"/>
+<area shape="rect" id="node9" href="$_transform_8h.html" title="rtabmap/core/Transform.h" alt="" coords="423,412,598,437"/>
+<area shape="rect" id="node19" href="$_sensor_data_8h.html" title="rtabmap/core/SensorData.h" alt="" coords="718,179,903,204"/>
+<area shape="rect" id="node24" href="$_parameters_8h.html" title="rtabmap/core/Parameters.h" alt="" coords="1271,179,1454,204"/>
+<area shape="rect" id="node20" href="$_stereo_camera_model_8h.html" title="rtabmap/core/StereoCamera\lModel.h" alt="" coords="498,252,688,291"/>
+<area shape="rect" id="node21" href="$_laser_scan_info_8h.html" title="rtabmap/core/LaserScanInfo.h" alt="" coords="925,259,1126,284"/>
+<area shape="rect" id="node22" href="$_geodetic_coords_8h.html" title="rtabmap/core/GeodeticCoords.h" alt="" coords="188,412,399,437"/>
+<area shape="rect" id="node25" href="$_version_8h.html" title="rtabmap/core/Version.h" alt="" coords="1302,259,1461,284"/>
+</map>

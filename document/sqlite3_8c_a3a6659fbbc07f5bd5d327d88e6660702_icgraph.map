@@ -1,0 +1,6 @@
+<map id="sqlite3ClearStatTables" name="sqlite3ClearStatTables">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a5534f77364b5568783c0e50db3c9defb" title="sqlite3DropTable" alt="" coords="208,5,328,31"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a3ffd2536f34a0cf6d427710b06b71e83" title="sqlite3DropIndex" alt="" coords="207,55,329,80"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a7c419a9b25711c666a9a2449ef377f14" title="yy_reduce" alt="" coords="377,31,460,56"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a0327d71a5fabe0b6a343d78a2602e72a" title="sqlite3Parser" alt="" coords="508,31,607,56"/>
+</map>

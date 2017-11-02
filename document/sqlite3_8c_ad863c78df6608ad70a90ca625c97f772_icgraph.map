@@ -1,0 +1,6 @@
+<map id="seekAndWrite" name="seekAndWrite">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a4385beabc5689db595bbe5a18b3c619a" title="unixWrite" alt="" coords="167,5,243,31"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a83b00fec4238518b00e315fe0eff28e6" title="fcntlSizeHint" alt="" coords="157,55,253,80"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aed1e42f49d74b419c3c85b559dd61240" title="unixGetLastError" alt="" coords="301,5,423,31"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ad71f213fa385cc58f307cefd953c03ae" title="unixFileControl" alt="" coords="307,55,417,80"/>
+</map>

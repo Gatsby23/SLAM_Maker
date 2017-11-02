@@ -1,0 +1,26 @@
+<map id="rtabmap::util3d::loadScan" name="rtabmap::util3d::loadScan">
+<area shape="rect" id="node2" href="$namespacertabmap_1_1util3d.html#abe43dffd18c940826f3e805f897c89f7" title="rtabmap::util3d::loadCloud" alt="" coords="449,160,626,185"/>
+<area shape="rect" id="node11" href="$classrtabmap_1_1_transform.html#aefc8f052315cb4ba1116ff8fc8297306" title="rtabmap::Transform\l::getIdentity" alt="" coords="241,528,379,567"/>
+<area shape="rect" id="node13" href="$namespacertabmap_1_1util3d.html#af8689602bc6b63be6888927924947786" title="rtabmap::util3d::compute\lNormals" alt="" coords="226,403,394,441"/>
+<area shape="rect" id="node23" href="$namespacertabmap_1_1util3d.html#ada9f161a0188ef80430158efdb05b6bc" title="rtabmap::util3d::laserScan\lFromPointCloud" alt="" coords="449,341,626,380"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_transform.html#a0d6a1985391a45de4fe208e58c51b9d2" title="rtabmap::Transform\l::isNull" alt="" coords="712,341,850,380"/>
+<area shape="rect" id="node5" href="$namespacertabmap_1_1util3d.html#aa392ef1f2cf279732972d23ccfc84f4c" title="rtabmap::util3d::loadBINCloud" alt="" coords="681,55,880,80"/>
+<area shape="rect" id="node6" href="$namespacertabmap_1_1util3d.html#a9361892cafd89a5c98f5e49559f7fc04" title="rtabmap::util3d::downsample" alt="" coords="685,104,877,129"/>
+<area shape="rect" id="node7" href="$namespacertabmap_1_1util3d.html#ab38b385224260f7d29e7cca5da02bf5f" title="rtabmap::util3d::voxelize" alt="" coords="698,5,863,31"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_transform.html#ae0636052ce31698d4d45afe4492ffab9" title="rtabmap::Transform\l::isIdentity" alt="" coords="712,279,850,317"/>
+<area shape="rect" id="node9" href="$namespacertabmap_1_1util3d.html#a1e534f4aae696479cd2b014bcdc9823e" title="rtabmap::util3d::transform\lPointCloud" alt="" coords="694,153,867,192"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_transform.html#a6208c38cd8dc6e4f6746f794d56c6966" title="rtabmap::Transform\l::data" alt="" coords="1128,297,1266,336"/>
+<area shape="rect" id="node10" href="$classrtabmap_1_1_transform.html#a1cb08be14adcabc0999eca4db3c67812" title="rtabmap::Transform\l::toEigen4f" alt="" coords="935,297,1073,336"/>
+<area shape="rect" id="node12" href="$classrtabmap_1_1_transform.html#ac3654d3f6802d4b0c17b6110d1eda71a" title="rtabmap::Transform\l::Transform" alt="" coords="469,592,606,631"/>
+<area shape="rect" id="node14" href="$namespacertabmap_1_1util3d.html#a7b99f02d7546c4d4d6226a0345045a90" title="rtabmap::util3d::laserScan\lToPointCloud" alt="" coords="449,529,626,568"/>
+<area shape="rect" id="node21" href="$namespacertabmap_1_1util3d.html#aa92df90f60d208d4feb5e1d9c16ad3b3" title="rtabmap::util3d::compute\lNormals2D" alt="" coords="453,404,622,443"/>
+<area shape="rect" id="node22" href="$namespacertabmap_1_1util3d.html#a786da8fcb9d9df8e80a9ef340d240223" title="rtabmap::util3d::laserScan2d\lFromPointCloud" alt="" coords="442,467,633,505"/>
+<area shape="rect" id="node24" href="$namespacertabmap_1_1util3d.html#a11da6b3232a24a8c48ecb057c926bd31" title="rtabmap::util3d::laserScan\lToPointCloudRGB" alt="" coords="449,279,626,317"/>
+<area shape="rect" id="node15" href="$classrtabmap_1_1_transform.html#a76e359a47eab8b98684ef0fa36da413f" title="rtabmap::Transform\l::toEigen3f" alt="" coords="712,404,850,443"/>
+<area shape="rect" id="node16" href="$namespacertabmap_1_1util3d.html#affe95b56488714dc25bacfe58e07ce0b" title="rtabmap::util3d::laserScan\lToPoint" alt="" coords="693,529,869,568"/>
+<area shape="rect" id="node17" href="$namespacertabmap_1_1util3d.html#a6a4faa6e17243490062523c799cd6934" title="rtabmap::util3d::transform\lPoint" alt="" coords="694,467,867,505"/>
+<area shape="rect" id="node18" href="$classrtabmap_1_1_transform.html#a1d69c9ae9129ccffe30b971ed8747adc" title="rtabmap::Transform::x" alt="" coords="928,424,1080,449"/>
+<area shape="rect" id="node19" href="$classrtabmap_1_1_transform.html#af7d90ee7b9ace464ea80dad90e3df9a3" title="rtabmap::Transform::y" alt="" coords="928,473,1080,499"/>
+<area shape="rect" id="node20" href="$classrtabmap_1_1_transform.html#af3c3671ae31945e689ee9a84deca5d6b" title="rtabmap::Transform::z" alt="" coords="928,523,1080,548"/>
+<area shape="rect" id="node25" href="$namespacertabmap_1_1util3d.html#af2b3195561f4f5c0eea8da037b9e5324" title="rtabmap::util3d::laserScan\lToPointRGB" alt="" coords="693,216,869,255"/>
+</map>

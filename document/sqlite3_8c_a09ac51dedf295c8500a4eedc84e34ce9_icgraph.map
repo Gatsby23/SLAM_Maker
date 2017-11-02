@@ -1,0 +1,10 @@
+<map id="sqlite3VdbeAddOpList" name="sqlite3VdbeAddOpList">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#adb8ad839a5bdd62a43785132bc7dd518" title="sqlite3_blob_open" alt="" coords="216,5,345,31"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a111391370f58f8e6a6eca51fd34d62ed" title="sqlite3Pragma" alt="" coords="610,56,716,81"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aa3a84617bfc76be1c61c27fc2b6d0b17" title="sqlite3DropTriggerPtr" alt="" coords="207,107,354,132"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a7c419a9b25711c666a9a2449ef377f14" title="yy_reduce" alt="" coords="771,105,854,131"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a0327d71a5fabe0b6a343d78a2602e72a" title="sqlite3Parser" alt="" coords="902,105,1001,131"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#aaf9a8d65346dc15bfcd60bc48e885f46" title="sqlite3CodeDropTable" alt="" coords="402,107,555,132"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#affdf1dd65e331b06feaef6ff8636305f" title="sqlite3DropTrigger" alt="" coords="413,156,544,181"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a5534f77364b5568783c0e50db3c9defb" title="sqlite3DropTable" alt="" coords="603,105,723,131"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="rtabmap::util2d::registerDepth" name="rtabmap::util2d::registerDepth">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_camera_open_n_i2.html#a94b3afa6c6ba99288764c537e606fb91" title="rtabmap::CameraOpenNI2\l::captureImage" alt="" coords="218,5,397,44"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_camera_freenect.html#adfc88a3b767616062a7ac0eaf743d558" title="rtabmap::CameraFreenect\l::captureImage" alt="" coords="218,68,396,107"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_camera_freenect2.html#a51ab636c2534da7ac1a71ff383bcc508" title="rtabmap::CameraFreenect2\l::captureImage" alt="" coords="215,131,400,169"/>
+</map>

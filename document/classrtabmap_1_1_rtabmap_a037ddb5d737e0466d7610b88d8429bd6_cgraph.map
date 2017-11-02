@@ -1,0 +1,9 @@
+<map id="rtabmap::Rtabmap::setUserData" name="rtabmap::Rtabmap::setUserData">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#aff18f08be0a7951f508276e341759f5c" title="rtabmap::Memory::setUserData" alt="" coords="267,61,474,87"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_memory.html#a2d5ad530837b49927c27a6ca0c3fc380" title="rtabmap::Memory::getLast\lWorkingSignature" alt="" coords="282,111,459,149"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_signature.html#a31c6e7b7e720eca20fb5935e0ee1d9f9" title="rtabmap::Signature::id" alt="" coords="294,173,447,199"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_memory.html#aecb333268e0858678add037a5a59a719" title="rtabmap::Memory::_getSignature" alt="" coords="522,5,738,31"/>
+<area shape="rect" id="node4" href="$classrtabmap_1_1_signature.html#a522971783852ef45e2de8e592d49a860" title="rtabmap::Signature\l::sensorData" alt="" coords="563,55,697,93"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_sensor_data.html#a1bfe55357c1faddf33cbf4f4190d4e5e" title="rtabmap::SensorData\l::setUserData" alt="" coords="556,117,704,156"/>
+<area shape="rect" id="node6" href="$namespacertabmap.html#a21f00cdd5f42e4a3fda3ef52cd51e67f" title="rtabmap::compressData2" alt="" coords="786,124,957,149"/>
+</map>

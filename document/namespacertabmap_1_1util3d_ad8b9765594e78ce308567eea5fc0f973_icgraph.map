@@ -1,0 +1,12 @@
+<map id="rtabmap::util3d::laserScanToPointCloudNormal" name="rtabmap::util3d::laserScanToPointCloudNormal">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_memory.html#a34aa7efd5f6ce0fd3136459542ad8ebb" title="rtabmap::Memory::compute\lIcpTransformMulti" alt="" coords="235,48,419,87"/>
+<area shape="rect" id="node8" href="$classrtabmap_1_1_odometry_f2_m.html#a1203f3e1f595154b758a225a2e4d8d91" title="rtabmap::OdometryF2M\l::computeTransform" alt="" coords="245,111,408,149"/>
+<area shape="rect" id="node9" href="$classrtabmap_1_1_registration_icp.html#a08cb2eda291112236ddf17053a04f782" title="rtabmap::RegistrationIcp\l::computeTransformationImpl" alt="" coords="230,173,424,212"/>
+<area shape="rect" id="node10" href="$namespacertabmap_1_1util3d.html#a2a8d178144e90cfbbebaea24e4fee5e6" title="rtabmap::util3d::assemble\lTextureMesh" alt="" coords="240,236,414,275"/>
+<area shape="rect" id="node11" href="$namespacertabmap_1_1util3d.html#ac00c794a655fb4d5b36626b6cbe15a63" title="rtabmap::util3d::assemble\lPolygonMesh" alt="" coords="240,299,414,337"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_rtabmap.html#ad7f085b6ae0fd3c7077c500c028fd5c3" title="Main loop of rtabmap. " alt="" coords="472,55,658,80"/>
+<area shape="rect" id="node4" href="$namespacertabmap.html#acc1733b46ed5a7a79a7960108e4ceaae" title="rtabmap::databaseRecovery" alt="" coords="706,5,894,31"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_rtabmap.html#a35cf8fd93f77d1c148ae6d3107725750" title="rtabmap::Rtabmap::process" alt="" coords="707,55,893,80"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_rtabmap_thread.html#a921bb6c18683103d08270a7e665d89dc" title="rtabmap::RtabmapThread\l::process" alt="" coords="713,104,887,143"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_rtabmap_thread.html#a058322d209e57d80cee2dee015061422" title="rtabmap::RtabmapThread\l::mainLoop" alt="" coords="942,104,1116,143"/>
+</map>

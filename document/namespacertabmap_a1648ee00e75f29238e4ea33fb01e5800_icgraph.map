@@ -1,0 +1,8 @@
+<map id="rtabmap::inFrontOfBothCameras" name="rtabmap::inFrontOfBothCameras">
+<area shape="rect" id="node2" href="$classrtabmap_1_1_epipolar_geometry.html#a91f23890e411d6a550a8add7f950a62c" title="rtabmap::EpipolarGeometry\l::findPFromE" alt="" coords="268,35,453,73"/>
+<area shape="rect" id="node3" href="$classrtabmap_1_1_odometry_mono.html#af59c2d45e7a683f8cd3dfc22def75733" title="rtabmap::OdometryMono\l::computeTransform" alt="" coords="748,5,917,44"/>
+<area shape="rect" id="node4" href="$namespacertabmap_1_1util3d.html#a3f480e53cb9aa1bc1e36eb55ecf47944" title="rtabmap::util3d::generate\lWords3DMono" alt="" coords="501,63,671,101"/>
+<area shape="rect" id="node5" href="$classrtabmap_1_1_memory.html#ae57c1e215b5449431b93588dd4217703" title="rtabmap::Memory::createSignature" alt="" coords="719,68,946,93"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_registration_vis.html#ad58a6cdcc37eb85639f50da6089f0e32" title="rtabmap::RegistrationVis\l::computeTransformationImpl" alt="" coords="735,117,930,156"/>
+<area shape="rect" id="node6" href="$classrtabmap_1_1_memory.html#aae43fd080c6bc9773fa58f1c36e6684f" title="rtabmap::Memory::update" alt="" coords="994,68,1168,93"/>
+</map>

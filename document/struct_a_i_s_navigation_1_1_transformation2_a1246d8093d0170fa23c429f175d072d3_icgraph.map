@@ -1,0 +1,9 @@
+<map id="AISNavigation::Transformation2::toPoseType" name="AISNavigation::Transformation2::toPoseType">
+<area shape="rect" id="node2" href="$struct_a_i_s_navigation_1_1_pose_propagator.html#a973be87df0f2f535fe9d78f64939ebb3" title="AISNavigation::PosePropagator\l::perform" alt="" coords="266,5,475,44"/>
+<area shape="rect" id="node3" href="$struct_a_i_s_navigation_1_1_tree_pose_graph2.html#aa457660f91e1abc6aafb062763b75bdf" title="AISNavigation::TreePoseGraph2\l::initializeFromParentEdge" alt="" coords="263,68,478,107"/>
+<area shape="rect" id="node4" href="$struct_a_i_s_navigation_1_1_tree_pose_graph2.html#a299d343efb58da01170de4c7ef6d2e70" title="AISNavigation::TreePoseGraph2\l::collapseEdge" alt="" coords="263,131,478,169"/>
+<area shape="rect" id="node5" href="$struct_a_i_s_navigation_1_1_tree_optimizer2.html#ad03e4183a5e76d34659ceee01016fc44" title="AISNavigation::TreeOptimizer2\l::propagateErrors" alt="" coords="268,193,473,232"/>
+<area shape="rect" id="node8" href="$struct_a_i_s_navigation_1_1_tree_optimizer2.html#a774e0528bbafba2efe90b91a17c257aa" title="AISNavigation::TreeOptimizer2\l::error" alt="" coords="268,256,473,295"/>
+<area shape="rect" id="node6" href="$struct_a_i_s_navigation_1_1_tree_optimizer2.html#a9d66e0481e72374946df9c596d857f40" title="AISNavigation::TreeOptimizer2\l::iterate" alt="" coords="526,193,731,232"/>
+<area shape="rect" id="node7" href="$classrtabmap_1_1_optimizer_t_o_r_o.html#a1f5a5cf0dc2935b41a79bf32fe01e745" title="rtabmap::OptimizerTORO\l::optimize" alt="" coords="779,193,952,232"/>
+</map>

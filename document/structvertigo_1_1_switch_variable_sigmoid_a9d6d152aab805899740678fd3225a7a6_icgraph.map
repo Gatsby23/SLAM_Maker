@@ -1,0 +1,9 @@
+<map id="vertigo::SwitchVariableSigmoid::SwitchVariableSigmoid" name="vertigo::SwitchVariableSigmoid::SwitchVariableSigmoid">
+<area shape="rect" id="node2" href="$structvertigo_1_1_switch_variable_sigmoid.html#a2228083b71b3db4e2586e69f7a584dde" title="vertigo::SwitchVariableSigmoid\l::retract" alt="" coords="257,12,462,51"/>
+<area shape="rect" id="node4" href="$structvertigo_1_1_switch_variable_sigmoid.html#a9737e912ef6b94f5fd30c6939b853519" title="vertigo::SwitchVariableSigmoid\l::identity" alt="" coords="257,75,462,113"/>
+<area shape="rect" id="node5" href="$structvertigo_1_1_switch_variable_sigmoid.html#a3134381421ae329f340ebe3fbc914bfc" title="vertigo::SwitchVariableSigmoid\l::compose" alt="" coords="257,137,462,176"/>
+<area shape="rect" id="node6" href="$structvertigo_1_1_switch_variable_sigmoid.html#afc7ff2139d48bc91970c9fc07627ac1f" title="vertigo::SwitchVariableSigmoid\l::between" alt="" coords="257,200,462,239"/>
+<area shape="rect" id="node7" href="$structvertigo_1_1_switch_variable_sigmoid.html#a2f059018771cedf0439831261c2cf0de" title="vertigo::SwitchVariableSigmoid\l::inverse" alt="" coords="257,263,462,301"/>
+<area shape="rect" id="node8" href="$structvertigo_1_1_switch_variable_sigmoid.html#aebeacda308027cb60cf93f0577f19fd8" title="vertigo::SwitchVariableSigmoid\l::Expmap" alt="" coords="257,325,462,364"/>
+<area shape="rect" id="node3" href="$structgtsam_1_1traits_3_01vertigo_1_1_switch_variable_sigmoid_01_4.html#a88fe44b6436f5816b2e79a74851bb471" title="gtsam::traits\&lt; vertigo\l::SwitchVariableSigmoid\l \&gt;::Retract" alt="" coords="510,5,674,57"/>
+</map>

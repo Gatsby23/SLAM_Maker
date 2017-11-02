@@ -1,0 +1,4 @@
+<map id="rtabmap::square" name="rtabmap::square">
+<area shape="rect" id="node2" href="$namespacertabmap.html#add3b82abd9bde409904d4d971aa2113d" title="rtabmap::DEG2RAD" alt="" coords="172,5,314,31"/>
+<area shape="rect" id="node3" href="$namespacertabmap.html#a2dd82d780655e9bd366fa7318c614fe5" title="rtabmap::RAD2DEG" alt="" coords="172,55,314,80"/>
+</map>
